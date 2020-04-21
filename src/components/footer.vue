@@ -75,42 +75,5 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style rel="stylesheet/scss" lang="scss" scoped>
-a {
-  color: #fff;
-}
-.sitestatesJs {
-  display: block;
-  padding: 3px;
-}
-.footer {
-  // width: 100%;
-  height: 250px;
-  display: flex;
-  background: #000;
-  padding: 30px 10rem;
-  color: #fff;
-  font-size: 0.8rem;
-  .text {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-  }
-  .footerLeft {
-    display: flex;
-    justify-content: flex-end;
-    flex: 1;
-    padding-right: 30px;
-    border-right: 1px solid #fff;
-    .img1 {
-      display: block;
-      margin-right: 10px;
-      margin-top: 12px;
-    }
-  }
-  .footerRight {
-    flex: 1;
-    padding-left: 30px;
-    padding-top: 10px;
-  }
-}
+@import './../assets/styles/footer.scss';
 </style>
