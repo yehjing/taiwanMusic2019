@@ -98,7 +98,8 @@ a{
   text-decoration: none;
 }
 body{
-  background: linear-gradient(to bottom, #a85757, #b96565);
+  // background: linear-gradient(to bottom, #a85757, #b96565);
+  background: #AA8E8E;
 }
 nav .router-link-active{
   transition:.2s;

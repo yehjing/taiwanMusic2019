@@ -18,6 +18,11 @@
     @content
   }
 };
+// @mixin mobile{
+//   @media(max-width:375px){
+//     @content;
+//   }
+// }
 // @mixin pc {
 //   @media (min-width: 992px) and (max-width: 1200px) {
 //     @content
