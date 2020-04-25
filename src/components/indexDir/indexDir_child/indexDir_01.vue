@@ -6,7 +6,7 @@
         <span>{{tab.autor}}</span>
       </div>
       <hr>
-      <component v-if="currentTab.name === tab.name" :is="currentTab.component"></component>
+      <component class="scrollContent" v-if="currentTab.name === tab.name" :is="currentTab.component"/>
     </div>
   </div>
 </template>
