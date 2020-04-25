@@ -6,7 +6,9 @@
       <div class="middleItem noLeaf" :class="activeName === 'comment_3' ? 'active' :''"  @click="clickLink('comment_3')">2018年度臺灣流行及跨界音樂文化與生態論述</div>
     </aside>
     <div class="viewRight">
-      <router-view></router-view>
+      <div>
+        <router-view></router-view>
+      </div>
       <Share></Share>
     </div>
   </section>

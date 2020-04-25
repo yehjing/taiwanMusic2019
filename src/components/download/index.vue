@@ -1,7 +1,7 @@
 <template>
   <section class="wrapContain">
     <aside class="linkLeft">
-      <div class="middleItem active noLeaf" @click="clickLink('')">2018臺灣音樂年鑑全文下載</div>
+      <div class="middleItem active noLeaf" @click="clickLink('')">2019臺灣音樂年鑑全文下載</div>
     </aside>
     <div class="viewRight">
       <router-view></router-view>
@@ -11,20 +11,21 @@
 </template>
 
 <script>
-import Share from './../share.vue';
+import Share from '../share.vue';
+
 export default {
-  components:{
-    Share
+  components: {
+    Share,
   },
   data() {
     return {
     };
   },
   methods: {
-    clickLink (data) {
-      this.$router.push(`/download/${data}`)
-    }
-  }
+    clickLink(data) {
+      this.$router.push(`/download/${data}`);
+    },
+  },
 };
 </script>
 

@@ -488,13 +488,13 @@ export default new VueRouter({
       ],
     },
     {
-      name: '2018臺灣音樂年鑑全文下載',
+      name: '2019臺灣音樂年鑑全文下載',
       path: '/download',
       component: Download,
       children: [
         {
           path: '/',
-          name: '2018臺灣音樂年鑑全文下載',
+          name: '2019臺灣音樂年鑑全文下載',
           component: Download_1,
         },
       ],

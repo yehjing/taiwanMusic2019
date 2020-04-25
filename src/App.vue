@@ -15,9 +15,10 @@
           <li><router-link :to="'/comment'">文化評論</router-link></li>
           <li><router-link :to="'/videoRecord'">影音紀錄</router-link></li>
           <li><router-link :to="'/indexDir'">索引名錄</router-link></li>
-          <li><router-link :to="'/download'">2018臺灣音樂年鑑<br>全文下載</router-link></li>
+          <li><router-link :to="'/download'">2019臺灣音樂年鑑<br>全文下載</router-link></li>
         </ul>
       </nav>
+      <MobileHomeNav v-show="isHome"/>
       <section v-show="isOther" class="mainArea">
         <div class="insideArea">
           <router-view></router-view>
@@ -34,6 +35,7 @@ import SearchBar from './components/searchBar.vue';
 import Home from './components/home.vue';
 import BreadCrumb from './components/breadCrumb.vue';
 import Footer from './components/footer.vue';
+import MobileHomeNav from './components/mobileHomeNav.vue';
 
 export default {
   name: 'App',
@@ -42,6 +44,7 @@ export default {
     BreadCrumb,
     Footer,
     Home,
+    MobileHomeNav,
   },
   data() {
     return {

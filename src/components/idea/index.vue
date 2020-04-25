@@ -4,7 +4,9 @@
       <div class="middleItem active noLeaf" @click="clickLink('')">編輯理念與體例說明</div>
     </aside>
     <div class="viewRight">
-      <router-view></router-view>
+      <div>
+        <router-view></router-view>
+      </div>
       <Share></Share>
     </div>
   </section>

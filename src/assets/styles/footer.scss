@@ -25,6 +25,7 @@ a {
   }
   @include mobile{
     flex-direction: column;
+    padding: 15px;
   }
   .text {
     display: flex;
@@ -39,6 +40,9 @@ a {
     border-right: 1px solid #fff;
     @include pad{
       border-right: none;
+    }
+    @include mobile{
+      padding-right: 0;
     }
     .img1 {
       display: block;

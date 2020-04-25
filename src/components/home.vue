@@ -1,5 +1,5 @@
 <template>
-  <section class="footer">
+  <section>
     <div class="indexBg"></div>
   </section>
 </template>
@@ -26,5 +26,10 @@ $image-path: './../assets';
     height: calc(100vh - 152px);
     background:url('#{$image-path}/indexBg.png') no-repeat 0 0;
     background-size: cover;
+  }
+  @media (max-width: 576px) {
+    .indexBg{
+      height: 200px;
+    }
   }
 </style>

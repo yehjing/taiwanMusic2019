@@ -16,46 +16,33 @@
 
 <script>
 export default {
-  name:'BreadCrumb',
+  name: 'BreadCrumb',
   data() {
     return {
-    }
+    };
   },
-  created(){
+  created() {
     // console.log(this.$route)
   },
-  computed:{
-    bread(){
-      return this.$route.matched
-    }
+  computed: {
+    bread() {
+      return this.$route.matched;
+    },
   },
   methods: {
     name(itemName) {
       // console.log('ccc',itemName.indexOf('/'))
-      if(itemName && itemName.indexOf('/') !== -1){
-        let nameList = itemName.split('/')
-        return `${nameList[0]}\xa0\ / \xa0\ ${nameList[1]}`
-      }else {
-        return itemName
+      if (itemName && itemName.indexOf('/') !== -1) {
+        const nameList = itemName.split('/');
+        return `${nameList[0]}\xa0\ / \xa0\ ${nameList[1]}`;
       }
-    }
-  }
+      return itemName;
+    },
+  },
 };
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style rel="stylesheet/scss" lang="scss" scoped>
-.breadCrumb{
-  width: calc(100% - 40px);
-  height: 35px;
-  background-color: #555454;
-  display: flex;
-  align-items: center;
-  padding:0 20px;
-  color:#fff;
-  a{
-    color:#fff;
-    text-decoration: none;
-  }
-}
+@import './../assets/styles/breadCrumb.scss';
 </style>

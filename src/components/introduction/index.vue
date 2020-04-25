@@ -12,7 +12,9 @@
       </div>
     </aside>
     <div class="viewRight">
-      <router-view></router-view>
+      <div>
+        <router-view></router-view>
+      </div>
       <Share></Share>
     </div>
   </section>
