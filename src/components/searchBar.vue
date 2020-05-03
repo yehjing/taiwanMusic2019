@@ -11,7 +11,17 @@
     <div class="gcse-search"></div>
 
     <!-- <gcse:search></gcse:search> -->
+    <!-- rwd menu start -->
     <div v-if="isOpen" class="burgerMenu">
+      <div class="toggleYears">
+        <div @click="toggleYears = !toggleYears" class="years">
+          <span>臺灣音樂年鑑2019</span>
+          <span>▾</span>
+        </div>
+        <div v-if="toggleYears" class="years" @click="toLastYear">
+          <span>臺灣音樂年鑑2018</span>
+        </div>
+      </div>
       <ul>
         <li @click="hiddenMenu"><router-link :to="'/introduction'">序</router-link></li>
         <li @click="hiddenMenu"><router-link :to="'/idea'">編輯理念<br>與體例說明</router-link></li>
@@ -32,6 +42,7 @@ export default {
   data() {
     return {
       isOpen: false,
+      toggleYears: false,
     };
   },
   methods: {
@@ -49,13 +60,16 @@ export default {
       html.classList.add('noscroll');
       body.classList.add('noscroll');
     },
+    toLastYear() {
+      document.location.href = 'https://taiwanmusicyearbook.ncfta.gov.tw/home';
+    },
   },
 };
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style rel="stylesheet/scss" lang="scss" scoped>
-.searchBar{
+  .searchBar{
     // width: 100%;
     display: flex;
     align-items: center;
@@ -111,9 +125,29 @@ export default {
       width: 60%;
       height: 100vh;
       background: #923b3e;
-      padding: 0 4%;
+      padding: 10% 4% 0 4%;
       z-index: 2;
       // overflow: hidden;
+      .toggleYears{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: calc(100% - 30px);
+        background: #363636;
+        color: #fff;
+        padding: 10px 15px;
+        .years{
+          display: flex;
+          justify-content: space-between;
+          &:nth-child(2){
+            margin-top: 20px;
+          }
+          // position: absolute;
+        }
+      }
       ul{
         li{
           display: flex;
