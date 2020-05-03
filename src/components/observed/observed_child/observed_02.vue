@@ -2,7 +2,7 @@
   <div>
     <ObservedPreface3/>
     <div v-for="tab in tabs" :key="tab.name" @click="changeView(tab)">
-      <div class="title">
+      <div class="title rwdTitle">
         <h2>{{ tab.name }}</h2>
         <span>{{tab.autor}}</span>
       </div>
@@ -18,11 +18,11 @@ import Observed13 from './observed_13.vue';
 
 
 const tabs = [
-  {
-    name: '流行音樂',
-    autor: '',
-    component: ObservedPreface3,
-  },
+  // {
+  //   name: '流行音樂',
+  //   autor: '',
+  //   component: ObservedPreface3,
+  // },
   {
     name: '2018年度流行音樂活動觀察與評介',
     autor: '徐玫玲',

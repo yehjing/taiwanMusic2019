@@ -2,7 +2,7 @@
   <div>
     <ObservedPreface1/>
     <div v-for="tab in tabs" :key="tab.name" @click="changeView(tab)">
-      <div class="title">
+      <div class="title rwdTitle">
         <h2>{{ tab.name }}</h2>
         <span>{{tab.autor}}</span>
       </div>
