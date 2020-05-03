@@ -54,13 +54,18 @@ export default {
     };
   },
   watch: {
-    // '$route'(){
-    //   if(this.$route.path.split('/').indexOf(this.now) !== -1){
-    //     this.color = 'color'
-    //   }else {
-    //     this.color = ''
-    //   }
-    // }
+    $route() {
+      // console.log('rorororor')
+      this.rwdStyle();
+      // if (this.$route.path.split('/').indexOf(this.now) !== -1) {
+      //   this.color = 'color';
+      // } else {
+      //   this.color = '';
+      // }
+    },
+  },
+  updated() {
+    this.rwdStyle();
   },
   computed: {
     isHome() {
@@ -84,8 +89,28 @@ export default {
     document.documentElement.className = NODE_ENV;
 
     // document.getElementById('gsc-i-id1').setAttribute('placeholder','搜尋')
+    window.addEventListener('resize', this.rwdStyle);
+    this.rwdStyle();
   },
   methods: {
+    rwdStyle() {
+      console.log('document.body.clientWidth <= 576', document.body.clientWidth);
+      if (document.body.clientWidth <= 576) {
+        if (!this.$route.meta.isPreface) {
+          console.log('if');
+          document.querySelector('.share').style.display = 'flex';
+          document.querySelector('.viewRight').style.background = '#fff';
+        } else {
+          console.log('else  else');
+          document.querySelector('.viewRight').style.background = 'none';
+          document.querySelector('.share').style.display = 'none';
+        }
+      } else {
+        console.log('else');
+        document.querySelector('.viewRight').style.background = '#fff';
+        document.querySelector('.share').style.display = 'flex';
+      }
+    },
   },
 };
 </script>

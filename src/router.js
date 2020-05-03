@@ -153,21 +153,25 @@ export default new VueRouter({
           name: '傳統音樂',
           path: '/',
           component: Observed_00,
+          meta: { isPreface: true },
         },
         {
           name: '藝術(當代創作)音樂',
           path: 'Observed_01',
           component: Observed_01,
+          meta: { isPreface: true },
         },
         {
           name: '流行音樂',
           path: 'Observed_02',
           component: Observed_02,
+          meta: { isPreface: true },
         },
         {
           name: '跨界音樂',
           path: 'Observed_03',
           component: Observed_03,
+          meta: { isPreface: true },
         },
         {
           name: '傳統音樂 / 南管音樂',
@@ -272,21 +276,25 @@ export default new VueRouter({
           name: '傳統音樂',
           path: '/',
           component: VideoRecord_00,
+          meta: { isPreface: true },
         },
         {
           name: '藝術(當代創作)音樂',
           path: 'videoRecord_01',
           component: VideoRecord_01,
+          meta: { isPreface: true },
         },
         {
           name: '流行音樂',
           path: 'videoRecord_02',
           component: VideoRecord_02,
+          meta: { isPreface: true },
         },
         {
           name: '跨界音樂',
           path: 'videoRecord_03',
           component: VideoRecord_03,
+          meta: { isPreface: true },
         },
         {
           name: '傳統音樂 / 南管音樂',
@@ -369,11 +377,13 @@ export default new VueRouter({
           name: '索引名錄',
           path: '/',
           component: IndexDir_00,
+          meta: { isPreface: true },
         },
         {
           name: '索引名錄',
           path: 'indexDir_01',
           component: IndexDir_01,
+          meta: { isPreface: true },
         },
         {
           name: '團體與個人 / 南管音樂篇',
