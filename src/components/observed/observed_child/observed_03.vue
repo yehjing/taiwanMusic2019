@@ -1,5 +1,6 @@
 <template>
   <div>
+    <ObservedPreface4/>
     <div v-for="tab in tabs" :key="tab.name" @click="changeView(tab)">
       <div class="title">
         <h2>{{ tab.name }}</h2>
@@ -17,11 +18,11 @@ import Observed14 from './observed_14.vue';
 
 
 const tabs = [
-  {
-    name: '跨界音樂',
-    autor: '',
-    component: ObservedPreface4,
-  },
+  // {
+  //   name: '跨界音樂',
+  //   autor: '',
+  //   component: ObservedPreface4,
+  // },
   {
     name: '時空交織的絢爛迸發：2018年度跨界音樂活動觀察與評介',
     autor: '陳慧珊',
@@ -31,6 +32,7 @@ const tabs = [
 ];
 
 export default {
+  components: { ObservedPreface4 },
   data() {
     return {
       currentTab: tabs[0],

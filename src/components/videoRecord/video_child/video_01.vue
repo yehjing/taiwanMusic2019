@@ -1,5 +1,6 @@
 <template>
   <div>
+    <VideoPreface2/>
     <div v-for="tab in tabs" :key="tab.name" @click="changeView(tab)">
       <div class="title">
         <h2>{{ tab.name }}</h2>
@@ -18,11 +19,11 @@ import Video12 from './video_12.vue';
 
 
 const tabs = [
-  {
-    name: '藝術(當代創作)音樂(序)',
-    autor: '',
-    component: VideoPreface2,
-  },
+  // {
+  //   name: '藝術(當代創作)音樂(序)',
+  //   autor: '',
+  //   component: VideoPreface2,
+  // },
   {
     name: '國樂',
     autor: '',
@@ -38,6 +39,7 @@ const tabs = [
 ];
 
 export default {
+  components: { VideoPreface2 },
   data() {
     return {
       currentTab: tabs[0],

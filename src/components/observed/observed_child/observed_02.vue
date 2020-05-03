@@ -1,5 +1,6 @@
 <template>
   <div>
+    <ObservedPreface3/>
     <div v-for="tab in tabs" :key="tab.name" @click="changeView(tab)">
       <div class="title">
         <h2>{{ tab.name }}</h2>
@@ -31,6 +32,7 @@ const tabs = [
 ];
 
 export default {
+  components: { ObservedPreface3 },
   data() {
     return {
       currentTab: tabs[0],
