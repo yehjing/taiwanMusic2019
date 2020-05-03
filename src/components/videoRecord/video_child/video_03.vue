@@ -6,7 +6,7 @@
         <span>{{tab.autor}}</span>
       </div>
       <hr>
-      <component class="scrollContent" v-if="currentTab.name === tab.name" :is="currentTab.component"/>
+      <!-- <component  v-if="currentTab.name === tab.name" :is="currentTab.component"/> -->
     </div>
   </div>
 </template>
@@ -26,6 +26,7 @@ const tabs = [
     name: '跨界音樂',
     autor: '',
     component: Video14,
+    path: 'videoRecord_14',
   },
 ];
 
@@ -46,6 +47,7 @@ export default {
       //     name: tab.name,
       //   },
       // });
+      this.$router.push(`/videoRecord/${tab.path}`);
       this.currentTab = tab;
     },
   },

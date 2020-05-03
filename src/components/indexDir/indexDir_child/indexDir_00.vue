@@ -6,7 +6,9 @@
         <span>{{tab.autor}}</span>
       </div>
       <hr>
-      <component class="scrollContent" v-if="currentTab.name === tab.name" :is="currentTab.component"/>
+      <!-- <router-view></router-view> -->
+      <!-- 原本要做在同一頁 -->
+      <!-- <component  v-if="currentTab.name === tab.name" :is="currentTab.component"/> -->
     </div>
   </div>
 </template>
@@ -36,56 +38,67 @@ const tabs = [
     name: '南管音樂篇',
     autor: '',
     component: IndexDir12,
+    path: 'indexDir_12',
   },
   {
     name: '北管音樂篇',
     autor: '',
     component: IndexDir13,
+    path: 'indexDir_13',
   },
   {
     name: '福佬歌謠篇',
     autor: '',
     component: IndexDir14,
+    path: 'indexDir_14',
   },
   {
     name: '客家音樂篇',
     autor: '',
     component: IndexDir15,
+    path: 'indexDir_15',
   },
   {
     name: '原住民音樂篇',
     autor: '',
     component: IndexDir16,
+    path: 'indexDir_16',
   },
   {
     name: '佛、釋教音樂篇',
     autor: '',
     component: IndexDir17,
+    path: 'indexDir_17',
   },
   {
     name: '道、法教音樂篇',
     autor: '',
     component: IndexDir18,
+    path: 'indexDir_18',
   },
   {
     name: '國樂篇',
     autor: '',
     component: IndexDir19,
+    path: 'indexDir_19',
   },
   {
     name: '西樂及混合編制篇',
     autor: '',
     component: IndexDir20,
+    path: 'indexDir_20',
   },
   {
     name: '流行音樂篇',
     autor: '',
     component: IndexDir21,
+    path: 'indexDir_21',
   },
   {
     name: '跨界樂團',
     autor: '',
     component: IndexDir22,
+    path: 'indexDir_22',
   },
 ];
 
@@ -106,6 +119,8 @@ export default {
       //     name: tab.name,
       //   },
       // });
+      console.log(tab.path);
+      this.$router.push(`/indexDir/${tab.path}`);
       this.currentTab = tab;
     },
   },

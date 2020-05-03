@@ -5,7 +5,7 @@
       <!-- <span>2019 / 04 / 06</span> -->
     </div>
     <hr />
-    <div class="scrollContent">
+    <div >
       <p class="firstRow"></p>
       <!-- <h3>音樂藝術的流長軌跡</h3> -->
       <p>

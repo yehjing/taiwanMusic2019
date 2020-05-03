@@ -5,7 +5,7 @@
       <!-- <span>2019 / 04 / 06</span> -->
     </div>
     <hr />
-    <div class="scrollContent">
+    <div >
       <p class="firstRow"></p>
       <h3>壹、《2018臺灣音樂年鑑》的關照面向</h3>
       <p>

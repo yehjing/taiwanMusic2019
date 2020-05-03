@@ -6,7 +6,7 @@
         <span>{{tab.autor}}</span>
       </div>
       <hr>
-      <component class="scrollContent" v-if="currentTab.name === tab.name" :is="currentTab.component"/>
+      <!-- <component  v-if="currentTab.name === tab.name" :is="currentTab.component"/> -->
     </div>
   </div>
 </template>
@@ -19,7 +19,7 @@ import Video12 from './video_12.vue';
 
 const tabs = [
   {
-    name: '藝術(當代創作)音樂',
+    name: '藝術(當代創作)音樂(序)',
     autor: '',
     component: VideoPreface2,
   },
@@ -27,11 +27,13 @@ const tabs = [
     name: '國樂',
     autor: '',
     component: Video11,
+    path: 'videoRecord_11',
   },
   {
     name: '西樂及混合編制',
     autor: '',
     component: Video12,
+    path: 'videoRecord_12',
   },
 ];
 
@@ -52,6 +54,7 @@ export default {
       //     name: tab.name,
       //   },
       // });
+      this.$router.push(`/videoRecord/${tab.path}`);
       this.currentTab = tab;
     },
   },

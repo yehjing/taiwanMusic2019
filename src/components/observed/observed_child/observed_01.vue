@@ -6,7 +6,7 @@
         <span>{{tab.autor}}</span>
       </div>
       <hr>
-      <component class="scrollContent" v-if="currentTab.name === tab.name" :is="currentTab.component"/>
+      <!-- <component  v-if="currentTab.name === tab.name" :is="currentTab.component"/> -->
     </div>
   </div>
 </template>
@@ -27,11 +27,13 @@ const tabs = [
     name: '2018年度國樂活動觀察與評介',
     autor: '張儷瓊',
     component: Observed11,
+    path: 'observed_11',
   },
   {
     name: '2018年度西樂及混合編制活動觀察與評介',
     autor: '連憲升',
     component: Observed12,
+    path: 'observed_12',
   },
 ];
 
@@ -52,6 +54,7 @@ export default {
       //     name: tab.name,
       //   },
       // });
+      this.$router.push(`/observed/${tab.path}`);
       this.currentTab = tab;
     },
   },

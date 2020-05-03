@@ -1,9 +1,9 @@
 <template>
   <div>
-    <!-- <div class="title">
+    <div class="title">
       <h2>原住民音樂篇</h2>
     </div>
-    <hr> -->
+    <hr>
     <p class="firstRow"></p>
     <h3>
       一、阿美族

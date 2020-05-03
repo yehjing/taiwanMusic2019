@@ -169,76 +169,76 @@ export default new VueRouter({
           path: 'Observed_03',
           component: Observed_03,
         },
-      //   {
-      //     name: '傳統音樂 / 南管音樂',
-      //     path: 'Observed_1',
-      //     component: Observed_1,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 北管音樂',
-      //     path: 'Observed_2',
-      //     component: Observed_2,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 福佬歌謠',
-      //     path: 'Observed_3',
-      //     component: Observed_3,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 客家音樂',
-      //     path: 'Observed_4',
-      //     component: Observed_4,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 原住民音樂－泰雅族、賽夏族、阿美族、卑南族音樂',
-      //     path: 'Observed_5',
-      //     component: Observed_5,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 原住民音樂－太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族',
-      //     path: 'Observed_6',
-      //     component: Observed_6,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 原住民音樂－排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族',
-      //     path: 'Observed_7',
-      //     component: Observed_7,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
-      //     path: 'Observed_8',
-      //     component: Observed_8,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 佛、釋教音樂',
-      //     path: 'Observed_9',
-      //     component: Observed_9,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 道、法教音樂',
-      //     path: 'Observed_10',
-      //     component: Observed_10,
-      //   },
-        // {
-        //   name: '藝術(當代創作)音樂 / 國樂',
-        //   path: 'Observed_11',
-        //   component: Observed_11,
-        // },
-      //   {
-      //     name: '藝術(當代創作)音樂 / 西樂及混合編制',
-      //     path: 'Observed_12',
-      //     component: Observed_12,
-      //   },
-        // {
-        //   name: '流行音樂 / 流行音樂',
-        //   path: 'Observed_13',
-        //   component: Observed_13,
-        // },
-        // {
-        //   name: '跨界音樂 / 跨界音樂',
-        //   path: 'Observed_14',
-        //   component: Observed_14,
-        // },
+        {
+          name: '傳統音樂 / 南管音樂',
+          path: 'Observed_1',
+          component: Observed_1,
+        },
+        {
+          name: '傳統音樂 / 北管音樂',
+          path: 'Observed_2',
+          component: Observed_2,
+        },
+        {
+          name: '傳統音樂 / 福佬歌謠',
+          path: 'Observed_3',
+          component: Observed_3,
+        },
+        {
+          name: '傳統音樂 / 客家音樂',
+          path: 'Observed_4',
+          component: Observed_4,
+        },
+        {
+          name: '傳統音樂 / 原住民音樂－泰雅族、賽夏族、阿美族、卑南族音樂',
+          path: 'Observed_5',
+          component: Observed_5,
+        },
+        {
+          name: '傳統音樂 / 原住民音樂－太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族',
+          path: 'Observed_6',
+          component: Observed_6,
+        },
+        {
+          name: '傳統音樂 / 原住民音樂－排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族',
+          path: 'Observed_7',
+          component: Observed_7,
+        },
+        {
+          name: '傳統音樂 / 原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
+          path: 'Observed_8',
+          component: Observed_8,
+        },
+        {
+          name: '傳統音樂 / 佛、釋教音樂',
+          path: 'Observed_9',
+          component: Observed_9,
+        },
+        {
+          name: '傳統音樂 / 道、法教音樂',
+          path: 'Observed_10',
+          component: Observed_10,
+        },
+        {
+          name: '藝術(當代創作)音樂 / 國樂',
+          path: 'Observed_11',
+          component: Observed_11,
+        },
+        {
+          name: '藝術(當代創作)音樂 / 西樂及混合編制',
+          path: 'Observed_12',
+          component: Observed_12,
+        },
+        {
+          name: '流行音樂 / 流行音樂',
+          path: 'Observed_13',
+          component: Observed_13,
+        },
+        {
+          name: '跨界音樂 / 跨界音樂',
+          path: 'Observed_14',
+          component: Observed_14,
+        },
       ],
     },
     {
@@ -377,7 +377,7 @@ export default new VueRouter({
         },
         {
           name: '團體與個人 / 南管音樂篇',
-          path: 'idexDir_12',
+          path: 'indexDir_12',
           component: IndexDir_12,
         },
         {

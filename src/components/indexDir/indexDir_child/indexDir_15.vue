@@ -1,9 +1,9 @@
 <template>
   <div>
-    <!-- <div class="title">
+    <div class="title">
       <h2>客家音樂篇</h2>
     </div>
-    <hr> -->
+    <hr>
     <p class="firstRow"></p>
     <h3>1.客家傳統歌謠</h3>
 

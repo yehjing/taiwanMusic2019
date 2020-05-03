@@ -5,7 +5,7 @@
       <!-- <span>2019 / 04 / 06</span> -->
     </div>
     <hr />
-    <div class="scrollContent">
+    <div >
       <p class="firstRow"></p>
       <!-- <h3>文化脈絡下的樂音迴響</h3> -->
       <p>

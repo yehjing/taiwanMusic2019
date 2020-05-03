@@ -6,13 +6,13 @@
         <span>{{tab.autor}}</span>
       </div>
       <hr>
-      <component class="scrollContent" v-if="currentTab.name === tab.name" :is="currentTab.component"/>
+      <!-- <component  v-if="currentTab.name === tab.name" :is="currentTab.component"/> -->
     </div>
   </div>
 </template>
 
 <script>
-// import IndexDirPreface1 from './indexDir_preface1.vue';
+import IndexDirPreface1 from './indexDir_preface1.vue';
 import IndexDir1 from './indexDir_1.vue';
 import IndexDir2 from './indexDir_2.vue';
 import IndexDir3 from './indexDir_3.vue';
@@ -27,65 +27,76 @@ import IndexDir11 from './indexDir_11.vue';
 
 
 const tabs = [
-  // {
-  //   name: '序',
-  //   autor: '',
-  //   component: IndexDirPreface1,
-  // },
+  {
+    name: '序',
+    autor: '',
+    component: IndexDirPreface1,
+  },
   {
     name: '南管音樂篇',
     autor: '',
     component: IndexDir1,
+    path: 'indexDir_1',
   },
   {
     name: '北管音樂篇',
     autor: '',
     component: IndexDir2,
+    path: 'indexDir_2',
   },
   {
     name: '福佬歌謠篇',
     autor: '',
     component: IndexDir3,
+    path: 'indexDir_3',
   },
   {
     name: '客家音樂篇',
     autor: '',
     component: IndexDir4,
+    path: 'indexDir_4',
   },
   {
     name: '原住民音樂篇',
     autor: '',
     component: IndexDir5,
+    path: 'indexDir_5',
   },
   {
     name: '佛、釋教音樂篇',
     autor: '',
     component: IndexDir6,
+    path: 'indexDir_6',
   },
   {
     name: '道、法教音樂篇',
     autor: '',
     component: IndexDir7,
+    path: 'indexDir_7',
   },
   {
     name: '國樂篇',
     autor: '',
     component: IndexDir8,
+    path: 'indexDir_8',
   },
   {
     name: '西樂及混合編制篇',
     autor: '',
     component: IndexDir9,
+    path: 'indexDir_9',
   },
   {
     name: '流行音樂篇',
     autor: '',
     component: IndexDir10,
+    path: 'indexDir_10',
   },
   {
     name: '綜合型藝術節',
     autor: '',
     component: IndexDir11,
+    path: 'indexDir_11',
   },
 ];
 
@@ -101,11 +112,7 @@ export default {
   },
   methods: {
     changeView(tab) {
-      // this.$router.push({
-      //   params: {
-      //     name: tab.name,
-      //   },
-      // });
+      this.$router.push(`/indexDir/${tab.path}`);
       this.currentTab = tab;
     },
   },

@@ -6,7 +6,7 @@
         <span>{{tab.autor}}</span>
       </div>
       <hr>
-      <component class="scrollContent" v-if="currentTab.name === tab.name" :is="currentTab.component"/>
+      <!-- <component  v-if="currentTab.name === tab.name" :is="currentTab.component"/> -->
     </div>
   </div>
 </template>
@@ -35,51 +35,61 @@ const tabs = [
     name: '2018年度南管音樂活動觀察與評介',
     autor: '林珀姬',
     component: Observed1,
+    path: 'observed_1',
   },
   {
     name: '歷程與動態：2018年度北管音樂活動觀察與評介',
     autor: '范揚坤',
     component: Observed2,
+    path: 'observed_2',
   },
   {
     name: '2018年度福佬歌謠活動觀察與評介',
     autor: '黃玲玉',
     component: Observed3,
+    path: 'observed_3',
   },
   {
     name: '2018年度客家音樂活動觀察與評介',
     autor: '許馨文',
     component: Observed4,
+    path: 'observed_4',
   },
   {
     name: '2018年度泰雅族、賽夏族、阿美族、卑南族音樂活動觀察與評介',
     autor: '呂鈺秀',
     component: Observed5,
+    path: 'observed_5',
   },
   {
     name: '2018年度太魯閣族、鄒族、撒奇萊雅族、達悟族音樂活動觀察與評介',
     autor: '錢善華',
     component: Observed6,
+    path: 'observed_6',
   },
   {
     name: '詩歌樂舞交融之美：2018年度排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族音樂活動觀察與評介',
     autor: '周明傑',
     component: Observed7,
+    path: 'observed_7',
   },
   {
     name: '2018年度邵族、布農族、噶瑪蘭族、賽德克族音樂活動觀察與評介',
     autor: '魏心怡',
     component: Observed8,
+    path: 'observed_8',
   },
   {
     name: '2018年度佛、釋教音樂活動觀察與評介',
     autor: '蔡秉衡',
     component: Observed9,
+    path: 'observed_9',
   },
   {
     name: '2018年度道、法教音樂活動觀察與評介',
     autor: '李秀琴',
     component: Observed10,
+    path: 'observed_10',
   },
 ];
 
@@ -100,6 +110,7 @@ export default {
       //     name: tab.name,
       //   },
       // });
+      this.$router.push(`/observed/${tab.path}`);
       this.currentTab = tab;
     },
   },

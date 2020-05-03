@@ -1,5 +1,9 @@
 <template>
   <div>
+    <div class="title">
+      <h2>福佬歌謠篇</h2>
+    </div>
+    <hr>
     <p class="firstRow"></p>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <thead>

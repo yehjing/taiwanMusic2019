@@ -6,7 +6,7 @@
         <span>{{tab.autor}}</span>
       </div>
       <hr>
-      <component v-if="currentTab.name === tab.name" :is="currentTab.component"></component>
+      <!-- <component v-if="currentTab.name === tab.name" :is="currentTab.component"></component> -->
     </div>
   </div>
 </template>
@@ -26,6 +26,7 @@ const tabs = [
     name: '時空交織的絢爛迸發：2018年度跨界音樂活動觀察與評介',
     autor: '陳慧珊',
     component: Observed14,
+    path: 'observed_14',
   },
 ];
 
@@ -46,6 +47,7 @@ export default {
       //     name: tab.name,
       //   },
       // });
+      this.$router.push(`/observed/${tab.path}`);
       this.currentTab = tab;
     },
   },

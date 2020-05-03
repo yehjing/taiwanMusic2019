@@ -1,9 +1,9 @@
 <template>
   <div>
-    <!-- <div class="title">
+    <div class="title">
       <h2>南管音樂篇</h2>
     </div>
-    <hr> -->
+    <hr>
     <p class="firstRow"></p>
     <h3>一、南管團體</h3>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">

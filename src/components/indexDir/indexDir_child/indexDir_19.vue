@@ -1,9 +1,9 @@
 <template>
   <div>
-    <!-- <div class="title">
+    <div class="title">
       <h2>國樂篇</h2>
     </div>
-    <hr> -->
+    <hr>
     <p class="firstRow"></p>
     <h3>一、大型樂團</h3>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">

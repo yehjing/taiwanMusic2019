@@ -6,7 +6,7 @@
         <span>{{tab.autor}}</span>
       </div>
       <hr>
-      <component class="scrollContent" v-if="currentTab.name === tab.name" :is="currentTab.component"/>
+      <!-- <component  v-if="currentTab.name === tab.name" :is="currentTab.component"/> -->
     </div>
   </div>
 </template>
@@ -27,7 +27,7 @@ import Video10 from './video_10.vue';
 
 const tabs = [
   {
-    name: '傳統音樂',
+    name: '傳統音樂 (序)',
     autor: '',
     component: VideoPreface1,
   },
@@ -35,51 +35,61 @@ const tabs = [
     name: '南管音樂',
     autor: '',
     component: Video1,
+    path: 'videoRecord_1',
   },
   {
     name: '北管音樂',
     autor: '',
     component: Video2,
+    path: 'videoRecord_2',
   },
   {
     name: '福佬歌謠',
     autor: '',
     component: Video3,
+    path: 'videoRecord_3',
   },
   {
     name: '客家音樂',
     autor: '',
     component: Video4,
+    path: 'videoRecord_4',
   },
   {
     name: '原住民音樂－泰雅族、賽夏族、阿美族、卑南族',
     autor: '',
     component: Video5,
+    path: 'videoRecord_5',
   },
   {
     name: '原住民音樂－太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族',
     autor: '',
     component: Video6,
+    path: 'videoRecord_6',
   },
   {
     name: '原住民音樂－排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族',
     autor: '',
     component: Video7,
+    path: 'videoRecord_7',
   },
   {
     name: '原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
     autor: '',
     component: Video8,
+    path: 'videoRecord_8',
   },
   {
     name: '佛、釋教音樂',
     autor: '',
     component: Video9,
+    path: 'videoRecord_9',
   },
   {
     name: '道、法教音樂',
     autor: '',
     component: Video10,
+    path: 'videoRecord_10',
   },
 ];
 
@@ -100,6 +110,7 @@ export default {
       //     name: tab.name,
       //   },
       // });
+      this.$router.push(`/videoRecord/${tab.path}`);
       this.currentTab = tab;
     },
   },

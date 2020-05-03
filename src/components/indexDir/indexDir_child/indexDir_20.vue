@@ -1,9 +1,9 @@
 <template>
   <div>
-    <!-- <div class="title">
+    <div class="title">
       <h2>西樂及混合編制篇</h2>
     </div>
-    <hr> -->
+    <hr>
     <p class="firstRow"></p>
     <h3>
       一、樂團
