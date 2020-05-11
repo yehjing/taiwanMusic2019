@@ -27,7 +27,7 @@
             臺北市信義區松隆路327號8樓 02-2762-0112
           </td>
           <td>
-            http://www.blia.org.tw/
+            <a target="_" href="http://www.blia.org.tw/">連結</a>
           </td>
           <td>
             1991年由星雲法師創立
@@ -44,7 +44,7 @@
             臺北市中正區仁愛路一段21之33號 02-2351-7887 02-2393-4598
           </td>
           <td>
-            http://www.dongher.org.tw/
+            <a target="_" href="http://www.dongher.org.tw/">連結</a>
           </td>
           <td>
             1973年由心源和尚創立
@@ -61,7 +61,8 @@
             臺北市中正區忠孝東路一段23號 02-2341-5758
           </td>
           <td>
-            http://www.shandaotemple.org.tw/
+            <a target="_" href="http://www.shandaotemple.org.tw/">連結</a>
+            
           </td>
           <td>
             1929年創立，原名「淨土宗台北別院」，是日本淨土宗總本山知恩院在臺灣的別院。
@@ -78,7 +79,8 @@
             臺北市松山區民權東路三段136號11樓 02-2712-1177
           </td>
           <td>
-            pumens@ecp.fgs.org.tw
+            <a target="_" href="pumens@ecp.fgs.org.tw">連結</a>
+            
           </td>
           <td></td>
         </tr>
@@ -93,7 +95,8 @@
             臺北市松山區南京東路四段137號12樓
           </td>
           <td>
-            https://www.blisswisdom.org web.buddhism@blisswisdom.org
+            <a target="_" href="https://www.blisswisdom.org">連結</a>
+            <a target="_" href="web.buddhism@blisswisdom.org">連結</a>
           </td>
           <td>
             1992年日常老和尚創辦
@@ -110,7 +113,8 @@
             臺北市北投區光明路276號 02-2892-6111
           </td>
           <td>
-            http://sfcb.ddm.org.tw/
+            <a target="_" href="http://sfcb.ddm.org.tw/">連結</a>
+            
           </td>
           <td>
             1956年由東初老人創立
@@ -127,7 +131,8 @@
             臺北市北投區大業路65巷89號 02-2893-3161
           </td>
           <td>
-            http://ncm.ddm.org.tw/
+            <a target="_" href="http://ncm.ddm.org.tw/">連結</a>
+            
           </td>
           <td>
             1975年由東初老人創立
@@ -144,7 +149,8 @@
             臺北市文山區木柵路一段117巷2弄6號1樓 02-2211-0660
           </td>
           <td>
-            https://www.youtube.com/channel/UCMgvI1UACjTywm7RcLVmTtA/
+            <a target="_" href="https://www.youtube.com/channel/UCMgvI1UACjTywm7RcLVmTtA/">連結</a>
+            
           </td>
           <td>
             2018年成立
@@ -161,7 +167,8 @@
             新北市金山區法鼓路555號 02-2498-7171
           </td>
           <td>
-            http://fagushan.ddm.org.tw/
+            <a target="_" href="http://fagushan.ddm.org.tw/">連結</a>
+            
           </td>
           <td>
             由聖嚴法師創立，2005年10月21日開山。
@@ -193,7 +200,8 @@
             新北市五股區民義路二段21號 02-2292-2069
           </td>
           <td>
-            https://www.facebook.com/pages/智光禪寺/199946073371787
+            <a target="_" href="https://www.facebook.com/pages/智光禪寺/199946073371787">連結</a>
+            
           </td>
           <td>
             1968-1969年間由如學法師創建。
@@ -210,7 +218,8 @@
             新北市板橋區西門街69號 02-2966-1403 02-2966-0766
           </td>
           <td>
-            http://www.jyuns.org.tw
+            <a target="_" href="http://www.jyuns.org.tw">連結</a>
+            
           </td>
           <td>
             1856年成立，現址為1887年落成。
@@ -227,7 +236,8 @@
             新北市貢寮區香蘭街7之1號 02-2499-1100
           </td>
           <td>
-            https://www.093.org.tw/
+            <a target="_" href="https://www.093.org.tw/">連結</a>
+            
           </td>
           <td>
             由心道法師創立，1984年7月17日落成。
@@ -244,7 +254,8 @@
             新北市永和區中山路一段236號7樓 02-8231-6118
           </td>
           <td>
-            https://www.mwr.org.tw/
+            <a target="_" href="https://www.mwr.org.tw/">連結</a>
+            
           </td>
           <td>
             2001年由心道法師創立
@@ -261,7 +272,8 @@
             新北市中和區建八路165號10樓 02-8226-7559
           </td>
           <td>
-            http://www.cibsa.org.tw/
+            <a target="_" href="http://www.cibsa.org.tw/">連結</a>
+            
           </td>
           <td>
             2003年成立
@@ -278,7 +290,7 @@
             新北市汐止區大同路一段237號9樓 02-2641-7108
           </td>
           <td>
-            tars2010.6@gmail.com
+            <a target="_" href="tars2010.6@gmail.com">連結</a>
           </td>
           <td>
             1999年成立
@@ -295,7 +307,8 @@
             桃園市中壢區聖德路一段888巷11號 03-425-6168
           </td>
           <td>
-            http://www.ykcm.tw/
+            <a target="_" href="http://www.ykcm.tw/">連結</a>
+            
           </td>
           <td>
             1917年由妙果老和尚創立
@@ -312,7 +325,8 @@
             新竹市境福街141巷10號
           </td>
           <td>
-            https://www.chuefeng.org.tw/
+            <a target="_" href="https://www.chuefeng.org.tw/">連結</a>
+            
           </td>
           <td>
             1988年成立
@@ -329,7 +343,8 @@
             苗栗縣三義鄉中正路163之1號
           </td>
           <td>
-            https://www.facebook.com/jz872406/
+            <a target="_" href="https://www.facebook.com/jz872406/">連結</a>
+            
           </td>
           <td>
             1973年成立
@@ -374,7 +389,8 @@
             臺中市大里區永隆一街80號（鑑凡寺） 04-2406-7985
           </td>
           <td>
-            http://www.tcsbuda.org.tw
+            <a target="_" href="http://www.tcsbuda.org.tw">連結</a>
+            
           </td>
           <td>
             1947年成立中國佛教會臺灣省臺中縣佛教會，後於2016年更名。
@@ -391,7 +407,8 @@
             臺中市霧峰區仁德巷7號 04-2339-8165 04-2330-2085
           </td>
           <td>
-            http://wanfo.pixnet.net/blog/
+            <a target="_" href="http://wanfo.pixnet.net/blog/">連結</a>
+            
           </td>
           <td>
             1971年由聖印法師創立
@@ -408,7 +425,8 @@
             南投縣埔里鎮中台路2號 049-293-0215
           </td>
           <td>
-            https://www.ctworld.org.tw/
+            <a target="_" href="https://www.ctworld.org.tw/">連結</a>
+            
           </td>
           <td>
             由惟覺老和尚創立，2001年9月1日落成。
@@ -425,7 +443,8 @@
             南投縣鹿谷鄉愛鄉路34之1號 049-275-0010
           </td>
           <td>
-            https://www.huayenworld.org/
+            <a target="_" href="https://www.huayenworld.org/">連結</a>
+            
           </td>
           <td>
             由海雲繼夢法師創立，2014年總本山落成。
@@ -442,7 +461,8 @@
             臺南市左鎮區菜寮89之6號 06-573-2224
           </td>
           <td>
-            http://www.tuztuzo.com.tw/
+            <a target="_" href="http://www.tuztuzo.com.tw/">連結</a>
+            
           </td>
           <td>
             2004年由地清法師創立
@@ -459,7 +479,8 @@
             臺南市北區北園街89號 06-237-4035 06-237-5635
           </td>
           <td>
-            http://www.kaiyuan.org.tw/
+            <a target="_" href="http://www.kaiyuan.org.tw/">連結</a>
+            
           </td>
           <td>
             1690年創立，是臺灣第一座官建佛寺。
@@ -476,7 +497,8 @@
             高雄市鼓山區元亨街7號 07-521-3236#9
           </td>
           <td>
-            https://www.yhm.org.tw/
+            <a target="_" href="https://www.yhm.org.tw/">連結</a>
+            
           </td>
           <td>
             1743年由經元法師創立，原名「元興寺」，1891年重建並更名為「元亨寺」。
@@ -493,7 +515,8 @@
             高雄市六龜區舊潭3之3號 07-689-2259
           </td>
           <td>
-            http://www.clm.org.tw/
+            <a target="_" href="http://www.clm.org.tw/">連結</a>
+            
           </td>
           <td>
             1984年由宏安法師創立
@@ -510,7 +533,8 @@
             高雄市大樹區興田路153號 07-656-1921
           </td>
           <td>
-            https://www.fgs.org.tw/
+            <a target="_" href="https://www.fgs.org.tw/">連結</a>
+            
           </td>
           <td>
             由星雲法師創立，1967年5月16日開山。
@@ -527,7 +551,8 @@
             高雄市大樹區統嶺路1號 07-656-3033
           </td>
           <td>
-            http://www.fgsbmc.org.tw/
+            <a target="_" href="http://www.fgsbmc.org.tw/">連結</a>
+            
           </td>
           <td>
             由星雲法師創立，2011年落成。
@@ -544,7 +569,8 @@
             高雄市大樹區統嶺路3號 07-656-3055
           </td>
           <td>
-            religionbmc@gmail.com
+            <a target="_" href="religionbmc@gmail.com">連結</a>
+            
           </td>
           <td>
             2015年由星雲法師創立
@@ -561,7 +587,8 @@
             花蓮縣新城鄉精舍街88巷1號 03-826-6779
           </td>
           <td>
-            http://www.tzuchi.org.tw/
+            <a target="_" href="http://www.tzuchi.org.tw/">連結</a>
+            
           </td>
           <td>
             1966年5月14日由證嚴法師創立
@@ -578,7 +605,8 @@
             花蓮縣壽豐鄉鹽寮村5鄰191號 03-867-1001
           </td>
           <td>
-            https://www.facebook.com/356951367688157/
+            <a target="_" href="https://www.facebook.com/356951367688157/">連結</a>
+            
           </td>
           <td>
             1967年由傳慶法師創立

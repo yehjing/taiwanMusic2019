@@ -29,7 +29,7 @@
             臺北市文山區福興路2號（興隆國小音樂教室） 02-9353616
           </td>
           <td>
-            http://club.ntu.edu.tw/~club20433/haksong/sanko/teach.htm
+            <a target="_" href="http://club.ntu.edu.tw/~club20433/haksong/sanko/teach.htm">連結</a>
           </td>
           <td>
             團練時間：19:30-21:30 團練地點：興隆國小音樂教室
@@ -46,7 +46,7 @@
             臺北市大安區信義路3段157巷11號4樓教室 （台北市客家文化會館） 02-8788-4541
           </td>
           <td>
-            https://blog.xuite.net/ho2104/blog
+            <a target="_" href="https://blog.xuite.net/ho2104/blog">連結</a>
           </td>
           <td>
             團練時間：每週一17:00-19:00 團練地點：台北市客家文化會館
@@ -76,7 +76,7 @@
             臺北市大安區和平東路二段95號之1 02-2708-5995
           </td>
           <td>
-            https://ssl.thcp.org.tw/connections/clubs?page=3
+            <a target="_" href="https://ssl.thcp.org.tw/connections/clubs?page=3">連結</a>
           </td>
           <td></td>
         </tr>
@@ -91,7 +91,8 @@
             臺北市萬華區國興路1巷4號9樓之4 02-2980-8613
           </td>
           <td>
-            https://www.facebook.com/pg/TPHKC/about/?ref=page_internal chen_tsailing@yahoo.com.tw
+            <a target="_" href="https://www.facebook.com/pg/TPHKC/about/?ref=page_internal">連結</a>
+            <a target="_" href="chen_tsailing@yahoo.com.tw">連結</a>
           </td>
           <td>
             成立於2016年 團練時間：每週日14:00-17:00 團練地點：台北市客家文化會館
@@ -108,7 +109,7 @@
             臺北市長安東路二段189號2樓之5 02-2771-0794
           </td>
           <td>
-            https://www.facebook.com/twhakka1991/
+            <a target="_" href="https://www.facebook.com/twhakka1991/">連結</a>
           </td>
           <td width="132">
             成立於1991年 團練時間：每週一19:30-21:30 團練地點：台北市客家文化會館
@@ -125,7 +126,7 @@
             臺北市北投區明德路174巷8號2樓 0933-056-319
           </td>
           <td>
-            lifechang8@gmail.com
+            <a target="_" href="lifechang8@gmail.com">連結</a>
           </td>
           <td>
             團練時間：每週三14:00-17:00 團練地點：臺北市客家主題公園
@@ -185,7 +186,7 @@
             0936-060-607 02-2821-9075
           </td>
           <td>
-            http://www.hakkaonline.com/article-1040-1.html
+            <a target="_" href="http://www.hakkaonline.com/article-1040-1.html">連結</a>
           </td>
           <td>
             成立於1996年 團練地點：臺北市大東路75號2樓
@@ -202,7 +203,7 @@
             臺北市基隆路二段99號（三興國小） 0937-934-932
           </td>
           <td width="132">
-            https://www.facebook.com/pg/Sanxingballadsclasses/about/?ref=page_internal
+            <a target="_" href="https://www.facebook.com/pg/Sanxingballadsclasses/about/?ref=page_internal">連結</a>
           </td>
           <td>
             成立於1990年 團練時間：每週五19:30-21:30 團練地點：三星國小視聽教室
@@ -232,7 +233,7 @@
             新北市板橋區市民大道三段247巷7號3樓 02-2929-4679
           </td>
           <td width="132">
-            https://www.hakka-associations.ntpc.gov.tw/files/15-1002-1671,c121-1.php
+            <a target="_" href="https://www.hakka-associations.ntpc.gov.tw/files/15-1002-1671,c121-1.php">連結</a>
           </td>
           <td>
             成立於2003年
@@ -247,7 +248,7 @@
           </td>
           <td></td>
           <td>
-            https://www.facebook.com/pg/hibiscusdiva/about/?ref=page_internal
+            <a target="_" href="https://www.facebook.com/pg/hibiscusdiva/about/?ref=page_internal">連結</a>
           </td>
           <td>
             成立於2010年 每週五14:00-16:00 團練地點：山澗居（龍潭金龍路）
@@ -290,7 +291,7 @@
           <td></td>
           <td></td>
           <td>
-            https://www.facebook.com/LotussoundFans/ jeli4881@yahoo.com.tw
+            <a target="_" href="https://www.facebook.com/LotussoundFans/ jeli4881@yahoo.com.tw">連結</a>
           </td>
           <td>
             團練時間：每週一、三中午 團練地點：國家中山科學研究院核研所演藝廳
@@ -307,7 +308,7 @@
             桃園市中壢區三光路158巷12號 03-492-0676 0912-671-732
           </td>
           <td>
-            https://www.facebook.com/LBCCTY/
+            <a target="_" href="https://www.facebook.com/LBCCTY/">連結</a>
           </td>
           <td>
             成立於2015年 團練時間：每週三14:00-16:00 團練地點：桃園市平鎮區義民廟
@@ -324,7 +325,7 @@
             新竹縣竹東鎮自強路58號1樓 03-594-5546
           </td>
           <td>
-            twhakka.chea@gmail.com
+            <a target="_" href="twhakka.chea@gmail.com">連結</a>
           </td>
           <td>
             成立於1978年 團練時間：每個月練習一次，於週二或四，依演出需求而定。
@@ -342,7 +343,7 @@
             苗栗縣苗栗市玉清一街149號 0928-909-977（前任理事長）
           </td>
           <td>
-            shun@mail2.ctsh.mlc.edu.tw
+            <a target="_" href="shun@mail2.ctsh.mlc.edu.tw">連結</a>
           </td>
           <td>
             成立於1985年
@@ -359,7 +360,7 @@
             苗栗縣苗栗市嘉盛里3鄰嘉盛街187號 03-726-0309 0932-666-120
           </td>
           <td>
-            miaolo.js@msn.hinet.net
+            <a target="_" href="miaolo.js@msn.hinet.net">連結</a>
           </td>
           <td width="132">
             成立於2012年 團練時間：每週五19:00-21:00 團練地點：嘉盛里社區發展中心
@@ -376,7 +377,7 @@
             苗栗縣大湖鄉大湖村4鄰博愛路15號 03-799-1750 0912-675-665
           </td>
           <td>
-            gan@taian.gov.com.tw
+            <a target="_" href="gan@taian.gov.com.tw">連結</a>
           </td>
           <td>
             成立於2005年 上課時間：每週二、五19:00-22:00 團練地點：大湖鄉公所老人文康中心3樓
@@ -393,7 +394,7 @@
             苗栗縣苗栗市維祥里維勝街62巷21弄12號 0920-600-046
           </td>
           <td>
-            https://www.facebook.com/pg/Miaoli.hakka.association/about/?ref=page_internal
+            <a target="_" href="https://www.facebook.com/pg/Miaoli.hakka.association/about/?ref=page_internal">連結</a>
           </td>
           <td>
             成立於2007年 團練時間：每週四14:00-16:30 團練地點：苗栗火車站市場2樓
@@ -423,7 +424,7 @@
             南投縣埔里鎮枇杷里樹人三街52號 04-9299-1799 0933-186-548
           </td>
           <td>
-            https://www.facebook.com/南投縣埔里鎮客家文化發展協會-Puli-Hakka-新版-1681221068828030/
+            <a target="_" href="https://www.facebook.com/南投縣埔里鎮客家文化發展協會-Puli-Hakka-新版-1681221068828030/">連結</a>
           </td>
           <td>
             成立於2005年 團練時間：每週四14:30-16:30 團練地點：埔里鎮仁愛公園老人會館
@@ -455,7 +456,7 @@
             臺南市新營區民權路96之27號 06-633-7627
           </td>
           <td>
-            https://www.facebook.com/pg/台南市南瀛客家文化協會-116898431697699/posts/
+            <a target="_" href="https://www.facebook.com/pg/台南市南瀛客家文化協會-116898431697699/posts/">連結</a>
           </td>
           <td>
             成立於2010年 團練時間：每週四19:00-21:00 團練地點：南瀛客家文化會館
@@ -487,7 +488,7 @@
             高雄市苓雅區四維四路186號 07-322-6677
           </td>
           <td>
-            swiftlet@swiftlet.com.tw
+            <a target="_" href="swiftlet@swiftlet.com.tw">連結</a>
           </td>
           <td width="132">
             成立於2006年 團練時間：每週四19:30-21:30 團練地點：高雄市博愛一路319號9樓
@@ -504,7 +505,7 @@
             高雄市美濃區自強街一段391巷6號 0933-661-823
           </td>
           <td>
-            https://www.facebook.com/高雄市美濃混聲合唱團-491930940887705/
+            <a target="_" href="https://www.facebook.com/高雄市美濃混聲合唱團-491930940887705/">連結</a>
           </td>
           <td>
             成立於2005年 團練時間：每週四19:00-21:00
@@ -521,7 +522,7 @@
             高雄市美濃區雙峰街18號 07-681-2179 0911-880-179
           </td>
           <td>
-            https://www.facebook.com/hklee0321/
+            <a target="_" href="https://www.facebook.com/hklee0321/">連結</a>
           </td>
           <td width="132">
             成立於1990年 團練時間：每週三08:30-11:30 團練地點：高雄市美濃區雙峰街18號
@@ -538,7 +539,7 @@
             高雄市三民區建工路433巷27號3樓 07-386-5208 0929-416-817
           </td>
           <td>
-            http://kh8.khakka.org.tw/webeip/ht00567/kh8-class.asp
+            <a target="_" href="http://kh8.khakka.org.tw/webeip/ht00567/kh8-class.asp">連結</a>
           </td>
           <td width="132">
             成立於2006年 團練時間：每週二19:30-21:30 團練地點：寶珠溝活動中心4樓
@@ -555,7 +556,7 @@
             屏東縣萬巒鄉（村）褒忠路183號 08-781-2456 0929-355-368 傳真：08-781-3291
           </td>
           <td>
-            https://www.facebook.com/PTHakka/
+            <a target="_" href="https://www.facebook.com/PTHakka/">連結</a>
           </td>
           <td>
             成立於2002年
@@ -583,7 +584,7 @@
             屏東縣長治鄉潭頭村合興路124號 08-721-7930
           </td>
           <td width="132">
-            https://socmap.pthg.gov.tw/pt1w/app/map?objid=3470503
+            <a target="_" href="https://socmap.pthg.gov.tw/pt1w/app/map?objid=3470503">連結</a>
           </td>
           <td>
             成立於1996年
@@ -613,7 +614,7 @@
             屏東縣萬巒鄉萬和村南進路54號 08-779-2055
           </td>
           <td>
-            https://www.facebook.com/藍衫樂舞團-Blue-Shirts-Music-and-Dance-Troupe-185867531445580/
+            <a target="_" href="https://www.facebook.com/藍衫樂舞團-Blue-Shirts-Music-and-Dance-Troupe-185867531445580/">連結</a>
           </td>
           <td width="132">
             成立於1993年 團練時間：每週五20:00-22:00 團練地點：屏東縣麟洛鄉麟趾村12鄰仁愛街39號
@@ -631,7 +632,7 @@
             花蓮縣吉安鄉自立路9號 0933-997-800
           </td>
           <td>
-            https://reurl.cc/QpQd0M
+            <a target="_" href="https://reurl.cc/QpQd0M">連結</a>
           </td>
           <td></td>
         </tr>
@@ -670,7 +671,7 @@
             臺北市信義路三段157巷11號4樓 0921-831-786
           </td>
           <td>
-            https://www.facebook.com/hakkamelody/
+            <a target="_" href="https://www.facebook.com/hakkamelody/">連結</a>
           </td>
           <td>
             成立於2001年 團練時間：每週二18:30
@@ -702,7 +703,7 @@
             桃園市八德區介壽路二段1022巷14號 03-365-4568 0935-025-143
           </td>
           <td>
-            https://www.facebook.com/大華國樂文創團陳國芳-1563159900469333/
+            <a target="_" href="https://www.facebook.com/大華國樂文創團陳國芳-1563159900469333/">連結</a>
           </td>
           <td>
             成立於2000年
@@ -719,7 +720,7 @@
             桃園市八德區霄裡里28鄰關路78號 0910-150-749
           </td>
           <td>
-            https://www.facebook.com/Hcg2232/
+            <a target="_" href="https://www.facebook.com/Hcg2232/">連結</a>
           </td>
           <td>
             成立於1979年
@@ -736,7 +737,7 @@
             新竹縣竹北市民生街11巷7號 03-551-3320
           </td>
           <td>
-            https://www.facebook.com/TienWuBeiGuanBaYin/
+            <a target="_" href="https://www.facebook.com/TienWuBeiGuanBaYin/">連結</a>
           </td>
           <td>
             成立於1989年
@@ -753,7 +754,7 @@
             新竹縣北埔鄉南興村南興街63號 0907-945-638
           </td>
           <td width="123">
-            https://www.facebook.com/pages/category/Musician-Band/新竹北埔八音團-2044972268925287/
+            <a target="_" href="https://www.facebook.com/pages/category/Musician-Band/新竹北埔八音團-2044972268925287/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -781,7 +782,7 @@
             苗栗縣後龍鎮豐富里新東路 47之1號 03-772-5099
           </td>
           <td>
-            https://www.facebook.com/MiaoliChenFamilyBeiguanBayinTroupe/
+            <a target="_" href="https://www.facebook.com/MiaoliChenFamilyBeiguanBayinTroupe/">連結</a>
           </td>
           <td>
             成立於1983年
@@ -826,7 +827,7 @@
             臺南市安平區文平路187巷113號 0937-613-610
           </td>
           <td>
-            https://culture.tainan.gov.tw/table/index.php?m2=43
+            <a target="_" href="https://culture.tainan.gov.tw/table/index.php?m2=43">連結</a>
           </td>
           <td>
             成立於2016年
@@ -843,7 +844,7 @@
             高雄市美濃區廣興街121號 07-681-2538
           </td>
           <td>
-            http://sixstar.moc.gov.tw/blog/KM6813819/knowHowFronListAction.do?method=doReadKnowHow&amp;source=3&amp;knowhowId=6602
+            <a target="_" href="http://sixstar.moc.gov.tw/blog/KM6813819/knowHowFronListAction.do?method=doReadKnowHow&amp;source=3&amp;knowhowId=6602">連結</a>
           </td>
           <td>
             成立於2012
@@ -933,7 +934,7 @@
             高雄市三民區鼎貴路72號 0938-706-972
           </td>
           <td>
-            http://art-garden.khcc.gov.tw/introduction/team/31236
+            <a target="_" href="http://art-garden.khcc.gov.tw/introduction/team/31236">連結</a>
           </td>
           <td>
             成立於2003年
@@ -950,7 +951,7 @@
             屏東縣麟洛鄉新田村民族路234號 08-723-1258 0921-696-046
           </td>
           <td>
-            https://www.facebook.com/大夥房藝術團-1371254872966824/
+            <a target="_" href="https://www.facebook.com/大夥房藝術團-1371254872966824/">連結</a>
           </td>
           <td>
             成立於2002年 練團時間：每週一、三、五15:00-21:00
@@ -967,7 +968,7 @@
             屏東縣佳冬鄉六根村佳和路122號 08-866-2228
           </td>
           <td>
-            https://thcdc.hakka.gov.tw/wSite/ct?xItem=3753&amp;ctNode=495&amp;mp=1
+            <a target="_" href="https://thcdc.hakka.gov.tw/wSite/ct?xItem=3753&amp;ctNode=495&amp;mp=1">連結</a>
           </td>
           <td>
             成立於1988年
@@ -1023,7 +1024,7 @@
             臺北市重慶南路二段59之2號2樓 02-2392-6170
           </td>
           <td>
-            https://www.facebook.com/paperwindmilltheatre/
+            <a target="_" href="https://www.facebook.com/paperwindmilltheatre/">連結</a>
           </td>
           <td>
             成立於1992年
@@ -1040,7 +1041,7 @@
             臺北市文山區木柵路三段66巷8之1號 02-2936-7231#2551
           </td>
           <td>
-            http://b017.tcpa.edu.tw/bin/home.php
+            <a target="_" href="http://b017.tcpa.edu.tw/bin/home.php">連結</a>
           </td>
           <td>
             成立於2001年
@@ -1057,7 +1058,7 @@
             臺北市士林區德行西路97號2樓 02-8866-1116 02-8866-1090
           </td>
           <td>
-            https://www.facebook.com/UhanShiiTheatre/
+            <a target="_" href="https://www.facebook.com/UhanShiiTheatre/">連結</a>
           </td>
           <td>
             成立於1995年
@@ -1074,7 +1075,7 @@
             新北市板橋區縣民大道三段83號3樓 0932-330-003
           </td>
           <td>
-            https://www.facebook.com/山宛然客家布袋戲團-193976375896/
+            <a target="_" href="https://www.facebook.com/山宛然客家布袋戲團-193976375896/">連結</a>
           </td>
           <td>
             成立於2002年
@@ -1091,7 +1092,7 @@
             新北市新店區達觀路38號2樓之6 0975-386-935
           </td>
           <td>
-            https://www.facebook.com/戲偶子劇團-123978480950659/
+            <a target="_" href="https://www.facebook.com/戲偶子劇團-123978480950659/">連結</a>
           </td>
           <td>
             成立於2003年
@@ -1108,7 +1109,7 @@
             桃園市平鎮區大智街25號 03-457-8931 0935-129-811
           </td>
           <td>
-            https://www.facebook.com/景勝戲劇團-1657899551112033/
+            <a target="_" href="https://www.facebook.com/景勝戲劇團-1657899551112033/">連結</a>
           </td>
           <td>
             成立於2003年
@@ -1125,7 +1126,7 @@
             桃園縣龍潭鄉自由街51號 0911-241-388
           </td>
           <td>
-            https://www.facebook.com/a241388/
+            <a target="_" href="https://www.facebook.com/a241388/">連結</a>
           </td>
           <td>
             成立於2002年
@@ -1142,7 +1143,7 @@
             桃園市平鎮區大智街15號 03-458-0110 0933-507-453
           </td>
           <td>
-            https://www.facebook.com/新月娥歌劇團-334133613587392/
+            <a target="_" href="https://www.facebook.com/新月娥歌劇團-334133613587392/">連結</a>
           </td>
           <td>
             成立於1961年
@@ -1159,7 +1160,7 @@
             桃園市中壢區龍岡路三段243巷53弄36號 0919-362-104
           </td>
           <td>
-            yoyo4586287yahoo.com.tw
+            <a target="_" href="yoyo4586287yahoo.com.tw">連結</a>
           </td>
           <td>
             成立於1988年
@@ -1176,7 +1177,7 @@
             新竹縣北埔鄉中山路51號 0916-333-293
           </td>
           <td>
-            https://www.facebook.com/song.xing.opera/
+            <a target="_" href="https://www.facebook.com/song.xing.opera/">連結</a>
           </td>
           <td>
             成立於2003年
@@ -1223,7 +1224,7 @@
             新竹縣竹東鎮 03-582-2665
           </td>
           <td>
-            Psz0952814938@yahoo.com.tw
+            <a target="_" href="Psz0952814938@yahoo.com.tw">連結</a>
           </td>
           <td>
             成立於1999年
@@ -1268,7 +1269,7 @@
             苗栗市恭敬里4鄰24號 03-772-5099
           </td>
           <td>
-            https://www.facebook.com/pg/romshinghakka/about/?ref=page_internal
+            <a target="_" href="https://www.facebook.com/pg/romshinghakka/about/?ref=page_internal">連結</a>
           </td>
           <td>
             成立於1988年
@@ -1345,7 +1346,7 @@
             高雄市前鎮區崗山中街255號4樓之1 0931-616-986
           </td>
           <td>
-            https://www.facebook.com/HaChiGu/
+            <a target="_" href="https://www.facebook.com/HaChiGu/">連結</a>
           </td>
           <td>
             成立於2004年
@@ -1362,7 +1363,7 @@
             屏東市豐田里水源巷12號 08-732-3202
           </td>
           <td>
-            https://www.facebook.com/世客文化藝術團-336912869758607/
+            <a target="_" href="https://www.facebook.com/世客文化藝術團-336912869758607/">連結</a>
           </td>
           <td>
             成立於2003年
@@ -1379,7 +1380,7 @@
             屏東縣內埔鄉內田村復興路38號 0932-882-984
           </td>
           <td>
-            https://www.facebook.com/LiWenGuGeJuTuan/
+            <a target="_" href="https://www.facebook.com/LiWenGuGeJuTuan/">連結</a>
           </td>
           <td>
             成立於2003年
