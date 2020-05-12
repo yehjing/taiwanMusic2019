@@ -26,7 +26,8 @@
             0955-988-376
           </td>
           <td>
-            https://www.facebook.com/afternoontree/
+            <a target="_" href="https://www.facebook.com/afternoontree/">連結</a>
+            
           </td>
           <td>
             2006年成立
@@ -43,7 +44,8 @@
             0966-061-113
           </td>
           <td>
-            https://www.facebook.com/Gema-Angklung-印尼竹韻揚聲樂團-1523158791338927/
+            <a target="_" href="https://www.facebook.com/Gema-Angklung-印尼竹韻揚聲樂團-1523158791338927/">連結</a>
+            
           </td>
           <td>
             成立於2015年2月27日，成員為臺北地區新住民女性，演奏印尼搖竹，為臺灣博物館駐館表演團體。
@@ -60,7 +62,8 @@
             0909-508-268
           </td>
           <td>
-            https://www.facebook.com/VIT-Dance-Group-泰友印越舞蹈社-1314203081941608/
+            <a target="_" href="https://www.facebook.com/VIT-Dance-Group-泰友印越舞蹈社-1314203081941608/">連結</a>
+            
           </td>
           <td>
             2015年10月10日在臺北市政府表演並宣布成立，團員包含越南、印尼、菲律賓及泰國等不同國家新移民，舞蹈風格多元。
@@ -75,7 +78,8 @@
           </td>
           <td></td>
           <td>
-            https://www.facebook.com/wooonta/ wooontatrio@gmail.com
+            <a target="_" href="https://www.facebook.com/wooonta/">連結</a>
+            <a target="_" href="wooontatrio@gmail.com">連結</a>
           </td>
           <td>
             成立於2015年，以二胡、西塔琴、大提琴作跨文化、跨界的音聲藝術結合。
@@ -92,7 +96,8 @@
             02-2341-3826
           </td>
           <td>
-            treesmusicart@gmail.com
+            <a target="_" href="treesmusicart@gmail.com">連結</a>
+            
           </td>
           <td>
             成立於1993年
@@ -109,7 +114,8 @@
             02-2581-3667
           </td>
           <td>
-            https://www.facebook.com/tbo168/ tbo168@yahoo.com.tw
+            <a target="_" href="https://www.facebook.com/tbo168/">連結</a>
+            <a target="_" href="tbo168@yahoo.com.tw">連結</a>
           </td>
           <td>
             成立於2011年
@@ -128,7 +134,8 @@
             0921-194-175
           </td>
           <td>
-            https://www.facebook.com/Spectro7/
+            <a target="_" href="https://www.facebook.com/Spectro7/">連結</a>
+            
           </td>
           <td>
             2007年成立
@@ -145,7 +152,8 @@
             臺北市中山區德惠街202號地下室
           </td>
           <td>
-            https://www.facebook.com/konkonbataiwan/
+            <a target="_" href="https://www.facebook.com/konkonbataiwan/">連結</a>
+            
           </td>
           <td>
             成立於2008年
@@ -164,7 +172,8 @@
             0902-278-687
           </td>
           <td>
-            https://www.facebook.com/LiushengjiMusic/
+            <a target="_" href="https://www.facebook.com/LiushengjiMusic/">連結</a>
+            
           </td>
           <td>
             2017年成立
@@ -181,7 +190,8 @@
             臺北市羅斯福路四段1號
           </td>
           <td>
-            http://www.gim.ntu.edu.tw/
+            <a target="_" href="http://www.gim.ntu.edu.tw/">連結</a>
+            
           </td>
           <td></td>
         </tr>
@@ -200,7 +210,8 @@
             0975-156-783
           </td>
           <td>
-            https://www.facebook.com/sizhukong/
+            <a target="_" href="https://www.facebook.com/sizhukong/">連結</a>
+            
           </td>
           <td>
             2005年成立
@@ -215,7 +226,8 @@
           </td>
           <td></td>
           <td>
-            https://www.facebook.com/taiwan.hananowaon/ kototaiwan@gmail.com
+            <a target="_" href="https://www.facebook.com/taiwan.hananowaon/">連結</a>
+            <a target="_" href="kototaiwan@gmail.com">連結</a>
           </td>
           <td>
             成立於2012年
@@ -234,7 +246,8 @@
             0935-626-110
           </td>
           <td>
-            https://www.facebook.com/sweepingmusic/
+            <a target="_" href="https://www.facebook.com/sweepingmusic/">連結</a>
+            
           </td>
           <td>
             成立於2014年6月11日
@@ -251,7 +264,8 @@
             臺北市北投區學園路1號
           </td>
           <td>
-            https://www.facebook.com/shaoshengvietnammusic/
+            <a target="_" href="https://www.facebook.com/shaoshengvietnammusic/">連結</a>
+            
           </td>
           <td>
             由國立臺北藝術大學傳統音樂學系專業音樂家與研究者組成，致力於越南才子樂交流與演出。
@@ -270,9 +284,7 @@
             0958-016-186
           </td>
           <td>
-            <a href="https://www.facebook.com/CMOFB/">
-              https://www.facebook.com/CMOFB/
-            </a>
+            <a target="_" href="https://www.facebook.com/CMOFB/">連結</a>
           </td>
           <td>
             2010年11月8日成立
@@ -289,7 +301,8 @@
             新北市蘆洲區民生街129巷11號5樓
           </td>
           <td>
-            https://www.facebook.com/TIFA1105/
+            <a target="_" href="https://www.facebook.com/TIFA1105/">連結</a>
+            
           </td>
           <td>
             成立於2011年1月19日，致力於在地社區推廣新住民舞蹈與文化。
@@ -308,7 +321,8 @@
             0929-984-571
           </td>
           <td>
-            https://www.facebook.com/卡到音即興樂團-Ka-Dao-Yin-aka-Caught-Up-In-144189072312074/
+            <a target="_" href="https://www.facebook.com/卡到音即興樂團-Ka-Dao-Yin-aka-Caught-Up-In-144189072312074/">連結</a>
+            
           </td>
           <td>
             2009年8月成立
@@ -327,7 +341,8 @@
             02-2666-9259
           </td>
           <td>
-            https://www.facebook.com/CCamerata/
+            <a target="_" href="https://www.facebook.com/CCamerata/">連結</a>
+            
           </td>
           <td>
             2012年成立
@@ -344,7 +359,8 @@
             0932-192-696
           </td>
           <td>
-            https://www.facebook.com/tw.seahorse/
+            <a target="_" href="https://www.facebook.com/tw.seahorse/">連結</a>
+            
           </td>
           <td>
             1999年成立
@@ -363,7 +379,8 @@
             02-2232-7722
           </td>
           <td>
-            https://www.facebook.com/MusouBandOfficial/
+            <a target="_" href="https://www.facebook.com/MusouBandOfficial/">連結</a>
+            
           </td>
           <td>
             2008年12月成立
@@ -382,7 +399,8 @@
             02-2217-3095
           </td>
           <td>
-            http://www.amovingsound.com/zh/
+            <a target="_" href="http://www.amovingsound.com/zh/">連結</a>
+            
           </td>
           <td>
             2002年成立
@@ -399,7 +417,8 @@
             0913-252-152
           </td>
           <td>
-            https://zh-tw.facebook.com/www.budayaindonesia168.com.tw/
+            <a target="_" href="https://zh-tw.facebook.com/www.budayaindonesia168.com.tw/">連結</a>
+            
           </td>
           <td>
             臺中市印尼舞蹈表演團體
@@ -416,7 +435,8 @@
             臺中市中區繼光街87號 0926-718-339
           </td>
           <td>
-            tia09709@gmail.com
+            <a target="_" href="tia09709@gmail.com">連結</a>
+            
           </td>
           <td>
             成立於2015年2月1日，推廣新住民母國文化、傳統民俗舞蹈、話劇等。
@@ -433,7 +453,8 @@
             臺中市大雅區樹德街258號
           </td>
           <td>
-            https://www.facebook.com/bluetearsbandofficial/ bluetearsband@gmail.com
+            <a target="_" href="https://www.facebook.com/bluetearsbandofficial/">連結</a>
+            <a target="_" href="bluetearsband@gmail.com">連結</a>
           </td>
           <td>
             2018年1月24日成立
@@ -450,7 +471,8 @@
             0972-093-757
           </td>
           <td>
-            https://www.facebook.com/InnahueBand/
+            <a target="_" href="https://www.facebook.com/InnahueBand/">連結</a>
+            
           </td>
           <td>
             成立於2017年，致力於北管、國樂與其它樂種如民謠、流行、印度音樂等的跨界結合。
@@ -467,7 +489,7 @@
             嘉義縣民雄鄉福權4之3號 05-226-9177
           </td>
           <td>
-            https://www.facebook.com/Khuôn viên văn hoá Việt Nam 越在嘉文化棧-415137728846185/
+            <a target="_" href="https://www.facebook.com/InnahueBand/viên văn hoá Việt Nam 越在嘉文化棧-415137728846185/">連結</a>
           </td>
           <td>
             2017年4月成立，致力促進東南亞文化與臺灣文化的多元交流，舉辦多元文化交流活動。
@@ -484,7 +506,8 @@
             0937-356-603
           </td>
           <td>
-            https://www.facebook.com/yishengger/ yisingkuo@gmail.com
+            <a target="_" href="https://www.facebook.com/yishengger/">連結</a>
+            <a target="_" href="yisingkuo@gmail.com">連結</a>
           </td>
           <td>
             成立於1953年，現致力於布袋戲與搖滾樂的跨界展演。
@@ -501,7 +524,8 @@
             臺南市東區小東路198巷24弄9號 0925-352-677
           </td>
           <td>
-            https://www.facebook.com/Asalato.tw/
+            <a target="_" href="https://www.facebook.com/Asalato.tw/">連結</a>
+            
           </td>
           <td>
             非洲旋轉沙鈴樂團，教學及表演。
@@ -518,8 +542,8 @@
             06-205-0548
           </td>
           <td>
-            http://chi-chiao.org/?fbclid=IwAR0F3hAKZYpJ-a_dHoPdMoYw8fM75pbbPLpydtW3Hc24rLi5mjrpcXNcHmo
-            chichiaopera@gmail.com
+            <a target="_" href="http://chi-chiao.org/?fbclid=IwAR0F3hAKZYpJ-a_dHoPdMoYw8fM75pbbPLpydtW3Hc24rLi5mjrpcXNcHmo">連結</a>
+            <a target="_" href="chichiaopera@gmail.com">連結</a>
           </td>
           <td>
             成立於2004年
@@ -534,7 +558,8 @@
           </td>
           <td></td>
           <td>
-            https://www.facebook.com/telee.ballets/ djembe.ake@gmail.com
+            <a target="_" href="https://www.facebook.com/telee.ballets/">連結</a>
+            <a target="_" href="djembe.ake@gmail.com">連結</a>
           </td>
           <td>
             成立於2003年
@@ -551,7 +576,8 @@
             臺南市官田區大崎66號 06-693-0100
           </td>
           <td>
-            https://www.tnnua.edu.tw/p/412-1000-1332.php?Lang=zh-tw
+            <a target="_" href="https://www.tnnua.edu.tw/p/412-1000-1332.php?Lang=zh-tw">連結</a>
+            
           </td>
           <td>
             成立於2008年
@@ -568,7 +594,8 @@
             0972-320-520
           </td>
           <td>
-            https://www.facebook.com/MatahariEnsembleWorldMusic/
+            <a target="_" href="https://www.facebook.com/MatahariEnsembleWorldMusic/">連結</a>
+            
           </td>
           <td>
             2017年於高雄成立，除了推廣印尼藝術文化，也致力於不同樂器融合的音樂創作。
@@ -585,7 +612,8 @@
             0926-035-657
           </td>
           <td>
-            https://www.facebook.com/妮藍泰國文化-678286509005253/
+            <a target="_" href="https://www.facebook.com/妮藍泰國文化-678286509005253/">連結</a>
+            
           </td>
           <td>
             推廣泰國文化及舞蹈
@@ -602,7 +630,8 @@
             0953-813-499
           </td>
           <td>
-            https://www.facebook.com/juniedance
+            <a target="_" href="https://www.facebook.com/juniedance">連結</a>
+            
           </td>
           <td>
             峇里島傳統舞蹈演出/文化展覽/舞蹈教學/服裝出租
@@ -619,7 +648,8 @@
             高雄市苓雅區尚勇路9號 0960-740-263
           </td>
           <td>
-            https://www.facebook.com/越範團-1662362527392124/
+            <a target="_" href="https://www.facebook.com/越範團-1662362527392124/">連結</a>
+            
           </td>
           <td>
             越南舞蹈表演及文化推廣
@@ -636,7 +666,8 @@
             0905-352-083
           </td>
           <td>
-            https://www.facebook.com/shihoissei/
+            <a target="_" href="https://www.facebook.com/shihoissei/">連結</a>
+            
           </td>
           <td>
             日本津輕三味線演奏人員，與臺灣妻子婚後定居屏東，致力於日本文化推廣及三味線表演。
@@ -653,7 +684,9 @@
             屏東市德豐街106號 08-737-1382 屏東縣潮州鎮光澤巷16號 08-789-1929
           </td>
           <td>
-            http://jadwrp.blogspot.com/ jadwrp@gmail.com jadwrp2@gmail.com
+            <a target="_" href="http://jadwrp.blogspot.com/">連結</a>
+            <a target="_" href="jadwrp@gmail.com">連結</a>
+            <a target="_" href="jadwrp2@gmail.com">連結</a>
           </td>
           <td>
             樂團成立於2019年12月，由社團法人屏東縣好好婦女權益發展協會承辦，由黃筌琳及蔡秉君擔任講師。
@@ -670,7 +703,8 @@
             0987-946-319
           </td>
           <td>
-            https://www.facebook.com/ARoot2016/
+            <a target="_" href="https://www.facebook.com/ARoot2016/">連結</a>
+            
           </td>
           <td>
             2016年成立
