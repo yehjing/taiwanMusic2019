@@ -39,6 +39,7 @@ import Comment from '@/components/comment';
 import Comment_1 from '@/components/comment/comment_child/comment_1';
 import Comment_2 from '@/components/comment/comment_child/comment_2';
 import Comment_3 from '@/components/comment/comment_child/comment_3';
+import Comment_4 from '@/components/comment/comment_child/comment_4';
 // video
 import VideoRecord_00 from '@/components/videoRecord/video_child/video_00';
 import VideoRecord_01 from '@/components/videoRecord/video_child/video_01';
@@ -251,19 +252,24 @@ export default new VueRouter({
       component: Comment,
       children: [
         {
-          name: '2018年度臺灣傳統音樂文化與生態論述',
+          name: '2019年度臺灣傳統音樂文化與生態論述',
           path: '/',
           component: Comment_1,
         },
         {
-          name: '2018年度臺灣藝術(當代創作)音樂文化與生態論述',
+          name: '2019年度臺灣藝術(當代創作)音樂文化與生態論述',
           path: 'comment_2',
           component: Comment_2,
         },
         {
-          name: '2018年度臺灣流行及跨界音樂文化與生態論述',
+          name: '2019年度臺灣流行音樂文化與生態論述',
           path: 'comment_3',
           component: Comment_3,
+        },
+        {
+          name: '2019年度臺灣跨界音樂與其他文化與生態論述',
+          path: 'comment_4',
+          component: Comment_4,
         },
       ],
     },
