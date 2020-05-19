@@ -207,7 +207,10 @@ $image-path: 'assets';
         padding: 2%;
       }
       .contentImg{
-        width: 100%;
+        // width: 100%;
+        width: 35%;
+        margin: 0 auto;
+        display: block;
       }
       >div{
       &::-webkit-scrollbar-track
