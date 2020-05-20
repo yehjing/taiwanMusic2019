@@ -7,7 +7,7 @@
       </span>
     </div>
     <!-- <hr> -->
-    <p class="firstRow"></p>
+    <!-- <p class="firstRow"></p> -->
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;為落實年鑑的實用性與方便性，《2019臺灣音樂年鑑》以「團體及個人名錄」及「重要音樂活動一覽表」彙整各領域的重要人物、團體及音樂活動共1,203筆，期能提供後續研究及未來各種用途的查考。</p>
   </div>
 </template>

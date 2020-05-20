@@ -7,7 +7,7 @@
       </span>
     </div>
     <!-- <hr> -->
-    <p class="firstRow"></p>
+    <!-- <p class="firstRow"></p> -->
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有鑑於本年鑑所記載的內容主要為2019年度臺灣音樂活動，影音紀錄更能幫助民眾理解以音樂為主體的各項音樂動態，《2019臺灣音樂年鑑》工作團隊擇選具有代表性的音樂活動影像，以做為《2019臺灣音樂年鑑》的保存與補充資料。本年鑑共收錄51支臺灣音樂影音紀錄，其中流行音樂篇收錄1支影片。</p>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <tbody>
