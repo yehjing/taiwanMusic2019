@@ -24,7 +24,7 @@ const tabs = [
   //   component: ObservedPreface4,
   // },
   {
-    name: '時空交織的絢爛迸發：2018年度跨界音樂活動觀察與評介',
+    name: '2019年度跨界音樂及其他活動觀察與評介',
     autor: '陳慧珊',
     component: Observed14,
     path: 'observed_14',
