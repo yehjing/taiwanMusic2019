@@ -20,10 +20,11 @@
             臺北爵士大樂隊
           </td>
           <td>
-            音樂總監 李承育
+            音樂總監<br>李承育
           </td>
           <td>
-            www.tjo.com.tw/
+            <a href="www.tjo.com.tw/">連結</a>
+            
           </td>
           <td>
             成立於2009年2月
@@ -60,11 +61,11 @@
             茄子蛋
           </td>
           <td>
-            經紀人 百萱
+            經紀人<br>百萱
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/EggPlantEgg/">連結</a>
-            <a target="_" href="eggplantegg2014@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/EggPlantEgg/">連結</a><br>
+            <a target="_" href="mailto:eggplantegg2014@gmail.com">連結</a>
           </td>
           <td>
             成立於2012年
@@ -88,11 +89,11 @@
             詹雅雯
           </td>
           <td>
-            詹雅雯 經紀人 小良
+            詹雅雯<br>經紀人<br>小良
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/YW.FanClub/">連結</a>
-            <a target="_" href="yiawen0302@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/YW.FanClub/">連結</a><br>
+            <a target="_" href="mailto:yiawen0302@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -104,8 +105,8 @@
             相信音樂國際股份有限公司
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/JiaJiaMyLove/">連結</a>
-            <a target="_" href="hsuben0624@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/JiaJiaMyLove/">連結</a><br>
+            <a target="_" href="mailto:hsuben0624@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -114,7 +115,7 @@
             呂薔
           </td>
           <td>
-            avex taiwan 愛貝克思股份有限公司
+            avex taiwan<br>愛貝克思股份有限公司
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/AmuyiLu/">連結</a>
@@ -132,8 +133,8 @@
             大吉祥整合行銷有限公司
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/chairman.taiwan/">連結</a>
-            <a target="_" href="summerwang825@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/chairman.taiwan/">連結</a><br>
+            <a target="_" href="mailto:summerwang825@gmail.com">連結</a>
           </td>
           <td>
             成立於1997年
@@ -147,8 +148,8 @@
             環球唱片
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/chthonictw/">連結</a>
-            <a target="_" href="invalinews@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/chthonictw/">連結</a><br>
+            <a target="_" href="mailto:invalinews@gmail.com">連結</a>
           </td>
           <td>
             主唱為立法委員林昶佐
@@ -162,8 +163,8 @@
             Bully
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/amazingshowtw/">連結</a>
-            <a target="_" href="amazingshowcy@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/amazingshowtw/">連結</a><br>
+            <a target="_" href="mailto:amazingshowcy@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -175,8 +176,8 @@
             CL Production Ltd
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/cocolee117/">連結</a>
-            <a target="_" href="vjdust@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/cocolee117/">連結</a><br>
+            <a target="_" href="mailto:vjdust@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -210,8 +211,8 @@
           </td>
           <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/iamOneFang/">連結</a>
-            <a target="_" href="lin.fade@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/iamOneFang/">連結</a><br>
+            <a target="_" href="mailto:lin.fade@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -223,8 +224,8 @@
             相信音樂
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/BingChih/">連結</a>
-            <a target="_" href="xiaobingchih@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/BingChih/">連結</a><br>
+            <a target="_" href="mailto:xiaobingchih@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -236,8 +237,8 @@
             紀曉君個人工作室
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Samingad/">連結</a>
-            <a target="_" href="gary720613@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/Samingad/">連結</a><br>
+            <a target="_" href="mailto:gary720613@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -249,9 +250,9 @@
             哈里坤的狂歡
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/WuQingFeng/">連結</a>
-            <a target="_" href="u.music@foxmail.com">連結</a>
-            <a target="_" href="Oscar.lin@umusic.com">連結</a>
+            <a target="_" href="https://www.facebook.com/WuQingFeng/">連結</a><br>
+            <a target="_" href="mailto:u.music@foxmail.com">連結</a><br>
+            <a target="_" href="mailto:Oscar.lin@umusic.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -263,8 +264,8 @@
             Leo黎歐創意
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/DaBangNi/">連結</a>
-            <a target="_" href="dabangni@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/DaBangNi/">連結</a><br>
+            <a target="_" href="mailto:dabangni@gmail.com">連結</a>
           </td>
           <td>
             成立於2011年12月
@@ -287,8 +288,8 @@
           </td>
           <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/huangweijieweijie/">連結</a>
-            <a target="_" href="shanliaoband@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/huangweijieweijie/">連結</a><br>
+            <a target="_" href="mailto:shanliaoband@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -324,7 +325,7 @@
             漢創文化股份有限公司
           </td>
           <td>
-            <a target="_" href="mavislin@hgcagroup.com">連結</a>
+            <a target="_" href="mailto:mavislin@hgcagroup.com">連結</a>
             
           </td>
           <td></td>
@@ -337,8 +338,8 @@
             貳樓音樂
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/ayugohuang/">連結</a>
-            <a target="_" href="ayugo814@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/ayugohuang/">連結</a><br>
+            <a target="_" href="mailto:ayugo814@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -350,8 +351,8 @@
             亞神音樂
           </td>
           <td>
-            <a target="_" href="https://www.sumingfans.com/">連結</a>
-            <a target="_" href="johnsuming@gmail.com">連結</a>
+            <a target="_" href="https://www.sumingfans.com/">連結</a><br>
+            <a target="_" href="mailto:johnsuming@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>

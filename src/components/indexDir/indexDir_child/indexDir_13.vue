@@ -939,7 +939,7 @@
             0912-037-889
           </td>
           <td>
-            lai88168168@yahoo.com.tw
+            <a href="lai88168168@yahoo.com.tw">連結</a>
           </td>
           <td>
             1998年成立，練習時間每週一、三、五19:00-21:00。
@@ -1633,7 +1633,6 @@
             08-866-2093
           </td>
           <td>
-            <a target="_" href="https://web.chles.ptc.edu.tw/school/web/index.php">連結</a>
           </td>
           <td>
             由張日丸指導

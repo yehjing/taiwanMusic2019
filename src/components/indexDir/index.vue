@@ -2,10 +2,10 @@
   <section class="wrapContain">
     <aside class="linkLeft">
       <div class="middleItem noLeaf" :class="activeName === '' ? 'active' :''" @click="clickLink('')">
-        團體與個人
+        團體及個人名錄
       </div>
       <div class="middleItem noLeaf" :class="activeName === 'indexDir_01' ? 'active' :''" @click="clickLink('indexDir_01')">
-        音樂活動
+        重要音樂活動一覽表
       </div>
     </aside>
     <div class="viewRight">

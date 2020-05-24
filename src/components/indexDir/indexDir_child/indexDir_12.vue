@@ -775,7 +775,7 @@
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/TNtsinsingsia/">連結</a>
-
+            <br>
             Instagram「臺南振聲社」
           </td>
           <td>
@@ -1094,9 +1094,9 @@
             金城體育館（看台下空間）
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/groups/176691215689013/">連結</a>
+            <a target="_" href="https://www.facebook.com/groups/176691215689013/">連結</a><br>
             <a href="mailto:Jyps@mail.com.edu.tw">
-              Jyps@mail.com.edu.tw
+              連結
             </a>
           </td>
           <td>
@@ -1198,6 +1198,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>二、太平歌</h3>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <thead>

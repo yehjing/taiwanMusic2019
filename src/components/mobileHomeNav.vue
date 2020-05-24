@@ -6,7 +6,7 @@
       <li><router-link :to="'/observed'">年度活動<br>觀察與評介</router-link></li>
       <li><router-link :to="'/comment'">文化評論</router-link></li>
       <li><router-link :to="'/videoRecord'">影音紀錄</router-link></li>
-      <li><router-link :to="'/indexDir'">索引名錄</router-link></li>
+      <li><router-link :to="'/indexDir'">附錄</router-link></li>
       <li><router-link :to="'/download'">2019臺灣音樂年鑑<br>全文下載</router-link></li>
     </ul>
   </section>

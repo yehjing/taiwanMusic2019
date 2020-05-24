@@ -188,14 +188,7 @@
             <a target="_" href="http://formosasingers.org.tw/index.php">連結</a>
           </td>
           <td>
-            1994年由
-            <a
-              href="https://zh.wikipedia.org/w/index.php?title=%E6%84%9B%E6%A8%82%E7%89%A7%E6%AD%8C%E5%90%88%E5%94%B1%E5%9C%98&amp;action=edit&amp;redlink=1"
-              title="愛樂牧歌合唱團（頁面不存在）"
-            >
-              愛樂牧歌合唱團
-            </a>
-            重新改組而成，為一混聲合唱團，以推廣優質臺灣合唱音樂、追求精緻化合唱藝術為宗旨。
+            1994年由愛樂牧歌合唱團重新改組而成，為一混聲合唱團，以推廣優質臺灣合唱音樂、追求精緻化合唱藝術為宗旨。
           </td>
         </tr>
         <tr>
@@ -359,8 +352,7 @@
         </tr>
         <tr>
           <td>
-            <strong>悅聲合唱團</strong>
-            <strong></strong>
+            悅聲合唱團
           </td>
           <td>
             賴滿足
@@ -660,7 +652,7 @@
             高雄市交響樂團附設青少年交響樂團
           </td>
           <td>
-            <strong>涂惠民</strong>
+            涂惠民
           </td>
           <td>
             高雄市鳳山區光遠路161號

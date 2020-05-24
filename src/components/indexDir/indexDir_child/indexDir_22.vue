@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h2>跨界樂團</h2>
+      <h2>跨界音樂與其他篇</h2>
     </div>
     <hr>
     <p class="firstRow"></p>
@@ -10,8 +10,9 @@
         <tr>
           <th style="width:20%">名稱</th>
           <th style="width:20%">負責人</th>
-          <th style="width:25%">地址/電話</th>
-          <th>其他聯絡方式</th>
+          <th >地址/電話</th>
+          <th style="width:20%">其他聯絡方式</th>
+          <th>備註</th>
         </tr>
       </thead>
       <tbody>
@@ -78,8 +79,8 @@
           </td>
           <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/wooonta/">連結</a>
-            <a target="_" href="wooontatrio@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/wooonta/">連結</a><br>
+            <a target="_" href="mailto:wooontatrio@gmail.com">連結</a>
           </td>
           <td>
             成立於2015年，以二胡、西塔琴、大提琴作跨文化、跨界的音聲藝術結合。
@@ -96,7 +97,7 @@
             02-2341-3826
           </td>
           <td>
-            <a target="_" href="treesmusicart@gmail.com">連結</a>
+            <a target="_" href="mailto:treesmusicart@gmail.com">連結</a>
             
           </td>
           <td>
@@ -114,8 +115,8 @@
             02-2581-3667
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/tbo168/">連結</a>
-            <a target="_" href="tbo168@yahoo.com.tw">連結</a>
+            <a target="_" href="https://www.facebook.com/tbo168/">連結</a><br>
+            <a target="_" href="mailto:tbo168@yahoo.com.tw">連結</a>
           </td>
           <td>
             成立於2011年
@@ -184,7 +185,7 @@
             國立臺灣大學巴里島甘美朗樂團、緬甸賽恩樂團
           </td>
           <td>
-            王櫻芬 呂心純
+            王櫻芬<br>呂心純
           </td>
           <td>
             臺北市羅斯福路四段1號
@@ -222,12 +223,12 @@
             華之和音
           </td>
           <td>
-            徐宿玶 劉穎蓉
+            徐宿玶<br>劉穎蓉
           </td>
           <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/taiwan.hananowaon/">連結</a>
-            <a target="_" href="kototaiwan@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/taiwan.hananowaon/">連結</a><br>
+            <a target="_" href="mailto:kototaiwan@gmail.com">連結</a>
           </td>
           <td>
             成立於2012年
@@ -432,10 +433,10 @@
             麥玉珍
           </td>
           <td>
-            臺中市中區繼光街87號 0926-718-339
+            臺中市中區繼光街87號<br>0926-718-339
           </td>
           <td>
-            <a target="_" href="tia09709@gmail.com">連結</a>
+            <a target="_" href="mailto:tia09709@gmail.com">連結</a>
             
           </td>
           <td>
@@ -453,8 +454,8 @@
             臺中市大雅區樹德街258號
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/bluetearsbandofficial/">連結</a>
-            <a target="_" href="bluetearsband@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/bluetearsbandofficial/">連結</a><br>
+            <a target="_" href="mailto:bluetearsband@gmail.com">連結</a>
           </td>
           <td>
             2018年1月24日成立
@@ -486,10 +487,10 @@
             阮金紅
           </td>
           <td>
-            嘉義縣民雄鄉福權4之3號 05-226-9177
+            嘉義縣民雄鄉福權4之3號<br>05-226-9177
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/InnahueBand/viên văn hoá Việt Nam 越在嘉文化棧-415137728846185/">連結</a>
+            <a target="_" href="https://www.facebook.com/Khu%C3%B4n-vi%C3%AAn-v%C4%83n-ho%C3%A1-Vi%E1%BB%87t-Nam-%E8%B6%8A%E5%9C%A8%E5%98%89%E6%96%87%E5%8C%96%E6%A3%A7-415137728846185/">連結</a>
           </td>
           <td>
             2017年4月成立，致力促進東南亞文化與臺灣文化的多元交流，舉辦多元文化交流活動。
@@ -506,8 +507,8 @@
             0937-356-603
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/yishengger/">連結</a>
-            <a target="_" href="yisingkuo@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/yishengger/">連結</a><br>
+            <a target="_" href="mailto:yisingkuo@gmail.com">連結</a>
           </td>
           <td>
             成立於1953年，現致力於布袋戲與搖滾樂的跨界展演。
@@ -521,7 +522,7 @@
             陳福壽
           </td>
           <td>
-            臺南市東區小東路198巷24弄9號 0925-352-677
+            臺南市東區小東路198巷24弄9號<br>0925-352-677
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/Asalato.tw/">連結</a>
@@ -542,8 +543,8 @@
             06-205-0548
           </td>
           <td>
-            <a target="_" href="http://chi-chiao.org/?fbclid=IwAR0F3hAKZYpJ-a_dHoPdMoYw8fM75pbbPLpydtW3Hc24rLi5mjrpcXNcHmo">連結</a>
-            <a target="_" href="chichiaopera@gmail.com">連結</a>
+            <a target="_" href="http://chi-chiao.org/?fbclid=IwAR0F3hAKZYpJ-a_dHoPdMoYw8fM75pbbPLpydtW3Hc24rLi5mjrpcXNcHmo">連結</a><br>
+            <a target="_" href="mailto:chichiaopera@gmail.com">連結</a>
           </td>
           <td>
             成立於2004年
@@ -558,8 +559,8 @@
           </td>
           <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/telee.ballets/">連結</a>
-            <a target="_" href="djembe.ake@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/telee.ballets/">連結</a><br>
+            <a target="_" href="mailto:djembe.ake@gmail.com">連結</a>
           </td>
           <td>
             成立於2003年
@@ -570,10 +571,10 @@
             國立臺南藝術大學爪哇甘美朗樂團
           </td>
           <td>
-            胡敏德 蔡宗德
+            胡敏德<br>蔡宗德
           </td>
           <td>
-            臺南市官田區大崎66號 06-693-0100
+            臺南市官田區大崎66號<br>06-693-0100
           </td>
           <td>
             <a target="_" href="https://www.tnnua.edu.tw/p/412-1000-1332.php?Lang=zh-tw">連結</a>
@@ -645,7 +646,7 @@
             陳琳鳳
           </td>
           <td>
-            高雄市苓雅區尚勇路9號 0960-740-263
+            高雄市苓雅區尚勇路9號<br>0960-740-263
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/越範團-1662362527392124/">連結</a>
@@ -678,15 +679,15 @@
             屏東安克隆國際家庭親子樂團
           </td>
           <td>
-            蔡順柔 黃筌琳
+            蔡順柔<br>黃筌琳
           </td>
           <td>
-            屏東市德豐街106號 08-737-1382 屏東縣潮州鎮光澤巷16號 08-789-1929
+            屏東市德豐街106號<br>08-737-1382<br>屏東縣潮州鎮光澤巷16號<br>08-789-1929
           </td>
           <td>
-            <a target="_" href="http://jadwrp.blogspot.com/">連結</a>
-            <a target="_" href="jadwrp@gmail.com">連結</a>
-            <a target="_" href="jadwrp2@gmail.com">連結</a>
+            <a target="_" href="http://jadwrp.blogspot.com/">連結</a><br>
+            <a target="_" href="mailto:jadwrp@gmail.com">連結</a><br>
+            <a target="_" href="mailto:jadwrp2@gmail.com">連結</a>
           </td>
           <td>
             樂團成立於2019年12月，由社團法人屏東縣好好婦女權益發展協會承辦，由黃筌琳及蔡秉君擔任講師。

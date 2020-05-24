@@ -27,7 +27,7 @@
             利珍．妮卡兒
           </td>
           <td>
-            臺北市新生北路二段28巷5號17樓 02-2541-2057
+            臺北市新生北路二段28巷5號17樓<br>02-2541-2057
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/Taipei.newcentury/">連結</a>
@@ -44,10 +44,10 @@
             葉芬菊
           </td>
           <td>
-            花蓮縣壽豐鄉光榮村光榮1街26之1號 0933-996-777
+            花蓮縣壽豐鄉光榮村光榮1街26之1號<br>0933-996-777
           </td>
           <td>
-            <a target="_" href="tmt5757@ms3.hinet.net">連結</a>
+            <a target="_" href="mailto:tmt5757@ms3.hinet.net">連結</a>
           </td>
           <td>
             1998年成立，一開始只是在國中裡給部落婦女參加的舞蹈班，成長至今，已是成熟的傳統舞蹈團。
@@ -191,7 +191,7 @@
             林筑涵
           </td>
           <td>
-            089-854-434 0915-777-124
+            089-854-434<br>0915-777-124
           </td>
           <td>
             <a target="_" href="https://reurl.cc/lLMopv">連結</a>
@@ -202,6 +202,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>二、泰雅族</h3>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <thead>
@@ -269,7 +270,7 @@
             蘇美娟
           </td>
           <td>
-            新竹縣五峰鄉15鄰243號 03-565-6040
+            新竹縣五峰鄉15鄰243號<br>03-565-6040
           </td>
           <td></td>
           <td></td>
@@ -302,7 +303,7 @@
             臺中市東區東英三街7號
           </td>
           <td>
-            <a target="_" href="chjupi@gmail.com">連結</a>
+            <a target="_" href="mailto:chjupi@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -314,7 +315,7 @@
             陳季寧
           </td>
           <td>
-            宜蘭縣大同鄉南山村埤南巷31之3號 03-980-9113
+            宜蘭縣大同鄉南山村埤南巷31之3號<br>03-980-9113
           </td>
           <td></td>
           <td>
@@ -343,8 +344,8 @@
           <td></td>
           <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/mnoyanlokah/">連結</a>
-            <a target="_" href="ch.roro1211@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/mnoyanlokah/">連結</a><br>
+            <a target="_" href="mailto:ch.roro1211@gmail.com">連結</a>
           </td>
           <td>
             喜愛原住民傳統舞蹈的泰雅族人組成，以家族的概念，吸引了很多親朋好友一同來學習參加。
@@ -352,6 +353,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       三、排灣族
     </h3>
@@ -374,13 +376,13 @@
             胡健
           </td>
           <td width="170">
-            新北市新店區 02-2916-1666
+            新北市新店區<br>02-2916-1666
           </td>
           <td width="129"></td>
           <td width="130">
-            2013年製作《女巫芮斯－美麗的末日預言》專輯入圍金曲獎第二十四屆最佳原住民語專輯及歌手獎。
-            2010年排灣古調專輯《米靈岸 芮斯》入圍第二十二屆金曲獎最佳原住民語專輯及歌手獎 。
-            2009年榮獲國藝會「第三屆表演藝術追求卓越專案」獎助肯定。
+            2013年製作《女巫芮斯－美麗的末日預言》專輯入圍金曲獎第二十四屆最佳原住民語專輯及歌手獎。<br>
+            2010年排灣古調專輯《米靈岸 芮斯》入圍第二十二屆金曲獎最佳原住民語專輯及歌手獎 。<br>
+            2009年榮獲國藝會「第三屆表演藝術追求卓越專案」獎助肯定。<br>
             2004年製作專輯《芮斯歸來》榮獲第十五屆金曲獎傳統暨藝術音樂類最佳演唱獎。
           </td>
         </tr>
@@ -393,7 +395,6 @@
             屏東縣牡丹鄉石門村
           </td>
           <td width="129">
-            <a target="_" href="https://www.facebook.com/TaiSiaoChun">連結</a>
           </td>
           <td width="130">
             入圍第二十八屆金曲獎流行類「最佳原住民語專輯獎」、「最佳原住民語歌手獎」和「年度專輯」。
@@ -487,7 +488,7 @@
             范文凱
           </td>
           <td width="170">
-            臺東縣金崙村 0963-693-242
+            臺東縣金崙村<br>0963-693-242
           </td>
           <td width="129">
             <a target="_" href="https://www.facebook.com/vasakacedas/">連結</a>
@@ -498,6 +499,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       四、布農族
     </h3>
@@ -520,7 +522,7 @@
             王國慶
           </td>
           <td>
-            南投縣信義鄉明德村新開巷60之1號 04-9279-2800
+            南投縣信義鄉明德村新開巷60之1號<br>04-9279-2800
           </td>
           <td>
             <a target="_" href="http://sixstar.moc.gov.tw/blog/shinibunun">連結</a>
@@ -537,7 +539,7 @@
             王國慶
           </td>
           <td>
-            南投縣信義鄉明德村新開巷60之1號 04-9279-2800
+            南投縣信義鄉明德村新開巷60之1號<br>04-9279-2800
           </td>
           <td>
             <a target="_" href="http://sixstar.moc.gov.tw/blog/shinibunun">連結</a>
@@ -554,7 +556,7 @@
             馬彼得
           </td>
           <td>
-            南投縣信義鄉東埔村開高巷63號 04-9270-1340
+            南投縣信義鄉東埔村開高巷63號<br>04-9270-1340
           </td>
           <td>
             <a target="_" href="www.tpups.ntct.edu.tw">連結</a>
@@ -601,7 +603,7 @@
             Savi
           </td>
           <td>
-            0936-461-588 0905-558-088
+            0936-461-588<br>0905-558-088
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/小芳家族-1712064369093367/">連結</a>
@@ -618,13 +620,14 @@
             胡祝生
           </td>
           <td>
-            臺東縣海端鄉初來22號 0935-873-572
+            臺東縣海端鄉初來22號<br>0935-873-572
           </td>
           <td></td>
           <td></td>
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       五、卑南族
     </h3>
@@ -652,7 +655,7 @@
             0928-875-355
           </td>
           <td>
-            <a target="_" href="kezo888@gmail.com">連結</a>
+            <a target="_" href="mailto:kezo888@gmail.com">連結</a>
           </td>
           <td>
             來自臺東卑南南王普悠瑪部落，1991年成立，以樂舞做為力振部落傳統文化的重要媒介。
@@ -757,6 +760,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>六、魯凱族</h3>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <thead>
@@ -775,7 +779,7 @@
           </td>
           <td ></td>
           <td >
-            高雄市茂林區茂林里4之3號 07-680-1043
+            高雄市茂林區茂林里4之3號<br>07-680-1043
           </td>
           <td >
             <a target="_" href="https://www.facebook.com/MLES076801043/">連結</a>
@@ -790,7 +794,7 @@
           </td>
           <td ></td>
           <td >
-            屏東縣三地門鄉 08-796-1997
+            屏東縣三地門鄉<br>08-796-1997
           </td>
           <td >
             <a target="_" href="https://www.facebook.com/屏東縣青葉國小-117291993003600/">連結</a>
@@ -801,6 +805,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       七、鄒族
     </h3>
@@ -883,7 +888,7 @@
         </tr>
         <tr>
           <td>
-            <a target="_" href="https://www.facebook.com/%E9%80%90%E9%B9%BF%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93%E5%9C%98-581243195715410/?__tn__=kC-R&amp;eid=ARAFMRpvTFUJRZgGCGCy1f6WrUuGiyXa9MC0QgC9Z4x2-IOQru2IOJPQ-6rPFuV1Cq-S02aHl1Fa86DL&amp;hc_ref=ARQjDab9xrhfU_t-BQCRC2ZYpeP4uDwVu3GvcNXrYzkdTE_l_Z5mbk5-Ws7AMIh0l1s&amp;fref=nf&amp;__xts__%5B0%5D=68.ARCBs9NjJezqOh1Pwn8FyA1yE5W3OK1TxiDncOP30GLovCOV8Qqsx4GtWRUK-JevkzNJ5VUjW2-DCu7Zkk1tf3XnaabyJZmpkm2JRWzsbhr29b1PeOs7P_tAOGbuYwR38mMNBVWknfCwpCMNGNxideUurNR-JstQKPUWgPqttEa98XVOmr3AurSEfzhYnr5ggYdo95d85EF-eBvL7t1NWeBM8zJX7a6gO6NahR85H8Jviy6q38al_zoVVVD6dtl2So2xXBeohy1HP8wNicvtaSExfn5MiFvZNUZX9qOCMd9ZnHrn_2ycYYYomAORdah-5M9kKVfX7lE5bu-6UuTGOp8">連結</a>
+            逐鹿表演藝術團
           </td>
           <td></td>
           <td>
@@ -896,6 +901,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       八、賽夏族
     </h3>
@@ -959,6 +965,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       九、雅美（達悟）族
     </h3>
@@ -981,7 +988,7 @@
             瑪歐拉斯
           </td>
           <td>
-            臺東縣蘭嶼鄉紅頭村漁人147號 089-732-073
+            臺東縣蘭嶼鄉紅頭村漁人147號<br>089-732-073
           </td>
           <td>
             <a target="_" href="http://www.lanan.org.tw/">連結</a>
@@ -998,7 +1005,7 @@
             顏子矞
           </td>
           <td>
-            臺東縣蘭嶼鄉椰油村1號 08-973-2017
+            臺東縣蘭嶼鄉椰油村1號<br>08-973-2017
           </td>
           <td></td>
           <td>
@@ -1025,6 +1032,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       十、邵族
     </h3>
@@ -1047,7 +1055,7 @@
             袁百宏
           </td>
           <td>
-            南投縣魚池鄉日月村義勇街62號 04-9285-0036
+            南投縣魚池鄉日月村義勇街62號<br>04-9285-0036
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/itathao.thethao/about">連結</a>
@@ -1065,7 +1073,7 @@
             袁百宏
           </td>
           <td>
-            南投縣魚池鄉日月村豐年街與德化街轉角（逐鹿碼頭旁） 04-9285-0036
+            南投縣魚池鄉日月村豐年街與德化街轉角（逐鹿碼頭旁）<br>04-9285-0036
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/pg/Thao.Nation/about/?ref=page_internal">連結</a>
@@ -1076,6 +1084,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       十一、噶瑪蘭族
     </h3>
@@ -1098,7 +1107,7 @@
             余光臨
           </td>
           <td>
-            花蓮縣豐濱鄉新社村150號 03-871-1138
+            花蓮縣豐濱鄉新社村150號<br>03-871-1138
           </td>
           <td></td>
           <td>
@@ -1113,7 +1122,7 @@
             陳夏梅
           </td>
           <td>
-            花蓮縣豐濱鄉豐濱村19鄰立德27號 03-879-1306
+            花蓮縣豐濱鄉豐濱村19鄰立德27號<br>03-879-1306
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/">連結</a>
@@ -1124,6 +1133,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       十二、太魯閣族
     </h3>
@@ -1146,7 +1156,7 @@
             彭甄琳
           </td>
           <td>
-            臺北市信義路四段279號8樓 0972-892-209
+            臺北市信義路四段279號8樓<br>0972-892-209
           </td>
           <td>
             <a target="_" href="mailto:chenlinjo@gmail.com">連結</a>
@@ -1181,7 +1191,7 @@
             謝皓成
           </td>
           <td>
-            臺北市文山區福興路82巷5弄11號 0981-016-207
+            臺北市文山區福興路82巷5弄11號<br>0981-016-207
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/魯夿旮音樂有限公司-Rubaga-Music-101943177887753/">連結</a>
@@ -1226,6 +1236,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       十三、撒奇萊雅族
     </h3>
@@ -1249,7 +1260,7 @@
           </td>
           <td>
             <pre>桃園市龍潭區中正里神龍路270號1樓</pre>
-
+<br>
             03-480-2337
           </td>
           <td></td>
@@ -1263,7 +1274,7 @@
             嚴苡嘉
           </td>
           <td>
-            <pre>花蓮縣吉安鄉吉安村吉興一街389巷11號</pre>
+            <pre>花蓮縣吉安鄉吉安村吉興一街389巷11號</pre><br>
             <pre>0988-000-815</pre>
           </td>
           <td></td>
@@ -1277,13 +1288,14 @@
             徐從
           </td>
           <td>
-            花蓮縣花蓮市沙基拉雅街111號 03-856-3455
+            花蓮縣花蓮市沙基拉雅街111號<br>03-856-3455
           </td>
           <td></td>
           <td></td>
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       十四、賽德克族
     </h3>
@@ -1306,7 +1318,7 @@
             瑪姮巴丸
           </td>
           <td>
-            南投縣仁愛鄉互助村清風路18號 0987-214-213
+            南投縣仁愛鄉互助村清風路18號<br>0987-214-213
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/gluban.theater/">連結</a>
@@ -1323,10 +1335,10 @@
             瑪姮巴丸
           </td>
           <td>
-            南投縣仁愛鄉互助村清風路18號 0987-214-213
+            南投縣仁愛鄉互助村清風路18號<br>0987-214-213
           </td>
           <td>
-            <a target="_" href="www.facebook.com/ mahung.house2016">連結</a>
+            <a target="_" href="www.facebook.com/mahung.house2016">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1338,7 +1350,7 @@
             瑪姮巴丸
           </td>
           <td>
-            南投縣仁愛鄉互助村清風路18號 0987-214-213
+            南投縣仁愛鄉互助村清風路18號<br>0987-214-213
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/pusu.asd/">連結</a>
@@ -1370,16 +1382,16 @@
             蔡玉花
           </td>
           <td>
-            南投縣仁愛鄉南豐村松原巷19之1 049-2920-602
+            南投縣仁愛鄉南豐村松原巷19之1<br>049-2920-602
           </td>
           <td></td>
           <td>
-            於2013年南投縣政府公告登錄賽德克族祭典舞蹈歌〈uyas
-            kmeki〉為傳統藝術，登錄「賽德克傳統藝術團」為技藝保存團體。
+            於2013年南投縣政府公告登錄賽德克族祭典舞蹈歌〈uyaskmeki〉為傳統藝術，登錄「賽德克傳統藝術團」為技藝保存團體。
           </td>
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       十五、拉阿魯哇族
     </h3>
@@ -1411,6 +1423,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       十六、卡那卡那富族
     </h3>
@@ -1442,6 +1455,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       十七、平埔族－大武壠族
     </h3>
@@ -1464,18 +1478,19 @@
             姚水福
           </td>
           <td width="184">
-            高雄市杉林區上平里忠義路1號 07-677-5186
+            高雄市杉林區上平里忠義路1號<br>07-677-5186
           </td>
           <td width="115">
             <a target="_" href="https://www.facebook.com/SiaolinTaivoan/">連結</a>
           </td>
           <td width="130">
-            小林村人因莫拉克事件，一部分的人從甲仙小林村遷居至杉林這塊新土地重建。
+            小林村人因莫拉克事件，一部分的人從甲仙小林村遷居至杉林這塊新土地重建。<br>
             成立日期為2015年1月21日。
           </td>
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       十八、平埔族－馬卡道族
     </h3>
@@ -1498,10 +1513,10 @@
             閔黎明
           </td>
           <td width="184">
-            屏東縣高樹鄉 0981-992-519
+            屏東縣高樹鄉<br>0982-992-519
           </td>
           <td width="115">
-            <a target="_" href="garabomakatao@gmail.com">連結</a>
+            <a target="_" href="mailto:garabomakatao@gmail.com">連結</a>
           </td>
           <td width="130">
             拓展地方文化產業以其提供相關諮詢服務，並加強與社會各界合作關係，利用各種教育、活動，以及宣傳方式，活化地方文化。
@@ -1509,6 +1524,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       十九、平埔族－西拉雅族
     </h3>
@@ -1531,10 +1547,10 @@
             楊俊陞
           </td>
           <td width="184">
-            臺南市佳里區海澄里番子寮66-1號 06-723-8661
+            臺南市佳里區海澄里番子寮66-1號<br>06-723-8661
           </td>
           <td width="115">
-            <a target="_" href="m3211200@ms69.hinet.net">連結</a>
+            <a target="_" href="mailto:m3211200@ms69.hinet.net">連結</a>
           </td>
           <td width="130">
             本社區自1999年來開始恢復阿利祖夜祭發現仙人文化遺址資產，更吸引國內外歷史學者、文化工作者之重視，因此積極推廣傳承，並於2011年（民100）成立西拉雅舞團。
@@ -1542,6 +1558,7 @@
         </tr>
       </tbody>
     </table>
+    <br>
     <h3>
       二十、平埔族－拍瀑拉族
     </h3>
@@ -1564,7 +1581,7 @@
             吳長錕
           </td>
           <td>
-            臺中市清水鰲海路59號 04-2622-2596
+            臺中市清水鰲海路59號<br>04-2622-2596
           </td>
           <td>
             <a target="_" href="http://sixstar.moc.gov.tw/blog/gomach">連結</a>

@@ -94,7 +94,7 @@ const tabs = [
     path: 'indexDir_10',
   },
   {
-    name: '綜合型藝術節',
+    name: '跨界音樂與其他篇',
     autor: '',
     component: IndexDir11,
     path: 'indexDir_11',

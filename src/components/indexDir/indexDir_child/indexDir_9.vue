@@ -8,9 +8,9 @@
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th style="width:20%">時間</th>
+          <th style="width:22%">時間</th>
           <th style="width:20%">活動名稱</th>
-          <th style="width:25%">活動內容</th>
+          <th style="width:30%">活動內容</th>
           <th>備註</th>
         </tr>
       </thead>
@@ -147,9 +147,7 @@
             2019/05/18-06/01
           </td>
           <td>
-            <h2>
               2019新竹完全人聲藝術節
-            </h2>
           </td>
           <td>
             來自全臺的阿卡貝拉師資群、海鷗．K人聲樂團及眾多阿卡界歌手們，從歌唱技巧到表演藝術、從人聲打擊到阿卡編曲、從帶團經驗到麥克風音響知識、舞臺訓練示範，以及國際團體Acapella

@@ -1,16 +1,16 @@
 <template>
   <div>
     <div class="title">
-      <h2>綜合型藝術節</h2>
+      <h2>跨界音樂與其他篇</h2>
     </div>
     <hr>
     <p class="firstRow"></p>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th style="width:20%">時間</th>
-          <th style="width:20%">活動名稱</th>
-          <th style="width:25%">活動內容</th>
+          <th style="width:22%">時間</th>
+          <th>活動名稱</th>
+          <th style="width:30%">活動內容</th>
           <th>備註</th>
         </tr>
       </thead>

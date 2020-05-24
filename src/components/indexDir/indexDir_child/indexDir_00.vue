@@ -96,7 +96,7 @@ const tabs = [
     path: 'indexDir_21',
   },
   {
-    name: '跨界樂團',
+    name: '跨界音樂與其他篇',
     autor: '',
     component: IndexDir22,
     path: 'indexDir_22',

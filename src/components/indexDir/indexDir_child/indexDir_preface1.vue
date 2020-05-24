@@ -1,7 +1,7 @@
 <template>
   <div v-if="show" class="preface">
     <div class="title">
-      <h2>索引名錄</h2>
+      <h2>附錄</h2>
       <span @click="close" class="cross">
         <img width="20" src="./../../../assets/cross.png">
       </span>
