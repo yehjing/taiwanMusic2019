@@ -2,6 +2,9 @@
 
 $image-path: 'assets';
 @media (max-width: 576px) {
+  h1{
+    font-size:1em ; //2
+  }
   h2{
     font-size:.9em ; //1.5
   }
@@ -13,6 +16,10 @@ $image-path: 'assets';
   }
   p,span,strong,small,b{
     font-size: 12px !important;
+  }
+  iframe{
+    width: 95%;
+    height: 230px;
   }
 }
 
