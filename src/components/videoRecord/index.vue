@@ -11,7 +11,7 @@
         流行音樂
       </div>
       <div class="middleItem noLeaf" :class="activeName === 'videoRecord_03' ? 'active' :''" @click="clickLink('videoRecord_03')">
-        跨界音樂
+        跨界音樂與其他
       </div>
     </aside>
     <div class="viewRight">

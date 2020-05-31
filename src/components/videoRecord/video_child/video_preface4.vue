@@ -1,7 +1,7 @@
 <template>
   <div v-if="show" class="preface">
     <div class="title">
-      <h2>跨界音樂</h2>
+      <h2>跨界音樂與其他</h2>
       <span @click="close" class="cross">
         <img width="20" src="./../../../assets/cross.png" />
       </span>
@@ -12,11 +12,22 @@
     <table rules="all" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
+          <td>
+            子計畫
+          </td>
+          <td>
+            序號
+          </td>
+          <td>
+            標題名稱
+          </td>
+        </tr>
+        <tr>
           <td rowspan="3">
             跨界音樂與其他
           </td>
           <td>
-            14_1
+            1
           </td>
           <td>
             臺灣燈會在屏東－國際燈區新住民藝術表演「藝遊未境」系列活動
@@ -24,7 +35,7 @@
         </tr>
         <tr>
           <td>
-            14_2
+            2
           </td>
           <td>
             東南亞樂舞表演
@@ -32,7 +43,7 @@
         </tr>
         <tr>
           <td>
-            14_3
+            3
           </td>
           <td>
             爪哇伯公：漫步日惹鄉村傳唱臺灣民間故事

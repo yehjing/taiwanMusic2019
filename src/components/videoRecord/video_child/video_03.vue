@@ -24,7 +24,7 @@ const tabs = [
   //   component: VideoPreface4,
   // },
   {
-    name: '跨界音樂',
+    name: '跨界音樂與其他',
     autor: '',
     component: Video14,
     path: 'videoRecord_14',
