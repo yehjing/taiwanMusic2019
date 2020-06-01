@@ -15,7 +15,7 @@
           <td>
             子計畫
           </td>
-          <td>
+          <td class="tableCenter">
             序號
           </td>
           <td>
@@ -26,7 +26,7 @@
           <td rowspan="5">
             國樂
           </td>
-          <td>
+          <td class="tableCenter">
             1
           </td>
           <td>
@@ -34,7 +34,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             2
           </td>
           <td>
@@ -42,7 +42,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             3
           </td>
           <td>
@@ -50,7 +50,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             4
           </td>
           <td>
@@ -58,7 +58,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             5
           </td>
           <td>
@@ -69,7 +69,7 @@
           <td rowspan="4">
             西樂及混合編制
           </td>
-          <td>
+          <td class="tableCenter">
             1
           </td>
           <td>
@@ -77,7 +77,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             2
           </td>
           <td>
@@ -85,7 +85,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             3
           </td>
           <td>
@@ -93,7 +93,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             4
           </td>
           <td>

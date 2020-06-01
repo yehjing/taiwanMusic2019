@@ -19,7 +19,7 @@
         </ul>
       </nav>
       <MobileHomeNav v-show="isHome"/>
-      <section v-show="isOther" class="mainArea">
+      <section ref="mainArea" v-show="isOther" class="mainArea">
         <div class="insideArea">
           <router-view></router-view>
         </div>
@@ -94,24 +94,34 @@ export default {
   },
   methods: {
     rwdStyle() {
-      console.log('document.body.clientWidth <= 576', document.body.clientWidth);
       if (document.body.clientWidth <= 576) {
         if (!this.$route.meta.isPreface) {
-          console.log('if');
           document.querySelector('.share').style.display = 'flex';
           document.querySelector('.viewRight').style.background = '#fff';
         } else {
-          console.log('else  else');
           document.querySelector('.viewRight').style.background = 'none';
           document.querySelector('.share').style.display = 'none';
         }
       } else {
-        console.log('else');
         document.querySelector('.viewRight').style.background = '#fff';
         document.querySelector('.share').style.display = 'flex';
       }
     },
+    initScroll() {
+      // this.$refs.mainArea.scrollTop = 0
+      // this.$refs.mainArea.scrollLeft = 0
+      document.documentElement.scrollTop = 0
+    }
   },
+  /**
+   * 提供給任意子組件指向自身(AppMain) this 的 initScroll 方法
+   * 而子組件可透過 inject: ['initScroll'] 使用
+   */
+  provide() {
+    return {
+      initScroll: this.initScroll
+    }
+  }
 };
 </script>
 <style rel="stylesheet/scss" lang="scss">

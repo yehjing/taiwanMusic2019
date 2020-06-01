@@ -16,7 +16,7 @@
           <td>
             子計畫
           </td>
-          <td width="4%">
+          <td width="4%" class="tableCenter">
             序號
           </td>
           <td>
@@ -27,7 +27,7 @@
           <td rowspan="4">
             南管音樂
           </td>
-          <td>
+          <td class="tableCenter">
             1
           </td>
           <td>
@@ -35,7 +35,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             2
           </td>
           <td>
@@ -43,7 +43,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             3
           </td>
           <td>
@@ -51,7 +51,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             4
           </td>
           <td>
@@ -62,7 +62,7 @@
           <td rowspan="4">
             北管音樂
           </td>
-          <td>
+          <td class="tableCenter">
             1
           </td>
           <td>
@@ -70,7 +70,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             2
           </td>
           <td>
@@ -78,7 +78,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             3
           </td>
           <td>
@@ -86,7 +86,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             4
           </td>
           <td>
@@ -97,7 +97,7 @@
           <td rowspan="4">
             福佬歌謠
           </td>
-          <td>
+          <td class="tableCenter">
             1
           </td>
           <td>
@@ -105,7 +105,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             2
           </td>
           <td>
@@ -114,7 +114,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             3
           </td>
           <td>
@@ -122,7 +122,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             4
           </td>
           <td>
@@ -133,7 +133,7 @@
           <td rowspan="4">
             客家音樂
           </td>
-          <td>
+          <td class="tableCenter">
             1
           </td>
           <td>
@@ -141,7 +141,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             2
           </td>
           <td>
@@ -149,7 +149,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             3
           </td>
           <td>
@@ -157,7 +157,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             4
           </td>
           <td>
@@ -168,7 +168,7 @@
           <td rowspan="5">
             原住民音樂－泰雅族、賽夏族、阿美族、卑南族、雅美（達悟）族
           </td>
-          <td>
+          <td class="tableCenter">
             1
           </td>
           <td>
@@ -176,7 +176,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             2
           </td>
           <td>
@@ -184,7 +184,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             3
           </td>
           <td>
@@ -192,7 +192,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             4
           </td>
           <td>
@@ -200,7 +200,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             5
           </td>
           <td>
@@ -211,7 +211,7 @@
           <td rowspan="3">
             原住民音樂－太魯閣族、鄒族、撒奇萊雅族
           </td>
-          <td>
+          <td class="tableCenter">
             1
           </td>
           <td>
@@ -219,7 +219,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             2
           </td>
           <td>
@@ -227,7 +227,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             3
           </td>
           <td>
@@ -238,7 +238,7 @@
           <td rowspan="5">
             原住民音樂－排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族
           </td>
-          <td>
+          <td class="tableCenter">
             1
           </td>
           <td>
@@ -246,7 +246,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             2
           </td>
           <td>
@@ -254,7 +254,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             3
           </td>
           <td>
@@ -262,7 +262,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             4
           </td>
           <td>
@@ -270,7 +270,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             5
           </td>
           <td>
@@ -281,7 +281,7 @@
           <td rowspan="4">
             原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族
           </td>
-          <td>
+          <td class="tableCenter">
             1
           </td>
           <td>
@@ -289,7 +289,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             2
           </td>
           <td>
@@ -298,7 +298,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             3
           </td>
           <td>
@@ -306,7 +306,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             4
           </td>
           <td>
@@ -317,7 +317,7 @@
           <td>
             佛、釋教音樂
           </td>
-          <td>
+          <td class="tableCenter">
             1
           </td>
           <td>
@@ -328,7 +328,7 @@
           <td rowspan="4">
             道、法教音樂
           </td>
-          <td>
+          <td class="tableCenter">
             1
           </td>
           <td>
@@ -336,7 +336,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             2
           </td>
           <td>
@@ -344,7 +344,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             3
           </td>
           <td>
@@ -352,7 +352,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             4
           </td>
           <td>

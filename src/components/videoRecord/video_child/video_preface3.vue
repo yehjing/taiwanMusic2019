@@ -15,7 +15,7 @@
           <td>
             子計畫
           </td>
-          <td>
+          <td class="tableCenter">
             序號
           </td>
           <td>
@@ -26,7 +26,7 @@
           <td>
             流行音樂
           </td>
-          <td>
+          <td class="tableCenter">
             1
           </td>
           <td>

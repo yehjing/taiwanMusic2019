@@ -33,6 +33,7 @@ const tabs = [
 
 export default {
   components: { VideoPreface4 },
+  inject: ['initScroll'],
   data() {
     return {
       currentTab: tabs[0],
@@ -51,6 +52,7 @@ export default {
       // });
       this.$router.push(`/videoRecord/${tab.path}`);
       this.currentTab = tab;
+      this.initScroll()
     },
   },
 };

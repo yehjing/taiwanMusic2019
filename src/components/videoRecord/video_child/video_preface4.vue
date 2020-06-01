@@ -15,7 +15,7 @@
           <td>
             子計畫
           </td>
-          <td>
+          <td class="tableCenter">
             序號
           </td>
           <td>
@@ -26,7 +26,7 @@
           <td rowspan="3">
             跨界音樂與其他
           </td>
-          <td>
+          <td class="tableCenter">
             1
           </td>
           <td>
@@ -34,7 +34,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             2
           </td>
           <td>
@@ -42,7 +42,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             3
           </td>
           <td>

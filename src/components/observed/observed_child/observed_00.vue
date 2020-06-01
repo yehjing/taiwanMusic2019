@@ -96,6 +96,7 @@ const tabs = [
 
 export default {
   components: { ObservedPreface1 },
+  inject: ['initScroll'],
   data() {
     return {
       currentTab: tabs[0],
@@ -109,6 +110,7 @@ export default {
     changeView(tab) {
       this.$router.push(`/observed/${tab.path}`);
       this.currentTab = tab;
+      this.initScroll()
     },
   },
 };

@@ -105,6 +105,7 @@ const tabs = [
 
 export default {
   components: { IndexDirPreface1 },
+  inject: ['initScroll'],
   data() {
     return {
       currentTab: tabs[0],
@@ -124,6 +125,7 @@ export default {
       console.log(tab.path);
       this.$router.push(`/indexDir/${tab.path}`);
       this.currentTab = tab;
+      this.initScroll()
     },
   },
 };
