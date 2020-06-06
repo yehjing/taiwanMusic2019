@@ -12,13 +12,13 @@
     <table rules="all" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
-          <td>
+          <td class="tableCenter">
             子計畫
           </td>
           <td class="tableCenter">
             序號
           </td>
-          <td>
+          <td class="tableCenter">
             標題名稱
           </td>
         </tr>

@@ -13,13 +13,13 @@
     <table rules="all" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
-          <td>
+          <td class="tableCenter">
             子計畫
           </td>
           <td width="4%" class="tableCenter">
             序號
           </td>
-          <td>
+          <td class="tableCenter">
             標題名稱
           </td>
         </tr>
@@ -31,7 +31,7 @@
             1
           </td>
           <td>
-            慶祝台北聚賢堂一五四暨和鳴南樂社二十二週年整絃會奏
+            慶祝台北聚賢堂一五四週年暨和鳴南樂社二十二週年整絃會奏
           </td>
         </tr>
         <tr>

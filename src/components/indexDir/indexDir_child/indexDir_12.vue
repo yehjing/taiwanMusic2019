@@ -1190,9 +1190,9 @@
             傳真：06-927-6602
           </td>
           <td>
-            Ph1141@ms2.hiiiiiiinet.net<br />
+            <a href="mailto:Ph1141@ms2.hiiiiiiinet.net">連結</a><br />
 
-            Geosu5438@yahoo.com.tw
+            <a href="Geosu5438@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>

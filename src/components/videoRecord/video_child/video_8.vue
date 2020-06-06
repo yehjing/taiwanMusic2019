@@ -7,7 +7,7 @@
     <iframe frameborder="0" allowfullscreen="" scrolling="no" src="https://onelineplayer.com/player.html?autoplay=false&loop=true&autopause=false&muted=false&url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fauthuser%3D0%26id%3D1TgCr3kSDtQcvH7UmpHcNkJMWLNSgxivW%26export%3Ddownload&poster=null&time=true&progressBar=true&playButton=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&logo=false&quality=720p" width="560" height="315"></iframe>
     <h1>噶瑪蘭族 海祭sepaw tu lazing</h1>
     <iframe frameborder="0" allowfullscreen="" scrolling="no" src="https://onelineplayer.com/player.html?autoplay=false&loop=true&autopause=false&muted=false&url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fauthuser%3D0%26id%3D19ACQN6o7QQ6QUBZo6vjFHNp1aahhNGal%26export%3Ddownload&poster=null&time=true&progressBar=true&playButton=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&logo=false&quality=720p" width="560" height="315"></iframe>
-    <h1>賽德克族 2019年賽德克族聯合歲時祭儀（本篇內容經賽德克族傳智授權）</h1>
+    <h1>賽德克族 2019年賽德克族聯合歲時祭儀<small>（本篇內容經賽德克族傳智授權）</small></h1>
     <iframe frameborder="0" allowfullscreen="" scrolling="no" src="https://onelineplayer.com/player.html?autoplay=false&loop=true&autopause=false&muted=false&url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fauthuser%3D0%26id%3D1l_k0RJ94OzsDX29dWMovZGTA1ALk50KU%26export%3Ddownload&poster=null&time=true&progressBar=true&playButton=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&logo=false&quality=720p" width="560" height="315"></iframe>
   </div>
 </template>
