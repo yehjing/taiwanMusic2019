@@ -17,70 +17,70 @@
     <p>
       <strong>一、福佬系歌謠概述</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 以下分定義、傳統民謠、創作歌謠三部分作簡述。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以下分定義、傳統民謠、創作歌謠三部分作簡述。</p>
     <p>
       <strong>（一）定義</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 福佬系歌謠指的是以狹義臺語（閩南語、福佬話）演唱之歌謠，包括無固定作者的傳統民謠與有固定作者的創作歌謠，而後者的數量不僅遠遠超過前者，還不斷的產生。不論傳統民謠或創作歌謠，都包含了成人演唱的歌謠與兒童演唱的童謠。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;福佬系歌謠指的是以狹義臺語（閩南語、福佬話）演唱之歌謠，包括無固定作者的傳統民謠與有固定作者的創作歌謠，而後者的數量不僅遠遠超過前者，還不斷的產生。不論傳統民謠或創作歌謠，都包含了成人演唱的歌謠與兒童演唱的童謠。</p>
     <p>
       <strong>（二）傳統民謠</strong>
     </p>
-    <p>&nbsp; &nbsp;&nbsp;「傳統民謠」又有「自然民謠」等不同的別稱，即自然流傳在民間的歌謠。換言之，是一個族群「自然衍生」的歌謠，是經由歷史篩選而為族群所共有的。因為口頭傳承，經長期不斷被重新修飾、詮釋過，故已非一人、一時或一地之作。因此它有一定的「母型」，但卻沒有絕對「正確」的版本。由於經由時空的洗鍊，又要能為多數人所唱，因此具有素樸、凝鍊、簡單卻又豐富、真誠、深遠的特質，沒有固定的作者。</p>
-    <p>&nbsp;&nbsp;&nbsp; 臺灣福佬系傳統民謠，依分布地區分類，一般將其分為西部平原（即彰南地區，包括高雄以北、彰化以南的中央山脈西側之中南部平原）、恆春地區（包括恆春鎮、車城鄉、滿州鄉、枋山鄉、牡丹鄉等幾個鄉鎮）、北宜地區等地（包括大臺北地區、蘭陽地區，以及其他無法列入西部平原與恆春地區的地方）。以下2019年之觀察，將分成恆春地區以及恆春以外地區的觀察兩部分作敘述。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「傳統民謠」又有「自然民謠」等不同的別稱，即自然流傳在民間的歌謠。換言之，是一個族群「自然衍生」的歌謠，是經由歷史篩選而為族群所共有的。因為口頭傳承，經長期不斷被重新修飾、詮釋過，故已非一人、一時或一地之作。因此它有一定的「母型」，但卻沒有絕對「正確」的版本。由於經由時空的洗鍊，又要能為多數人所唱，因此具有素樸、凝鍊、簡單卻又豐富、真誠、深遠的特質，沒有固定的作者。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;臺灣福佬系傳統民謠，依分布地區分類，一般將其分為西部平原（即彰南地區，包括高雄以北、彰化以南的中央山脈西側之中南部平原）、恆春地區（包括恆春鎮、車城鄉、滿州鄉、枋山鄉、牡丹鄉等幾個鄉鎮）、北宜地區等地（包括大臺北地區、蘭陽地區，以及其他無法列入西部平原與恆春地區的地方）。以下2019年之觀察，將分成恆春地區以及恆春以外地區的觀察兩部分作敘述。</p>
     <p>
       <strong>（三）創作歌謠</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 「創作歌謠」屬個人創作的歌謠，有固定的作者，有時甚至連第一位主唱者都會被記錄下來。其與傳統民謠最大的差別，在於後者具有創作過程集體性、詞曲異變性、傳播方式口頭性、具鮮明的民族風格與地方色彩，是經長期時空的考驗、過濾，所流傳下來的經典之作等特徵。</p>
-    <p>&nbsp;&nbsp;&nbsp; 所謂「臺灣福佬系創作歌謠」，即一般所謂的「閩南語創作歌謠」、「臺灣通俗歌謠」或「臺灣歌謠」。「流行歌曲」又稱「城市歌曲」，是創作歌謠的一種，但創作歌謠不一定是流行歌曲。一首創作歌謠能否流傳下來，不能光從流行性來看，因時代性是佔很大因素的。一首創作歌謠若能經得起時代的考驗，必能成為經典之作而長久流傳下去。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「創作歌謠」屬個人創作的歌謠，有固定的作者，有時甚至連第一位主唱者都會被記錄下來。其與傳統民謠最大的差別，在於後者具有創作過程集體性、詞曲異變性、傳播方式口頭性、具鮮明的民族風格與地方色彩，是經長期時空的考驗、過濾，所流傳下來的經典之作等特徵。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所謂「臺灣福佬系創作歌謠」，即一般所謂的「閩南語創作歌謠」、「臺灣通俗歌謠」或「臺灣歌謠」。「流行歌曲」又稱「城市歌曲」，是創作歌謠的一種，但創作歌謠不一定是流行歌曲。一首創作歌謠能否流傳下來，不能光從流行性來看，因時代性是佔很大因素的。一首創作歌謠若能經得起時代的考驗，必能成為經典之作而長久流傳下去。</p>
     <p>臺灣福佬系創作歌謠之數量，相較於傳統民謠可謂不勝枚舉，且如滾滾長河源源不斷。臺灣第一首詞曲皆由臺灣人自我創作（非改編）的福佬系創作歌曲，一般被認為是產生於1932年的〈桃花泣血記〉，此後八、九十年來所產生的創作歌謠不計其數，且有些作品因具有臺灣人意識、精神、特性、風格等，早已根深蒂固為大家所認同、喜愛，如鄧雨賢的四月望雨（〈四季紅〉、〈月夜愁〉、〈望春風〉、〈雨夜花〉）等，雖這些創作歌謠，有固定作曲者、或作詞者、或詞曲作者，但這些作品已具有強烈臺灣人意識、精神、特性、風格，已完全屬於臺灣人的作品，故本文仍將其列入觀察，已符合本計畫案「傳統音樂－福佬歌謠」之子標題。</p>
     <p>
       <strong>二、</strong>
       <strong>2019</strong>
       <strong>年福佬系歌謠之觀察</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 以下有關福佬系歌謠「2019年之觀察」，再分成活動主題、活動時間、活動地點、活動性質、曲目（傳統民謠、創作歌謠－曲目、作詞者/編詞者/口述者/譯詞者、作曲者/編曲者）、演出方式、伴奏樂器等面向作敘述。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以下有關福佬系歌謠「2019年之觀察」，再分成活動主題、活動時間、活動地點、活動性質、曲目（傳統民謠、創作歌謠－曲目、作詞者/編詞者/口述者/譯詞者、作曲者/編曲者）、演出方式、伴奏樂器等面向作敘述。</p>
     <p>
       <strong>（一）活動主題</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年「福佬系歌謠」之觀察，筆者共觀察了180個活動主題（表1）。表1中「展」表「展演活動」、「推」表「推廣教育」、「傳」表「傳習活動」、「交」表「國際與兩岸交流」、「跨」表「跨界」、「其」表「其他」。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年「福佬系歌謠」之觀察，筆者共觀察了180個活動主題（表1）。表1中「展」表「展演活動」、「推」表「推廣教育」、「傳」表「傳習活動」、「交」表「國際與兩岸交流」、「跨」表「跨界」、「其」表「其他」。</p>
     <span>表1：2019年臺灣福佬系歌謠之活動主題</span>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5" width="807">
       <tbody>
         <tr>
           <td width="56">
-            <p>&nbsp;</p>
+            <p class="tableCenter">&nbsp;</p>
           </td>
           <td width="77">
-            <p>日期</p>
+            <p class="tableCenter">日期</p>
           </td>
           <td width="250">
-            <p>活動主題</p>
+            <p class="tableCenter">活動主題</p>
           </td>
           <td width="200">
-            <p>活動地點</p>
+            <p class="tableCenter">活動地點</p>
           </td>
           <td width="37">
-            <p>展</p>
+            <p class="tableCenter">展</p>
           </td>
           <td width="37">
-            <p>推</p>
+            <p class="tableCenter">推</p>
           </td>
           <td width="37">
-            <p>傳</p>
+            <p class="tableCenter">傳</p>
           </td>
           <td width="37">
-            <p>交</p>
+            <p class="tableCenter">交</p>
           </td>
           <td width="37">
-            <p>跨</p>
+            <p class="tableCenter">跨</p>
           </td>
           <td width="37">
-            <p>其</p>
+            <p class="tableCenter">其</p>
           </td>
         </tr>
         <tr>
           <td width="56">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
           <td width="77">
             <p>2018/</p>
@@ -89,7 +89,7 @@
             <p>10/31</p>
           </td>
           <td width="250">
-            <p>臺北市政府文化局「四月望雨 &nbsp;鄧雨賢特展」</p>
+            <p>臺北市政府文化局「四月望雨鄧雨賢特展」</p>
           </td>
           <td width="200">
             <p>臺北市萬華區剝皮寮歷史街區</p>
@@ -98,7 +98,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -115,24 +115,21 @@
         </tr>
         <tr>
           <td width="56">
-            <p>2</p>
+            <p class="tableCenter">2</p>
           </td>
           <td width="77">
             <p>01/01</p>
           </td>
           <td rowspan="2" width="250">
             <p>
-              「臺灣的聲音」2019
-              <a
-                href="http://www.epochtimes.com/b5/tag/%e6%96%b0%e5%b9%b4%e9%9f%b3%e6%a8%82%e6%9c%83.html"
-              >新年音樂會</a>
+              「臺灣的聲音」2019新年音樂會
             </p>
           </td>
           <td width="200">
             <p>臺北市內湖區大湖公園陽光草坪</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -141,7 +138,7 @@
             <p>&nbsp;</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -152,7 +149,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>3</p>
+            <p class="tableCenter">3</p>
           </td>
           <td width="77">
             <p>01/05</p>
@@ -163,7 +160,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>4</p>
+            <p class="tableCenter">4</p>
           </td>
           <td width="77">
             <p>01/09</p>
@@ -178,10 +175,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -198,7 +195,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>5</p>
+            <p class="tableCenter">5</p>
           </td>
           <td width="77">
             <p>01/16</p>
@@ -210,10 +207,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -230,7 +227,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>6</p>
+            <p class="tableCenter">6</p>
           </td>
           <td width="77">
             <p>01/23</p>
@@ -242,10 +239,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -262,7 +259,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>7</p>
+            <p class="tableCenter">7</p>
           </td>
           <td width="77">
             <p>01/27</p>
@@ -274,7 +271,7 @@
             <p>臺北市臺灣戲曲中心大表演廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -294,7 +291,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>8</p>
+            <p class="tableCenter">8</p>
           </td>
           <td width="77">
             <p>01/30</p>
@@ -306,10 +303,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -326,7 +323,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>9</p>
+            <p class="tableCenter">9</p>
           </td>
           <td width="77">
             <p>02/05</p>
@@ -338,10 +335,10 @@
             <p>屏東縣滿州民謠館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -358,7 +355,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>10</p>
+            <p class="tableCenter">10</p>
           </td>
           <td width="77">
             <p>02/05</p>
@@ -370,7 +367,7 @@
             <p>屏東縣滿州民謠館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -390,7 +387,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>11</p>
+            <p class="tableCenter">11</p>
           </td>
           <td width="77">
             <p>02/13</p>
@@ -402,10 +399,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -422,7 +419,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>12</p>
+            <p class="tableCenter">12</p>
           </td>
           <td width="77">
             <p>02/16</p>
@@ -434,7 +431,7 @@
             <p>桃園市中壢藝術館音樂廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -443,7 +440,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -454,7 +451,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>13</p>
+            <p class="tableCenter">13</p>
           </td>
           <td width="77">
             <p>02/19</p>
@@ -466,7 +463,7 @@
             <p>屏東縣東港鎮光復路二段</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -486,7 +483,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>14</p>
+            <p class="tableCenter">14</p>
           </td>
           <td width="77">
             <p>02/20</p>
@@ -498,10 +495,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -518,7 +515,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>15</p>
+            <p class="tableCenter">15</p>
           </td>
           <td width="77">
             <p>02/27</p>
@@ -530,10 +527,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -550,7 +547,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>16</p>
+            <p class="tableCenter">16</p>
           </td>
           <td width="77">
             <p>02/28</p>
@@ -562,7 +559,7 @@
             <p>臺北市中山堂中正廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -582,7 +579,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>17</p>
+            <p class="tableCenter">17</p>
           </td>
           <td width="77">
             <p>03/06</p>
@@ -594,10 +591,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -614,7 +611,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>18</p>
+            <p class="tableCenter">18</p>
           </td>
           <td width="77">
             <p>03/13</p>
@@ -626,10 +623,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -646,7 +643,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>19</p>
+            <p class="tableCenter">19</p>
           </td>
           <td width="77">
             <p>03/20</p>
@@ -658,10 +655,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -678,7 +675,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>20</p>
+            <p class="tableCenter">20</p>
           </td>
           <td width="77">
             <p>03/27</p>
@@ -690,10 +687,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -710,7 +707,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>21</p>
+            <p class="tableCenter">21</p>
           </td>
           <td width="77">
             <p>04/01</p>
@@ -722,7 +719,7 @@
             <p>臺北市國家音樂廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -731,7 +728,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -742,7 +739,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>22</p>
+            <p class="tableCenter">22</p>
           </td>
           <td width="77">
             <p>04/03</p>
@@ -754,10 +751,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -774,7 +771,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>23</p>
+            <p class="tableCenter">23</p>
           </td>
           <td width="77">
             <p>04/06</p>
@@ -786,7 +783,7 @@
             <p>臺北市凱達格蘭大道；電視、網路、電臺直播。</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -798,7 +795,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -806,7 +803,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>24</p>
+            <p class="tableCenter">24</p>
           </td>
           <td width="77">
             <p>04/07</p>
@@ -821,7 +818,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -838,7 +835,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>25</p>
+            <p class="tableCenter">25</p>
           </td>
           <td width="77">
             <p>04/10</p>
@@ -850,10 +847,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -870,7 +867,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>26</p>
+            <p class="tableCenter">26</p>
           </td>
           <td width="77">
             <p>04/14</p>
@@ -882,10 +879,10 @@
             <p>基隆市議會多媒體視聽室</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -902,7 +899,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>27</p>
+            <p class="tableCenter">27</p>
           </td>
           <td width="77">
             <p>04/17</p>
@@ -914,10 +911,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -934,7 +931,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>28</p>
+            <p class="tableCenter">28</p>
           </td>
           <td width="77">
             <p>04/24</p>
@@ -946,10 +943,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -966,7 +963,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>29</p>
+            <p class="tableCenter">29</p>
           </td>
           <td width="77">
             <p>04/27</p>
@@ -978,7 +975,7 @@
             <p>高雄市大東文化藝術中心</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -987,7 +984,7 @@
             <p>&nbsp;</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -998,7 +995,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>30</p>
+            <p class="tableCenter">30</p>
           </td>
           <td width="77">
             <p>04/28</p>
@@ -1006,7 +1003,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>31</p>
+            <p class="tableCenter">31</p>
           </td>
           <td width="77">
             <p>04/28</p>
@@ -1018,7 +1015,7 @@
             <p>新竹市文化局演藝廳音樂廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1038,7 +1035,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>32</p>
+            <p class="tableCenter">32</p>
           </td>
           <td width="77">
             <p>05/01</p>
@@ -1050,10 +1047,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1070,7 +1067,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>33</p>
+            <p class="tableCenter">33</p>
           </td>
           <td width="77">
             <p>05/08</p>
@@ -1082,10 +1079,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1102,7 +1099,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>34</p>
+            <p class="tableCenter">34</p>
           </td>
           <td width="77">
             <p>05/09</p>
@@ -1114,13 +1111,13 @@
             <p>宜蘭國立傳統藝術中心曲藝館</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -1134,7 +1131,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>35</p>
+            <p class="tableCenter">35</p>
           </td>
           <td width="77">
             <p>05/10</p>
@@ -1142,7 +1139,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>36</p>
+            <p class="tableCenter">36</p>
           </td>
           <td width="77">
             <p>05/11</p>
@@ -1154,7 +1151,7 @@
             <p>宜蘭市百果樹紅磚屋</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1174,7 +1171,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>37</p>
+            <p class="tableCenter">37</p>
           </td>
           <td width="77">
             <p>05/11</p>
@@ -1186,7 +1183,7 @@
             <p>屏東演藝廳音樂廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1206,7 +1203,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>38</p>
+            <p class="tableCenter">38</p>
           </td>
           <td width="77">
             <p>05/11</p>
@@ -1218,13 +1215,13 @@
             <p>宜蘭國立傳統藝術中心曲藝館</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -1238,7 +1235,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>39</p>
+            <p class="tableCenter">39</p>
           </td>
           <td width="77">
             <p>05/12</p>
@@ -1246,7 +1243,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>40</p>
+            <p class="tableCenter">40</p>
           </td>
           <td width="77">
             <p>05/15</p>
@@ -1258,10 +1255,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1278,7 +1275,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>41</p>
+            <p class="tableCenter">41</p>
           </td>
           <td width="77">
             <p>05/21</p>
@@ -1290,7 +1287,7 @@
             <p>新竹縣文化局演藝廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1310,7 +1307,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>42</p>
+            <p class="tableCenter">42</p>
           </td>
           <td width="77">
             <p>05/22</p>
@@ -1322,10 +1319,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1342,7 +1339,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>43</p>
+            <p class="tableCenter">43</p>
           </td>
           <td width="77">
             <p>05/25</p>
@@ -1354,10 +1351,10 @@
             <p>屏東縣滿州民謠館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1374,7 +1371,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>44</p>
+            <p class="tableCenter">44</p>
           </td>
           <td width="77">
             <p>05/28</p>
@@ -1386,7 +1383,7 @@
             <p>基隆文化中心演藝廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1406,7 +1403,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>45</p>
+            <p class="tableCenter">45</p>
           </td>
           <td width="77">
             <p>05/29</p>
@@ -1418,10 +1415,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1438,7 +1435,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>46</p>
+            <p class="tableCenter">46</p>
           </td>
           <td width="77">
             <p>06/05</p>
@@ -1450,10 +1447,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1470,7 +1467,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>47</p>
+            <p class="tableCenter">47</p>
           </td>
           <td width="77">
             <p>06/05</p>
@@ -1482,7 +1479,7 @@
             <p>屏東演藝廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1502,7 +1499,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>48</p>
+            <p class="tableCenter">48</p>
           </td>
           <td width="77">
             <p>06/07</p>
@@ -1514,7 +1511,7 @@
             <p>臺北市國家音樂廳演奏廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1534,7 +1531,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>49</p>
+            <p class="tableCenter">49</p>
           </td>
           <td width="77">
             <p>06/09</p>
@@ -1546,7 +1543,7 @@
             <p>臺中市港區藝術中心</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1566,7 +1563,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>50</p>
+            <p class="tableCenter">50</p>
           </td>
           <td width="77">
             <p>06/11</p>
@@ -1578,7 +1575,7 @@
             <p>高雄市大東文化中心演藝廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1598,7 +1595,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>51</p>
+            <p class="tableCenter">51</p>
           </td>
           <td width="77">
             <p>06/12</p>
@@ -1610,10 +1607,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1630,7 +1627,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>52</p>
+            <p class="tableCenter">52</p>
           </td>
           <td width="77">
             <p>06/13</p>
@@ -1642,13 +1639,13 @@
             <p>宜蘭國立傳統藝術中心曲藝館</p>
           </td>
           <td rowspan="4" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="4" width="37">
             <p>&nbsp;</p>
           </td>
           <td rowspan="4" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="4" width="37">
             <p>&nbsp;</p>
@@ -1662,7 +1659,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>53</p>
+            <p class="tableCenter">53</p>
           </td>
           <td width="77">
             <p>06/14</p>
@@ -1670,7 +1667,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>54</p>
+            <p class="tableCenter">54</p>
           </td>
           <td width="77">
             <p>06/15</p>
@@ -1678,7 +1675,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>55</p>
+            <p class="tableCenter">55</p>
           </td>
           <td width="77">
             <p>06/16</p>
@@ -1686,7 +1683,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>56</p>
+            <p class="tableCenter">56</p>
           </td>
           <td width="77">
             <p>06/17</p>
@@ -1707,7 +1704,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1718,7 +1715,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>57</p>
+            <p class="tableCenter">57</p>
           </td>
           <td width="77">
             <p>06/19</p>
@@ -1730,10 +1727,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1750,7 +1747,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>58</p>
+            <p class="tableCenter">58</p>
           </td>
           <td width="77">
             <p>06/19</p>
@@ -1762,7 +1759,7 @@
             <p>臺北市國家音樂廳演奏廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1782,7 +1779,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>59</p>
+            <p class="tableCenter">59</p>
           </td>
           <td width="77">
             <p>06/22</p>
@@ -1794,7 +1791,7 @@
             <p>臺中國家歌劇院中劇院</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1803,7 +1800,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1814,7 +1811,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>60</p>
+            <p class="tableCenter">60</p>
           </td>
           <td width="77">
             <p>06/26</p>
@@ -1826,10 +1823,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1846,7 +1843,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>61</p>
+            <p class="tableCenter">61</p>
           </td>
           <td width="77">
             <p>06/29</p>
@@ -1858,7 +1855,7 @@
             <p>高雄市文化中心至德堂</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1878,7 +1875,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>62</p>
+            <p class="tableCenter">62</p>
           </td>
           <td width="77">
             <p>07/01</p>
@@ -1890,7 +1887,7 @@
             <p>臺北市國家音樂廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1910,7 +1907,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>63</p>
+            <p class="tableCenter">63</p>
           </td>
           <td width="77">
             <p>07/03</p>
@@ -1922,10 +1919,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -1942,7 +1939,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>64</p>
+            <p class="tableCenter">64</p>
           </td>
           <td width="77">
             <p>07/03</p>
@@ -1957,16 +1954,16 @@
             <p>&nbsp;</p>
           </td>
           <td rowspan="3" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="3" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="3" width="37">
             <p>&nbsp;</p>
           </td>
           <td rowspan="3" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="3" width="37">
             <p>&nbsp;</p>
@@ -1974,7 +1971,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>65</p>
+            <p class="tableCenter">65</p>
           </td>
           <td width="77">
             <p>07/04</p>
@@ -1982,7 +1979,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>66</p>
+            <p class="tableCenter">66</p>
           </td>
           <td width="77">
             <p>07/05</p>
@@ -1990,7 +1987,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>67</p>
+            <p class="tableCenter">67</p>
           </td>
           <td width="77">
             <p>07/06</p>
@@ -2002,10 +1999,10 @@
             <p>屏東縣滿州鄉小墾丁渡假村俱樂部大廳</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -2022,7 +2019,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>68</p>
+            <p class="tableCenter">68</p>
           </td>
           <td width="77">
             <p>07/07</p>
@@ -2033,7 +2030,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>69</p>
+            <p class="tableCenter">69</p>
           </td>
           <td width="77">
             <p>07/10</p>
@@ -2045,10 +2042,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2065,7 +2062,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>70</p>
+            <p class="tableCenter">70</p>
           </td>
           <td width="77">
             <p>07/13</p>
@@ -2077,10 +2074,10 @@
             <p>屏東縣滿州鄉公所</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -2097,7 +2094,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>71</p>
+            <p class="tableCenter">71</p>
           </td>
           <td width="77">
             <p>07/13</p>
@@ -2108,7 +2105,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>72</p>
+            <p class="tableCenter">72</p>
           </td>
           <td width="77">
             <p>07/15</p>
@@ -2120,7 +2117,7 @@
             <p>臺北市國家音樂廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2140,7 +2137,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>73</p>
+            <p class="tableCenter">73</p>
           </td>
           <td width="77">
             <p>07/17</p>
@@ -2152,10 +2149,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2172,7 +2169,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>74</p>
+            <p class="tableCenter">74</p>
           </td>
           <td width="77">
             <p>07/19</p>
@@ -2184,10 +2181,10 @@
             <p>屏東縣滿州民謠館</p>
           </td>
           <td rowspan="3" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="3" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="3" width="37">
             <p>&nbsp;</p>
@@ -2204,7 +2201,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>75</p>
+            <p class="tableCenter">75</p>
           </td>
           <td width="77">
             <p>07/20</p>
@@ -2215,7 +2212,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>76</p>
+            <p class="tableCenter">76</p>
           </td>
           <td width="77">
             <p>07/20</p>
@@ -2226,7 +2223,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>77</p>
+            <p class="tableCenter">77</p>
           </td>
           <td width="77">
             <p>07/21</p>
@@ -2238,7 +2235,7 @@
             <p>臺北市萬華區剝皮寮廣場</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2258,7 +2255,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>78</p>
+            <p class="tableCenter">78</p>
           </td>
           <td width="77">
             <p>07/22</p>
@@ -2270,7 +2267,7 @@
             <p>臺北市國家音樂廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2290,7 +2287,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>79</p>
+            <p class="tableCenter">79</p>
           </td>
           <td width="77">
             <p>07/24</p>
@@ -2302,10 +2299,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2322,7 +2319,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>80</p>
+            <p class="tableCenter">80</p>
           </td>
           <td width="77">
             <p>07/26</p>
@@ -2334,10 +2331,10 @@
             <p>屏東縣滿州民謠館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2354,7 +2351,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>81</p>
+            <p class="tableCenter">81</p>
           </td>
           <td width="77">
             <p>07/27</p>
@@ -2366,10 +2363,10 @@
             <p>屏東縣滿州鄉公所</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -2386,7 +2383,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>82</p>
+            <p class="tableCenter">82</p>
           </td>
           <td width="77">
             <p>07/27</p>
@@ -2397,7 +2394,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>83</p>
+            <p class="tableCenter">83</p>
           </td>
           <td width="77">
             <p>07/29</p>
@@ -2409,7 +2406,7 @@
             <p>臺北市城市舞臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2429,7 +2426,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>84</p>
+            <p class="tableCenter">84</p>
           </td>
           <td width="77">
             <p>07/31</p>
@@ -2441,10 +2438,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2461,7 +2458,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>85</p>
+            <p class="tableCenter">85</p>
           </td>
           <td width="77">
             <p>08/01</p>
@@ -2473,13 +2470,13 @@
             <p>宜蘭國立傳統藝術中心曲藝館</p>
           </td>
           <td rowspan="4" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="4" width="37">
             <p>&nbsp;</p>
           </td>
           <td rowspan="4" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="4" width="37">
             <p>&nbsp;</p>
@@ -2493,7 +2490,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>86</p>
+            <p class="tableCenter">86</p>
           </td>
           <td width="77">
             <p>08/02</p>
@@ -2501,7 +2498,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>87</p>
+            <p class="tableCenter">87</p>
           </td>
           <td width="77">
             <p>08/03</p>
@@ -2509,7 +2506,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>88</p>
+            <p class="tableCenter">88</p>
           </td>
           <td width="77">
             <p>08/04</p>
@@ -2517,7 +2514,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>89</p>
+            <p class="tableCenter">89</p>
           </td>
           <td width="77">
             <p>08/07</p>
@@ -2529,10 +2526,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2549,7 +2546,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>90</p>
+            <p class="tableCenter">90</p>
           </td>
           <td width="77">
             <p>08/10</p>
@@ -2561,10 +2558,10 @@
             <p>屏東縣滿州鄉小墾丁渡假村俱樂部大廳</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -2581,7 +2578,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>91</p>
+            <p class="tableCenter">91</p>
           </td>
           <td width="77">
             <p>08/11</p>
@@ -2592,7 +2589,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>92</p>
+            <p class="tableCenter">92</p>
           </td>
           <td width="77">
             <p>08/14</p>
@@ -2604,10 +2601,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2624,7 +2621,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>93</p>
+            <p class="tableCenter">93</p>
           </td>
           <td width="77">
             <p>08/17</p>
@@ -2636,7 +2633,7 @@
             <p>苗栗縣苗北藝文中心實驗劇場</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2656,7 +2653,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>94</p>
+            <p class="tableCenter">94</p>
           </td>
           <td width="77">
             <p>08/17</p>
@@ -2668,10 +2665,10 @@
             <p>屏東縣滿州鄉小墾丁渡假村俱樂部大廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2688,7 +2685,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>95</p>
+            <p class="tableCenter">95</p>
           </td>
           <td width="77">
             <p>08/19</p>
@@ -2700,7 +2697,7 @@
             <p>臺中國家歌劇院中劇院</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -2709,7 +2706,7 @@
             <p>&nbsp;</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -2720,7 +2717,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>96</p>
+            <p class="tableCenter">96</p>
           </td>
           <td width="77">
             <p>08/20</p>
@@ -2731,7 +2728,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>97</p>
+            <p class="tableCenter">97</p>
           </td>
           <td width="77">
             <p>08/20</p>
@@ -2743,10 +2740,10 @@
             <p>屏東縣滿州民謠館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2763,7 +2760,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>98</p>
+            <p class="tableCenter">98</p>
           </td>
           <td width="77">
             <p>08/21</p>
@@ -2775,7 +2772,7 @@
             <p>苗栗縣苗北藝文中心演藝廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2784,7 +2781,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2795,7 +2792,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>99</p>
+            <p class="tableCenter">99</p>
           </td>
           <td width="77">
             <p>08/21</p>
@@ -2807,10 +2804,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2827,7 +2824,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>100</p>
+            <p class="tableCenter">100</p>
           </td>
           <td width="77">
             <p>08/22</p>
@@ -2839,7 +2836,7 @@
             <p>臺北市國家音樂廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2848,7 +2845,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2859,7 +2856,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>101</p>
+            <p class="tableCenter">101</p>
           </td>
           <td width="77">
             <p>08/24</p>
@@ -2871,10 +2868,10 @@
             <p>屏東縣滿州鄉小墾丁渡假村俱樂部大廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2891,7 +2888,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>102</p>
+            <p class="tableCenter">102</p>
           </td>
           <td width="77">
             <p>08/28</p>
@@ -2903,10 +2900,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2923,7 +2920,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>103</p>
+            <p class="tableCenter">103</p>
           </td>
           <td width="77">
             <p>08/31</p>
@@ -2935,10 +2932,10 @@
             <p>屏東縣滿州鄉小墾丁渡假村俱樂部大廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2955,7 +2952,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>104</p>
+            <p class="tableCenter">104</p>
           </td>
           <td width="77">
             <p>09/01</p>
@@ -2973,7 +2970,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -2987,7 +2984,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>105</p>
+            <p class="tableCenter">105</p>
           </td>
           <td width="77">
             <p>09/01</p>
@@ -2999,7 +2996,7 @@
             <p>臺中國家歌劇院中劇院</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3019,7 +3016,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>106</p>
+            <p class="tableCenter">106</p>
           </td>
           <td width="77">
             <p>09/01</p>
@@ -3031,7 +3028,7 @@
             <p>屏東演藝廳音樂廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3051,7 +3048,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>107</p>
+            <p class="tableCenter">107</p>
           </td>
           <td width="77">
             <p>09/04</p>
@@ -3063,10 +3060,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3083,7 +3080,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>108</p>
+            <p class="tableCenter">108</p>
           </td>
           <td width="77">
             <p>09/05</p>
@@ -3095,13 +3092,13 @@
             <p>宜蘭國立傳統藝術中心曲藝館</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -3115,7 +3112,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>109</p>
+            <p class="tableCenter">109</p>
           </td>
           <td width="77">
             <p>09/06</p>
@@ -3123,7 +3120,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>110</p>
+            <p class="tableCenter">110</p>
           </td>
           <td width="77">
             <p>09/06</p>
@@ -3135,7 +3132,7 @@
             <p>臺北市國家音樂廳演奏廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3155,7 +3152,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>111</p>
+            <p class="tableCenter">111</p>
           </td>
           <td width="77">
             <p>09/07</p>
@@ -3167,13 +3164,13 @@
             <p>宜蘭國立傳統藝術中心曲藝館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3187,7 +3184,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>112</p>
+            <p class="tableCenter">112</p>
           </td>
           <td width="77">
             <p>09/07</p>
@@ -3199,10 +3196,10 @@
             <p>屏東縣滿州鄉公所</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3219,7 +3216,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>113</p>
+            <p class="tableCenter">113</p>
           </td>
           <td width="77">
             <p>09/08</p>
@@ -3231,13 +3228,13 @@
             <p>宜蘭國立傳統藝術中心曲藝館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3251,7 +3248,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>114</p>
+            <p class="tableCenter">114</p>
           </td>
           <td width="77">
             <p>09/08</p>
@@ -3263,10 +3260,10 @@
             <p>屏東縣滿州民謠館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3283,7 +3280,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>115</p>
+            <p class="tableCenter">115</p>
           </td>
           <td width="77">
             <p>09/11</p>
@@ -3295,10 +3292,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3315,7 +3312,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>116</p>
+            <p class="tableCenter">116</p>
           </td>
           <td width="77">
             <p>09/12</p>
@@ -3327,7 +3324,7 @@
             <p>臺北市國家音樂廳演奏廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3347,7 +3344,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>117</p>
+            <p class="tableCenter">117</p>
           </td>
           <td width="77">
             <p>09/12</p>
@@ -3359,7 +3356,7 @@
             <p>屏東縣滿州民謠館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3379,7 +3376,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>118</p>
+            <p class="tableCenter">118</p>
           </td>
           <td width="77">
             <p>09/14</p>
@@ -3391,10 +3388,10 @@
             <p>臺北市北投溫泉博物館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3411,7 +3408,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>119</p>
+            <p class="tableCenter">119</p>
           </td>
           <td width="77">
             <p>09/15</p>
@@ -3423,7 +3420,7 @@
             <p>臺北市誠品表演廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3443,7 +3440,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>120</p>
+            <p class="tableCenter">120</p>
           </td>
           <td width="77">
             <p>09/18</p>
@@ -3455,10 +3452,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3475,7 +3472,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>121</p>
+            <p class="tableCenter">121</p>
           </td>
           <td width="77">
             <p>09/21</p>
@@ -3487,7 +3484,7 @@
             <p>基隆文化中心演藝廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3507,7 +3504,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>122</p>
+            <p class="tableCenter">122</p>
           </td>
           <td width="77">
             <p>09/22</p>
@@ -3519,13 +3516,13 @@
             <p>新北市板橋林家花園</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3539,7 +3536,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>123</p>
+            <p class="tableCenter">123</p>
           </td>
           <td width="77">
             <p>09/25</p>
@@ -3551,10 +3548,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3571,7 +3568,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>124</p>
+            <p class="tableCenter">124</p>
           </td>
           <td width="77">
             <p>09/27</p>
@@ -3583,10 +3580,10 @@
             <p>臺北市北投溫泉博物館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3603,7 +3600,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>125</p>
+            <p class="tableCenter">125</p>
           </td>
           <td width="77">
             <p>09/28</p>
@@ -3615,10 +3612,10 @@
             <p>臺北市北投溫泉博物館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3635,7 +3632,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>126</p>
+            <p class="tableCenter">126</p>
           </td>
           <td width="77">
             <p>09/28</p>
@@ -3647,7 +3644,7 @@
             <p>國立臺南大學雅音樓音樂廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3667,7 +3664,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>127</p>
+            <p class="tableCenter">127</p>
           </td>
           <td width="77">
             <p>09/28</p>
@@ -3679,7 +3676,7 @@
             <p>臺北市臺灣戲曲中心大表演廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3699,7 +3696,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>128</p>
+            <p class="tableCenter">128</p>
           </td>
           <td width="77">
             <p>09/29</p>
@@ -3711,7 +3708,7 @@
             <p>南投縣政府文化局演藝廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3731,7 +3728,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>129</p>
+            <p class="tableCenter">129</p>
           </td>
           <td width="77">
             <p>09/29</p>
@@ -3743,16 +3740,16 @@
             <p>臺北市北投溫泉博物館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3763,7 +3760,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>130</p>
+            <p class="tableCenter">130</p>
           </td>
           <td width="77">
             <p>09/29</p>
@@ -3775,7 +3772,7 @@
             <p>基隆文化中心演藝廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3795,7 +3792,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>131</p>
+            <p class="tableCenter">131</p>
           </td>
           <td width="77">
             <p>10/02</p>
@@ -3807,10 +3804,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3827,7 +3824,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>132</p>
+            <p class="tableCenter">132</p>
           </td>
           <td width="77">
             <p>10/03</p>
@@ -3848,7 +3845,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3859,7 +3856,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>133</p>
+            <p class="tableCenter">133</p>
           </td>
           <td width="77">
             <p>10/05</p>
@@ -3871,7 +3868,7 @@
             <p>屏東縣滿州鄉公所</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3891,7 +3888,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>134</p>
+            <p class="tableCenter">134</p>
           </td>
           <td width="77">
             <p>10/05</p>
@@ -3903,10 +3900,10 @@
             <p>屏東縣滿州鄉公所</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3923,7 +3920,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>135</p>
+            <p class="tableCenter">135</p>
           </td>
           <td width="77">
             <p>10/05-</p>
@@ -3936,7 +3933,7 @@
             <p>宜蘭國立傳統藝術中心宜蘭園區</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3945,7 +3942,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3956,7 +3953,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>136</p>
+            <p class="tableCenter">136</p>
           </td>
           <td width="77">
             <p>10/06</p>
@@ -3968,10 +3965,10 @@
             <p>屏東縣滿州鄉賞鷹季場地－里德橋邊</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -3988,7 +3985,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>137</p>
+            <p class="tableCenter">137</p>
           </td>
           <td width="77">
             <p>10/09</p>
@@ -4000,10 +3997,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4020,7 +4017,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>138</p>
+            <p class="tableCenter">138</p>
           </td>
           <td width="77">
             <p>10/10</p>
@@ -4032,10 +4029,10 @@
             <p>屏東縣滿州鄉賞鷹季場地－里德橋邊</p>
           </td>
           <td rowspan="3" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="3" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="3" width="37">
             <p>&nbsp;</p>
@@ -4052,7 +4049,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>139</p>
+            <p class="tableCenter">139</p>
           </td>
           <td width="77">
             <p>10/11</p>
@@ -4063,7 +4060,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>140</p>
+            <p class="tableCenter">140</p>
           </td>
           <td width="77">
             <p>10/11</p>
@@ -4074,7 +4071,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>141</p>
+            <p class="tableCenter">141</p>
           </td>
           <td width="77">
             <p>10/12</p>
@@ -4086,7 +4083,7 @@
             <p>新北市新莊文化藝術中心演藝廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4106,7 +4103,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>142</p>
+            <p class="tableCenter">142</p>
           </td>
           <td width="77">
             <p>10/12</p>
@@ -4118,7 +4115,7 @@
             <p>屏東市演藝廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4138,7 +4135,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>143</p>
+            <p class="tableCenter">143</p>
           </td>
           <td width="77">
             <p>10/12</p>
@@ -4150,7 +4147,7 @@
             <p>屏東書院</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4170,7 +4167,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>144</p>
+            <p class="tableCenter">144</p>
           </td>
           <td width="77">
             <p>10/12</p>
@@ -4182,10 +4179,10 @@
             <p>屏東縣滿州鄉小墾丁渡假村俱樂部大廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4202,7 +4199,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>145</p>
+            <p class="tableCenter">145</p>
           </td>
           <td width="77">
             <p>10/14</p>
@@ -4214,7 +4211,7 @@
             <p>臺北市國家音樂廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4234,7 +4231,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>146</p>
+            <p class="tableCenter">146</p>
           </td>
           <td width="77">
             <p>10/16</p>
@@ -4246,10 +4243,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4266,7 +4263,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>147</p>
+            <p class="tableCenter">147</p>
           </td>
           <td width="77">
             <p>10/19</p>
@@ -4278,7 +4275,7 @@
             <p>基隆文化中心演藝廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4298,7 +4295,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>148</p>
+            <p class="tableCenter">148</p>
           </td>
           <td width="77">
             <p>10/20</p>
@@ -4310,7 +4307,7 @@
             <p>臺南市新營文化中心演藝廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4330,7 +4327,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>149</p>
+            <p class="tableCenter">149</p>
           </td>
           <td width="77">
             <p>10/20</p>
@@ -4342,10 +4339,10 @@
             <p>臺北市藝文推廣處（原社教館）</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4362,7 +4359,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>150</p>
+            <p class="tableCenter">150</p>
           </td>
           <td width="77">
             <p>10/20</p>
@@ -4374,10 +4371,10 @@
             <p>臺北市臺灣戲曲中心 臺灣音樂館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4394,7 +4391,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>151</p>
+            <p class="tableCenter">151</p>
           </td>
           <td width="77">
             <p>10/22-10/27</p>
@@ -4406,27 +4403,27 @@
             <p>屏東縣恆春西門古城廣場、猴洞山</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
         </tr>
         <tr>
           <td width="56">
-            <p>152</p>
+            <p class="tableCenter">152</p>
           </td>
           <td width="77">
             <p>10/23</p>
@@ -4438,10 +4435,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4458,7 +4455,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>153</p>
+            <p class="tableCenter">153</p>
           </td>
           <td width="77">
             <p>10/26</p>
@@ -4470,7 +4467,7 @@
             <p>臺北市中正紀念堂&nbsp; 演藝廳堂內一樓</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4490,7 +4487,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>154</p>
+            <p class="tableCenter">154</p>
           </td>
           <td width="77">
             <p>10/26</p>
@@ -4502,10 +4499,10 @@
             <p>屏東縣滿州民謠館</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -4522,7 +4519,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>155</p>
+            <p class="tableCenter">155</p>
           </td>
           <td width="77">
             <p>10/27</p>
@@ -4530,7 +4527,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>156</p>
+            <p class="tableCenter">156</p>
           </td>
           <td width="77">
             <p>10/30</p>
@@ -4542,10 +4539,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4562,7 +4559,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>157</p>
+            <p class="tableCenter">157</p>
           </td>
           <td width="77">
             <p>10/30</p>
@@ -4574,7 +4571,7 @@
             <p>臺北市國立臺灣戲曲中心大表演廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4594,7 +4591,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>158</p>
+            <p class="tableCenter">158</p>
           </td>
           <td width="77">
             <p>11/03</p>
@@ -4606,7 +4603,7 @@
             <p>新竹縣政府文化局演藝廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4626,7 +4623,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>159</p>
+            <p class="tableCenter">159</p>
           </td>
           <td width="77">
             <p>11/05</p>
@@ -4638,7 +4635,7 @@
             <p>臺北市國家音樂廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4658,7 +4655,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>160</p>
+            <p class="tableCenter">160</p>
           </td>
           <td width="77">
             <p>11/06</p>
@@ -4670,10 +4667,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4690,7 +4687,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>161</p>
+            <p class="tableCenter">161</p>
           </td>
           <td width="77">
             <p>11/09</p>
@@ -4702,7 +4699,7 @@
             <p>屏東縣滿州民謠館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4722,7 +4719,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>162</p>
+            <p class="tableCenter">162</p>
           </td>
           <td width="77">
             <p>11/13</p>
@@ -4734,10 +4731,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4754,7 +4751,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>163</p>
+            <p class="tableCenter">163</p>
           </td>
           <td width="77">
             <p>11/17</p>
@@ -4766,7 +4763,7 @@
             <p>臺北市國家音樂廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4786,7 +4783,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>164</p>
+            <p class="tableCenter">164</p>
           </td>
           <td width="77">
             <p>11/20</p>
@@ -4798,10 +4795,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4818,7 +4815,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>165</p>
+            <p class="tableCenter">165</p>
           </td>
           <td width="77">
             <p>11/23</p>
@@ -4830,7 +4827,7 @@
             <p>屏東縣滿州民謠館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4850,7 +4847,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>166</p>
+            <p class="tableCenter">166</p>
           </td>
           <td width="77">
             <p>11/24</p>
@@ -4862,7 +4859,7 @@
             <p>基隆文化中心演藝廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4882,7 +4879,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>167</p>
+            <p class="tableCenter">167</p>
           </td>
           <td width="77">
             <p>11/27</p>
@@ -4894,10 +4891,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4914,7 +4911,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>168</p>
+            <p class="tableCenter">168</p>
           </td>
           <td width="77">
             <p>11/28</p>
@@ -4935,7 +4932,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4946,7 +4943,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>169</p>
+            <p class="tableCenter">169</p>
           </td>
           <td width="77">
             <p>11/30</p>
@@ -4958,13 +4955,13 @@
             <p>臺中市文化部文化資產園區衡道堂</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -4978,7 +4975,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>170</p>
+            <p class="tableCenter">170</p>
           </td>
           <td width="77">
             <p>12/04</p>
@@ -4990,10 +4987,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -5010,7 +5007,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>171</p>
+            <p class="tableCenter">171</p>
           </td>
           <td width="77">
             <p>12/11</p>
@@ -5022,10 +5019,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -5042,7 +5039,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>172</p>
+            <p class="tableCenter">172</p>
           </td>
           <td width="77">
             <p>12/13</p>
@@ -5054,7 +5051,7 @@
             <p>臺南市全美戲院</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -5074,7 +5071,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>173</p>
+            <p class="tableCenter">173</p>
           </td>
           <td width="77">
             <p>12/14</p>
@@ -5086,7 +5083,7 @@
             <p>臺南市全美戲院</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -5106,7 +5103,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>174</p>
+            <p class="tableCenter">174</p>
           </td>
           <td width="77">
             <p>12/15</p>
@@ -5118,7 +5115,7 @@
             <p>臺南市全美戲院</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -5138,7 +5135,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>175</p>
+            <p class="tableCenter">175</p>
           </td>
           <td width="77">
             <p>12/15</p>
@@ -5150,7 +5147,7 @@
             <p>高雄市衛武營國家藝術文化中心</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -5170,7 +5167,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>176</p>
+            <p class="tableCenter">176</p>
           </td>
           <td width="77">
             <p>12/15</p>
@@ -5182,7 +5179,7 @@
             <p>屏東縣滿州民謠館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -5202,7 +5199,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>177</p>
+            <p class="tableCenter">177</p>
           </td>
           <td width="77">
             <p>12/18</p>
@@ -5214,10 +5211,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -5234,7 +5231,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>178</p>
+            <p class="tableCenter">178</p>
           </td>
           <td width="77">
             <p>12/20</p>
@@ -5246,7 +5243,7 @@
             <p>屏東縣滿州民謠館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -5266,7 +5263,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>179</p>
+            <p class="tableCenter">179</p>
           </td>
           <td width="77">
             <p>12/22</p>
@@ -5278,7 +5275,7 @@
             <p>臺北市國家音樂廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -5298,7 +5295,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>180</p>
+            <p class="tableCenter">180</p>
           </td>
           <td width="77">
             <p>12/25</p>
@@ -5310,10 +5307,10 @@
             <p>民視臺灣臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -5330,7 +5327,7 @@
         </tr>
         <tr>
           <td width="56">
-            <p>181</p>
+            <p class="tableCenter">181</p>
           </td>
           <td width="77">
             <p>12/29</p>
@@ -5342,7 +5339,7 @@
             <p>新竹市文化局演藝廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -5362,392 +5359,396 @@
         </tr>
       </tbody>
     </table>
+    <p></p>
     <p>
       <strong>（二）活動時間</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 有關「2019年臺灣福佬系歌謠之觀察」，共有181個活動主題。其中文物展，不論活動時間長短，均以一場次計，如序號1；同活動主題，不同時間、地點，分場次計，如序號2、3；67、68；70、71；74-76；81、82；90、91；95、96；138-140。同活動主題，不同時間、同地點，亦分場次計，如序號29、30；34、35；38、39；52-55；64-66；85-88；108、109；154、155等。活動時間依序以9、10、7月最密集。（表2）而光簡上仁在民視臺灣學堂《Formosa音樂廳》的專輯，就多達50集。民視臺灣學堂《Formosa音樂廳》從第18-67集，自01/09-12/25每週半小時（每週三11:30-12:00），分別以不同的主題呈現。另序號36、122、125、129、149之演出內容，同時包含福佬系歌謠與唸歌仔，故與唸歌仔並列敘述。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有關「2019年臺灣福佬系歌謠之觀察」，共有181個活動主題。其中文物展，不論活動時間長短，均以一場次計，如序號1；同活動主題，不同時間、地點，分場次計，如序號2、3；67、68；70、71；74-76；81、82；90、91；95、96；138-140。同活動主題，不同時間、同地點，亦分場次計，如序號29、30；34、35；38、39；52-55；64-66；85-88；108、109；154、155等。活動時間依序以9、10、7月最密集。（表2）而光簡上仁在民視臺灣學堂《Formosa音樂廳》的專輯，就多達50集。民視臺灣學堂《Formosa音樂廳》從第18-67集，自01/09-12/25每週半小時（每週三11:30-12:00），分別以不同的主題呈現。另序號36、122、125、129、149之演出內容，同時包含福佬系歌謠與唸歌仔，故與唸歌仔並列敘述。</p>
     <span>表2： 2019年臺灣福佬系歌謠之活動時間與場次</span>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
           <td width="68">
-            <p>月份</p>
+            <p class="tableCenter">月份</p>
           </td>
           <td width="52">
-            <p>一</p>
+            <p class="tableCenter">一</p>
           </td>
           <td width="52">
-            <p>二</p>
+            <p class="tableCenter">二</p>
           </td>
           <td width="52">
-            <p>三</p>
+            <p class="tableCenter">三</p>
           </td>
           <td width="52">
-            <p>四</p>
+            <p class="tableCenter">四</p>
           </td>
           <td width="52">
-            <p>五</p>
+            <p class="tableCenter">五</p>
           </td>
           <td width="52">
-            <p>六</p>
+            <p class="tableCenter">六</p>
           </td>
           <td width="52">
-            <p>七</p>
+            <p class="tableCenter">七</p>
           </td>
           <td width="52">
-            <p>八</p>
+            <p class="tableCenter">八</p>
           </td>
           <td width="52">
-            <p>九</p>
+            <p class="tableCenter">九</p>
           </td>
           <td width="52">
-            <p>十</p>
+            <p class="tableCenter">十</p>
           </td>
           <td width="52">
-            <p>十一</p>
+            <p class="tableCenter">十一</p>
           </td>
           <td width="52">
-            <p>十二</p>
+            <p class="tableCenter">十二</p>
           </td>
         </tr>
         <tr>
           <td width="68">
-            <p>場次</p>
+            <p class="tableCenter">場次</p>
           </td>
           <td width="52">
-            <p>8</p>
+            <p class="tableCenter">8</p>
           </td>
           <td width="52">
-            <p>8</p>
+            <p class="tableCenter">8</p>
           </td>
           <td width="52">
-            <p>4</p>
+            <p class="tableCenter">4</p>
           </td>
           <td width="52">
-            <p>11</p>
+            <p class="tableCenter">11</p>
           </td>
           <td width="52">
-            <p>14</p>
+            <p class="tableCenter">14</p>
           </td>
           <td width="52">
-            <p>16</p>
+            <p class="tableCenter">16</p>
           </td>
           <td width="52">
-            <p>23</p>
+            <p class="tableCenter">23</p>
           </td>
           <td width="52">
-            <p>19</p>
+            <p class="tableCenter">19</p>
           </td>
           <td width="52">
-            <p>27</p>
+            <p class="tableCenter">27</p>
           </td>
           <td width="52">
-            <p>27</p>
+            <p class="tableCenter">27</p>
           </td>
           <td width="52">
-            <p>12</p>
+            <p class="tableCenter">12</p>
           </td>
           <td width="52">
-            <p>12</p>
+            <p class="tableCenter">12</p>
           </td>
         </tr>
         <tr>
           <td width="68">
-            <p>合計</p>
+            <p class="tableCenter">合計</p>
           </td>
           <td colspan="12" width="629">
-            <p>181</p>
+            <p class="tableCenter">181</p>
           </td>
         </tr>
       </tbody>
     </table>
+    <p></p>
     <p>
       <strong>（三）活動地點</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年有關「臺灣福佬系歌謠」活動地點之觀察，如表1，其中序號1，展期自2018/11/15-2019/10/31，但只算一個地點。由表1中知，以民視最多，其次為屏東，再次為臺北、宜蘭，亦即主要集中在南、北。集中在北部，可能與觀察者之地緣有關而有較多的觀察。恆春是福佬系傳統民謠的重鎮，因此屏東縣也有較多的活動。電視臺方面，民視臺灣臺《Formosa音樂廳》就佔了50個之多。但筆者以為應還有許多不同的小型演出，散落在整個臺灣各地、各縣市。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年有關「臺灣福佬系歌謠」活動地點之觀察，如表1，其中序號1，展期自2018/11/15-2019/10/31，但只算一個地點。由表1中知，以民視最多，其次為屏東，再次為臺北、宜蘭，亦即主要集中在南、北。集中在北部，可能與觀察者之地緣有關而有較多的觀察。恆春是福佬系傳統民謠的重鎮，因此屏東縣也有較多的活動。電視臺方面，民視臺灣臺《Formosa音樂廳》就佔了50個之多。但筆者以為應還有許多不同的小型演出，散落在整個臺灣各地、各縣市。</p>
     <span>表3：2019年臺灣福佬系歌謠之活動地點與場次</span>
     <table width="706" rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
           <td width="68">
-            <p>地區</p>
+            <p class="tableCenter">地區</p>
           </td>
           <td width="43">
-            <p>公視</p>
+            <p class="tableCenter">公視</p>
           </td>
           <td width="43">
-            <p>民視</p>
+            <p class="tableCenter">民視</p>
           </td>
           <td width="43">
-            <p>宜蘭</p>
+            <p class="tableCenter">宜蘭</p>
           </td>
           <td width="43">
-            <p>基隆</p>
+            <p class="tableCenter">基隆</p>
           </td>
           <td width="43">
-            <p>新北</p>
+            <p class="tableCenter">新北</p>
           </td>
           <td width="43">
-            <p>臺北</p>
+            <p class="tableCenter">臺北</p>
           </td>
           <td width="43">
-            <p>桃園</p>
+            <p class="tableCenter">桃園</p>
           </td>
           <td width="43">
-            <p>新竹</p>
+            <p class="tableCenter">新竹</p>
           </td>
           <td width="43">
-            <p>苗栗</p>
+            <p class="tableCenter">苗栗</p>
           </td>
           <td width="43">
-            <p>臺中</p>
+            <p class="tableCenter">臺中</p>
           </td>
           <td width="43">
-            <p>南投</p>
+            <p class="tableCenter">南投</p>
           </td>
           <td width="43">
-            <p>臺南</p>
+            <p class="tableCenter">臺南</p>
           </td>
           <td width="43">
-            <p>高雄</p>
+            <p class="tableCenter">高雄</p>
           </td>
           <td width="43">
-            <p>屏東</p>
+            <p class="tableCenter">屏東</p>
           </td>
           <td width="43">
-            <p>中國</p>
+            <p class="tableCenter">中國</p>
           </td>
         </tr>
         <tr>
           <td width="68">
-            <p>場次</p>
+            <p class="tableCenter">場次</p>
           </td>
           <td width="43">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
           <td width="43">
-            <p>51</p>
+            <p class="tableCenter">51</p>
           </td>
           <td width="43">
-            <p>18</p>
+            <p class="tableCenter">18</p>
           </td>
           <td width="43">
-            <p>9</p>
+            <p class="tableCenter">9</p>
           </td>
           <td width="43">
-            <p>2</p>
+            <p class="tableCenter">2</p>
           </td>
           <td width="43">
-            <p>31</p>
+            <p class="tableCenter">31</p>
           </td>
           <td width="43">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
           <td width="43">
-            <p>4</p>
+            <p class="tableCenter">4</p>
           </td>
           <td width="43">
-            <p>2</p>
+            <p class="tableCenter">2</p>
           </td>
           <td width="43">
-            <p>5</p>
+            <p class="tableCenter">5</p>
           </td>
           <td width="43">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
           <td width="43">
-            <p>6</p>
+            <p class="tableCenter">6</p>
           </td>
           <td width="43">
-            <p>6</p>
+            <p class="tableCenter">6</p>
           </td>
           <td width="43">
-            <p>43</p>
+            <p class="tableCenter">43</p>
           </td>
           <td width="43">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
         </tr>
         <tr>
           <td width="68">
-            <p>合計</p>
+            <p class="tableCenter">合計</p>
           </td>
           <td colspan="15" width="638">
-            <p>181</p>
+            <p class="tableCenter">181</p>
           </td>
         </tr>
       </tbody>
     </table>
+    <p></p>
     <p>
       <strong>（四）活動性質</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 從表1中知，2019年「臺灣福佬系歌謠」之活動性質與場次，如表4：</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;從表1中知，2019年「臺灣福佬系歌謠」之活動性質與場次，如表4：</p>
     <span>表4：2019年臺灣福佬系歌謠之活動性質與場次</span>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
           <td width="44">
-            <p>
+            <p class="tableCenter">
               <strong>&nbsp;</strong>
             </p>
           </td>
           <td width="532">
-            <p>演出性質</p>
+            <p class="tableCenter">演出性質</p>
           </td>
           <td width="59">
-            <p>場次</p>
+            <p class="tableCenter">場次</p>
           </td>
           <td width="75">
-            <p>合計</p>
+            <p class="tableCenter">合計</p>
           </td>
         </tr>
         <tr>
           <td width="44">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
           <td width="532">
             <p>展演活動</p>
           </td>
           <td width="59">
-            <p>55</p>
+            <p class="tableCenter">55</p>
           </td>
           <td rowspan="12" width="75">
-            <p>181</p>
+            <p class="tableCenter">181</p>
           </td>
         </tr>
         <tr>
           <td width="44">
-            <p>2</p>
+            <p class="tableCenter">2</p>
           </td>
           <td width="532">
             <p>推廣教育</p>
           </td>
           <td width="59">
-            <p>2</p>
+            <p class="tableCenter">2</p>
           </td>
         </tr>
         <tr>
           <td width="44">
-            <p>3</p>
+            <p class="tableCenter">3</p>
           </td>
           <td width="532">
             <p>傳習活動</p>
           </td>
           <td width="59">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
         </tr>
         <tr>
           <td width="44">
-            <p>4</p>
+            <p class="tableCenter">4</p>
           </td>
           <td width="532">
             <p>國際與兩岸交流</p>
           </td>
           <td width="59">
-            <p>3</p>
+            <p class="tableCenter">3</p>
           </td>
         </tr>
         <tr>
           <td width="44">
-            <p>5</p>
+            <p class="tableCenter">5</p>
           </td>
           <td width="532">
             <p>展演活動＋推廣活動</p>
           </td>
           <td width="59">
-            <p>84</p>
+            <p class="tableCenter">84</p>
           </td>
         </tr>
         <tr>
           <td width="44">
-            <p>6</p>
+            <p class="tableCenter">6</p>
           </td>
           <td width="532">
             <p>展演活動＋傳習活動</p>
           </td>
           <td width="59">
-            <p>15</p>
+            <p class="tableCenter">15</p>
           </td>
         </tr>
         <tr>
           <td width="44">
-            <p>7</p>
+            <p class="tableCenter">7</p>
           </td>
           <td width="532">
             <p>展演活動＋國際與兩岸交流</p>
           </td>
           <td width="59">
-            <p>14</p>
+            <p class="tableCenter">14</p>
           </td>
         </tr>
         <tr>
           <td width="44">
-            <p>8</p>
+            <p class="tableCenter">8</p>
           </td>
           <td width="532">
             <p>展演活動＋跨界</p>
           </td>
           <td width="59">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
         </tr>
         <tr>
           <td width="44">
-            <p>9</p>
+            <p class="tableCenter">9</p>
           </td>
           <td width="532">
             <p>推廣教育＋傳習活動＋跨界</p>
           </td>
           <td width="59">
-            <p>3</p>
+            <p class="tableCenter">3</p>
           </td>
         </tr>
         <tr>
           <td width="44">
-            <p>10</p>
+            <p class="tableCenter">10</p>
           </td>
           <td width="532">
             <p>展演活動、推廣教育、傳習活動</p>
           </td>
           <td width="59">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
         </tr>
         <tr>
           <td width="44">
-            <p>11</p>
+            <p class="tableCenter">11</p>
           </td>
           <td width="532">
             <p>展演活動＋推廣教育＋傳習活動＋國際與兩岸交流</p>
           </td>
           <td width="59">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
         </tr>
         <tr>
           <td width="44">
-            <p>12</p>
+            <p class="tableCenter">12</p>
           </td>
           <td width="532">
             <p>展演活動＋推廣教育＋傳習活動＋國際與兩岸交流＋跨界</p>
           </td>
           <td width="59">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
         </tr>
       </tbody>
     </table>
-    <p>&nbsp;&nbsp;&nbsp; 從表4中知，2019年臺灣福佬系歌謠之演出性質以「展演活動＋推廣教育」最大宗，次為「展演活動」。</p>
+    <p></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;從表4中知，2019年臺灣福佬系歌謠之演出性質以「展演活動＋推廣教育」最大宗，次為「展演活動」。</p>
     <p>
       <strong>（五）曲目</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 以下2019年有關福佬系歌謠「曲目」之觀察，將分傳統民謠與創作歌謠作敘述。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以下2019年有關福佬系歌謠「曲目」之觀察，將分傳統民謠與創作歌謠作敘述。</p>
     <p>
       <strong>1.</strong>
       <strong>傳統民謠</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 臺灣福佬系傳統民謠若依分布地區分類，可分成西部平原、恆春地區、北宜地區等地。2019年的觀察，筆者所掌握到的福佬系傳統民謠曲目，至少有109首（不包含重複曲目）。（表5）以下分成恆春地區以及恆春以外地區兩部分作敘述。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;臺灣福佬系傳統民謠若依分布地區分類，可分成西部平原、恆春地區、北宜地區等地。2019年的觀察，筆者所掌握到的福佬系傳統民謠曲目，至少有109首（不包含重複曲目）。（表5）以下分成恆春地區以及恆春以外地區兩部分作敘述。</p>
     <span>表5：傳統民謠曲目</span>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
@@ -5917,7 +5918,7 @@
           <td width="103">
             <p>
               打拼的兄弟姊妹
-              <a href="#_ftn1" name="_ftnref1">[1]</a>
+              <sup>1</sup>
             </p>
           </td>
           <td width="107">
@@ -6123,7 +6124,7 @@
           <td width="139">
             <p>
               數魚栽
-              <a href="#_ftn2" name="_ftnref2">[2]</a>
+              <sup>2</sup>
             </p>
           </td>
           <td width="125">
@@ -6165,28 +6166,29 @@
         </tr>
       </tbody>
     </table>
+    <p></p>
     <p>（1）恆春地區</p>
-    <p>&nbsp;&nbsp;&nbsp; 表5中，屬恆春地區的民謠，有〈五孔小調〉（苦力歌）、〈牛母伴〉、〈四季春〉、〈平埔調〉、〈打拼的兄弟姊妹〉、〈守牛調〉、〈思想曲〉、〈恆春耕農歌〉、〈海採茶〉、〈楓港小調〉（駛牛車）、〈楓港老調〉、〈滿州三景〉、〈滿州小調〉、〈滿州特景〉、〈數魚栽〉、〈恆春四景〉等16首。而所謂恆春地區六大調的〈五孔小調〉、〈牛母伴〉、〈四季春〉、〈平埔調〉、〈思想曲〉、〈楓港小調〉，被演出的次數相當多，因不論比賽或重要展演，六大調被規定是一定要使用的曲目，尤其是官方舉辦的比賽，更是規定要使用這些曲目，如「2019半島歌謠祭」、「滿州鄉108年春節滿州民謠比賽」等，六大調形同指定曲；重要展演方面，如「108年重要傳統表演藝術保存者（團體）接班人傳習演出計畫－滿州民謠『透半冬的聲』」、「卜聽民謠來北投（三）月琴民謠講唱會：講唱會Ⅳ－恆春半島民謠」、「2019亞太傳統藝術節：大地慶典－農村節慶與無形文化資產的對話」等，六大調都是經常被演出的曲目，以後者為例，演出曲目就有〈牛母伴〉、〈楓港小調〉（駛牛車）等。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表5中，屬恆春地區的民謠，有〈五孔小調〉（苦力歌）、〈牛母伴〉、〈四季春〉、〈平埔調〉、〈打拼的兄弟姊妹〉、〈守牛調〉、〈思想曲〉、〈恆春耕農歌〉、〈海採茶〉、〈楓港小調〉（駛牛車）、〈楓港老調〉、〈滿州三景〉、〈滿州小調〉、〈滿州特景〉、〈數魚栽〉、〈恆春四景〉等16首。而所謂恆春地區六大調的〈五孔小調〉、〈牛母伴〉、〈四季春〉、〈平埔調〉、〈思想曲〉、〈楓港小調〉，被演出的次數相當多，因不論比賽或重要展演，六大調被規定是一定要使用的曲目，尤其是官方舉辦的比賽，更是規定要使用這些曲目，如「2019半島歌謠祭」、「滿州鄉108年春節滿州民謠比賽」等，六大調形同指定曲；重要展演方面，如「108年重要傳統表演藝術保存者（團體）接班人傳習演出計畫－滿州民謠『透半冬的聲』」、「卜聽民謠來北投（三）月琴民謠講唱會：講唱會Ⅳ－恆春半島民謠」、「2019亞太傳統藝術節：大地慶典－農村節慶與無形文化資產的對話」等，六大調都是經常被演出的曲目，以後者為例，演出曲目就有〈牛母伴〉、〈楓港小調〉（駛牛車）等。</p>
     <p>
-      &nbsp;&nbsp;&nbsp; 〈牛母伴〉共有〈唱曲
-      <a href="#_ftn3" name="_ftnref3">[3]</a>〉、〈牛尾擺
-      <a href="#_ftn4" name="_ftnref4">[4]</a>〉、〈牛尾伴
-      <a href="#_ftn5" name="_ftnref5">[5]</a>〉、〈牛母伴
-      <a href="#_ftn6" name="_ftnref6">[6]</a>〉四種不同的稱呼。其中「唱曲」1912年前出生的恆春人，因一時改不過來仍稱之；「牛尾擺」當地人用得少，外界學者用得多；「牛尾伴」當地人用得不少；「牛母伴」當地人用得最多（鍾明昆，2016，71）。就筆者2019年的觀察所見，不論恆春當地的文獻、比賽規則用語、或與當地人之對話等，多以「牛母伴」稱之，故本文以〈牛母伴〉呈現。
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;〈牛母伴〉共有〈唱曲
+      <sup>3</sup>〉、〈牛尾擺
+      <sup>4</sup>〉、〈牛尾伴
+      <sup>5</sup>〉、〈牛母伴
+      <sup>6</sup>〉四種不同的稱呼。其中「唱曲」1912年前出生的恆春人，因一時改不過來仍稱之；「牛尾擺」當地人用得少，外界學者用得多；「牛尾伴」當地人用得不少；「牛母伴」當地人用得最多（鍾明昆，2016，71）。就筆者2019年的觀察所見，不論恆春當地的文獻、比賽規則用語、或與當地人之對話等，多以「牛母伴」稱之，故本文以〈牛母伴〉呈現。
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 〈平埔調〉又稱〈臺東調〉，據張新傳所言是恆春第二出現的古老民謠。恆春鎮大部分的人把此曲稱為〈平埔調〉，恆春外地人或音樂界有稱為〈臺東調〉，但如解讀為「是恆春人到臺東開墾唱出來的」，則本末倒置，是誤導（鍾明昆，2016，72-73）。就筆者2019年的觀察所見，恆春地區皆稱「平埔調」，故本文以〈平埔調〉呈現。</p>
-    <p>&nbsp;&nbsp;&nbsp; 〈思想起〉是恆春民謠的代表，可能是恆春地區第三古老的民謠，在恆春地區有「自想起」、「自想枝」、「思鄉起」、「思想枝」、「思想起」、「樹相枝」、「士雙枝」、「思想記」等八種名稱，但恆春人採用前五種較多，後三種較少。「思想起」三字已全國通用，用華語唸也一樣。但大部分恆春人用臺語唸，還是把「起」字唸成「ㄍㄧ」。目前外界人士都稱「思想起」，倒是恆春地區卻「自想起」、「思想枝」、「思想起」兼用（鍾明昆，2016，78）。就筆者2019年的觀察所見，倒有「思雙枝」、「思想枝」、「思想起」之稱，而本文以全國通用的〈思想起〉呈現。</p>
-    <p>&nbsp;&nbsp;&nbsp; 另前幾年較少演出的〈數魚栽〉、〈打拼的兄弟姊妹〉，2019年倒有不少的演出，也頗具特色。</p>
-    <p>&nbsp;&nbsp;&nbsp; 恆春地區的曲目，多屬曲牌體，其歌詞內容可隨演出者之喜好與情緒，而塡上許多不同的歌詞，以恆春民謠【思想起】為例，其歌詞可填上喜怒哀樂憂等不同情緒的歌詞。而每年的「恆春民謠全國大賽」中的「民謠詩詞成人組」，也甄選出許多優秀的創作作品，被套入曲牌中使用。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;〈平埔調〉又稱〈臺東調〉，據張新傳所言是恆春第二出現的古老民謠。恆春鎮大部分的人把此曲稱為〈平埔調〉，恆春外地人或音樂界有稱為〈臺東調〉，但如解讀為「是恆春人到臺東開墾唱出來的」，則本末倒置，是誤導（鍾明昆，2016，72-73）。就筆者2019年的觀察所見，恆春地區皆稱「平埔調」，故本文以〈平埔調〉呈現。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;〈思想起〉是恆春民謠的代表，可能是恆春地區第三古老的民謠，在恆春地區有「自想起」、「自想枝」、「思鄉起」、「思想枝」、「思想起」、「樹相枝」、「士雙枝」、「思想記」等八種名稱，但恆春人採用前五種較多，後三種較少。「思想起」三字已全國通用，用華語唸也一樣。但大部分恆春人用臺語唸，還是把「起」字唸成「ㄍㄧ」。目前外界人士都稱「思想起」，倒是恆春地區卻「自想起」、「思想枝」、「思想起」兼用（鍾明昆，2016，78）。就筆者2019年的觀察所見，倒有「思雙枝」、「思想枝」、「思想起」之稱，而本文以全國通用的〈思想起〉呈現。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另前幾年較少演出的〈數魚栽〉、〈打拼的兄弟姊妹〉，2019年倒有不少的演出，也頗具特色。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;恆春地區的曲目，多屬曲牌體，其歌詞內容可隨演出者之喜好與情緒，而塡上許多不同的歌詞，以恆春民謠【思想起】為例，其歌詞可填上喜怒哀樂憂等不同情緒的歌詞。而每年的「恆春民謠全國大賽」中的「民謠詩詞成人組」，也甄選出許多優秀的創作作品，被套入曲牌中使用。</p>
     <p>（2）恆春以外地區</p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年的觀察，流傳於恆春以外地區的福佬系傳統民謠至少有93首。有些常被運用於戲曲或說唱音樂中，如〈七字調〉、〈卜卦調〉、〈五更鼓〉、〈牛犁歌〉（駛犁歌）、〈丟丟銅〉、〈安童哥買菜〉、〈江湖調〉（勸世歌）、〈吟詩調〉、〈走路調〉、〈車鼓調〉、〈相思燈〉、〈桃花過渡〉、〈海採茶〉、〈留傘調〉（農村酒歌）、〈草蜢弄雞公〉、〈做人的媳婦〉、〈都馬調〉、〈雪梅思君〉、〈雜唸調〉、〈藏調仔〉等，這些曲目在歌仔戲與唸歌仔中，皆是常用曲牌。另〈相思燈〉與南管有關；〈百家春〉、〈飲酒歌〉、〈牛郎織女〉與北管有關。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年的觀察，流傳於恆春以外地區的福佬系傳統民謠至少有93首。有些常被運用於戲曲或說唱音樂中，如〈七字調〉、〈卜卦調〉、〈五更鼓〉、〈牛犁歌〉（駛犁歌）、〈丟丟銅〉、〈安童哥買菜〉、〈江湖調〉（勸世歌）、〈吟詩調〉、〈走路調〉、〈車鼓調〉、〈相思燈〉、〈桃花過渡〉、〈海採茶〉、〈留傘調〉（農村酒歌）、〈草蜢弄雞公〉、〈做人的媳婦〉、〈都馬調〉、〈雪梅思君〉、〈雜唸調〉、〈藏調仔〉等，這些曲目在歌仔戲與唸歌仔中，皆是常用曲牌。另〈相思燈〉與南管有關；〈百家春〉、〈飲酒歌〉、〈牛郎織女〉與北管有關。</p>
     <p>
       <strong>2.</strong>
       <strong>創作歌謠</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 「創作歌謠」屬個人創作的歌謠，相較於傳統民謠，其數量是不勝枚舉的，且源源不斷。創作歌謠有詞是創作或改編的，有曲是創作或改編的，有詞曲皆創作或改編的，其中以詞曲皆創作的居多，特別是童謠；改編的詞以傳統民謠或唸謠的詞作改編的為多。不論哪一種，無疑的詞都具有強烈的臺灣民族意識、精神與在地特色，曲則具有臺灣的音樂特性，完完全全具有臺灣人的情感與風格。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「創作歌謠」屬個人創作的歌謠，相較於傳統民謠，其數量是不勝枚舉的，且源源不斷。創作歌謠有詞是創作或改編的，有曲是創作或改編的，有詞曲皆創作或改編的，其中以詞曲皆創作的居多，特別是童謠；改編的詞以傳統民謠或唸謠的詞作改編的為多。不論哪一種，無疑的詞都具有強烈的臺灣民族意識、精神與在地特色，曲則具有臺灣的音樂特性，完完全全具有臺灣人的情感與風格。</p>
     <p>（1）曲目</p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年的觀察，創作歌謠曲目（含改編、衍創），至少有339首。（表6）</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年的觀察，創作歌謠曲目（含改編、衍創），至少有339首。（表6）</p>
     <span>表6：創作歌謠曲目</span>
     <table width="697" rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
@@ -6496,7 +6498,7 @@
           <td width="116">
             <p>
               行置滿州牛車路
-              <a href="#_ftn7" name="_ftnref7">[7]</a>
+              <sup>7</sup>
             </p>
           </td>
           <td width="116">
@@ -7340,15 +7342,13 @@
         </tr>
       </tbody>
     </table>
+    <p></p>
     <p>
-      &nbsp;&nbsp; &nbsp;表6這些作品不論詞曲，除有光復前、後的作品外，有的是更多近年來的作品，其中以簡上仁的作品最多。這些作品有不少是描寫臺灣歷史、臺灣情（愛情、親情）、臺灣風景（地名、名勝古蹟）、臺灣小吃、臺灣動物等的作品，充滿濃厚的臺灣情懷與風格。如2019/06/29高雄室內合唱團演唱同時入圍第30屆金曲獎最佳演唱獎的「大地之歌－傾聽城市的聲音」中，陳維斌詞曲的〈桐花圓舞曲
-      <a
-        href="#_ftn8"
-        name="_ftnref8"
-      >[8]</a>〉描寫苗栗、〈月光花〉描寫南投．日月潭、〈濁水溪溪水濁
-      <a href="#_ftn9" name="_ftnref9">[9]</a>〉描寫臺灣人、〈今日哪又閣咧落雨〉描寫宜蘭、〈乘風破浪〉描寫澎湖等；又如宋澤萊詞、簡上仁曲的〈美麗的島鄉〉；向陽詞、石青如曲的〈八家將〉；吳景裕詞、蕭泰然曲的〈永遠的故鄉〉；李敏勇詞、蕭泰然曲的〈美麗的國度〉等，比比皆是。
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表6這些作品不論詞曲，除有光復前、後的作品外，有的是更多近年來的作品，其中以簡上仁的作品最多。這些作品有不少是描寫臺灣歷史、臺灣情（愛情、親情）、臺灣風景（地名、名勝古蹟）、臺灣小吃、臺灣動物等的作品，充滿濃厚的臺灣情懷與風格。如2019/06/29高雄室內合唱團演唱同時入圍第30屆金曲獎最佳演唱獎的「大地之歌－傾聽城市的聲音」中，陳維斌詞曲的〈桐花圓舞曲
+      <sup>8</sup>〉描寫苗栗、〈月光花〉描寫南投．日月潭、〈濁水溪溪水濁
+      <sup>9</sup>〉描寫臺灣人、〈今日哪又閣咧落雨〉描寫宜蘭、〈乘風破浪〉描寫澎湖等；又如宋澤萊詞、簡上仁曲的〈美麗的島鄉〉；向陽詞、石青如曲的〈八家將〉；吳景裕詞、蕭泰然曲的〈永遠的故鄉〉；李敏勇詞、蕭泰然曲的〈美麗的國度〉等，比比皆是。
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 表6這些作品有些半價歌曲（混血歌曲）（表7），都是日本曲、臺灣詞，這些半價歌曲曲調雖無臺灣民族意識，但歌詞卻頗具臺灣味，因此也慰藉、擄獲不少臺灣人的心，其中以葉俊麟填詞者最多。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表6這些作品有些半價歌曲（混血歌曲）（表7），都是日本曲、臺灣詞，這些半價歌曲曲調雖無臺灣民族意識，但歌詞卻頗具臺灣味，因此也慰藉、擄獲不少臺灣人的心，其中以葉俊麟填詞者最多。</p>
     <span>表7：半價歌曲</span>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
@@ -7461,10 +7461,11 @@
         </tr>
       </tbody>
     </table>
-    <p>&nbsp;&nbsp;&nbsp; 表6中，被演出次數最多者依序為〈望春風〉（鄧雨賢）、〈四季紅〉（鄧雨賢）、〈月夜愁〉（鄧雨賢）、〈雨夜花〉（鄧雨賢）、〈安平追想曲〉（許石）、〈春宵吟〉（鄧雨賢）、〈碎心花〉（鄧雨賢）、〈想欲彈同調〉（鄧雨賢）、〈補破網〉（王雲峰）、〈望你早歸〉（楊三郎）等。前10名作品中，鄧雨賢的作品就佔了7個，而「四月望雨」穩居前四名。至於半價歌曲以〈黃昏的故鄉〉被演出的次數最多。</p>
-    <p>&nbsp;&nbsp;&nbsp; 另有些作品，用表5、6中的某些歌曲，重新編曲、作曲，而以器樂方式呈現，如《大稻埕進行曲》（弦樂團、管弦樂團）、《四月雨小提琴協奏曲》、《四月望雨長笛協奏曲》、《雨夜花狂想曲》（小提琴）、《穿越時空的－望雨（望春風）》（鋼琴＋長笛）、《望春風的美麗與哀愁》（長笛獨奏）、《鹿港映象交響詩》（管弦樂團）、《當烏克麗麗遇見鄧雨賢》（烏克麗麗團）、《臺灣音樂集錦交響詩》（管弦樂團）、《臺灣鄉土交響曲》（管弦樂團＋傳統樂器：琵琶、大廣絃、月琴、鴨母笛）、〈補破網狂想〉（國樂合奏）、「灣聲樂團名人系列饗宴ⅩⅣ鄧雨賢－望月春風夜輕愁」（管弦樂團）、「臺南藝術節－泥香之城：臺灣意象」（管弦樂團），以及〈思想起〉、〈丟丟銅〉、〈四季紅〉、〈望春風〉、〈河邊春夢〉、〈滿山春色〉的鋼琴四手聯彈等。</p>
+    <p></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表6中，被演出次數最多者依序為〈望春風〉（鄧雨賢）、〈四季紅〉（鄧雨賢）、〈月夜愁〉（鄧雨賢）、〈雨夜花〉（鄧雨賢）、〈安平追想曲〉（許石）、〈春宵吟〉（鄧雨賢）、〈碎心花〉（鄧雨賢）、〈想欲彈同調〉（鄧雨賢）、〈補破網〉（王雲峰）、〈望你早歸〉（楊三郎）等。前10名作品中，鄧雨賢的作品就佔了7個，而「四月望雨」穩居前四名。至於半價歌曲以〈黃昏的故鄉〉被演出的次數最多。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另有些作品，用表5、6中的某些歌曲，重新編曲、作曲，而以器樂方式呈現，如《大稻埕進行曲》（弦樂團、管弦樂團）、《四月雨小提琴協奏曲》、《四月望雨長笛協奏曲》、《雨夜花狂想曲》（小提琴）、《穿越時空的－望雨（望春風）》（鋼琴＋長笛）、《望春風的美麗與哀愁》（長笛獨奏）、《鹿港映象交響詩》（管弦樂團）、《當烏克麗麗遇見鄧雨賢》（烏克麗麗團）、《臺灣音樂集錦交響詩》（管弦樂團）、《臺灣鄉土交響曲》（管弦樂團＋傳統樂器：琵琶、大廣絃、月琴、鴨母笛）、〈補破網狂想〉（國樂合奏）、「灣聲樂團名人系列饗宴ⅩⅣ鄧雨賢－望月春風夜輕愁」（管弦樂團）、「臺南藝術節－泥香之城：臺灣意象」（管弦樂團），以及〈思想起〉、〈丟丟銅〉、〈四季紅〉、〈望春風〉、〈河邊春夢〉、〈滿山春色〉的鋼琴四手聯彈等。</p>
     <p>（2）作詞者/編詞者/口述者/譯詞者</p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年筆者所觀察到的福佬系創作歌謠的作詞者/編詞者/口述者/譯詞者，至少有133位。（表8）</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年筆者所觀察到的福佬系創作歌謠的作詞者/編詞者/口述者/譯詞者，至少有133位。（表8）</p>
     <span>表8：作詞者/編詞者/口述者/譯詞者</span>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
@@ -7924,10 +7925,10 @@
         </tr>
       </tbody>
     </table>
-    <p>&nbsp;</p>
-    <p>&nbsp;&nbsp;&nbsp; 這些作詞者/編詞者/口述者/譯詞者，除有光復前、後的作者，如王昶雄、江中清、呂泉生、呂傳梓、李臨秋、那卡諾、周添旺、林天來、施祖德、洪一峰、張邱東松、許丙丁、陳水柳、陳君玉、陳達儒、曾辛得、黃仲鑫、葉俊麟、詹天馬、廖漢臣、蔡培火、蔣渭水、鄭志峰、蕭安居、盧雲生等外，有的是更多近代的作者，如向陽、宋澤萊、李敏勇、林育伶、施福珍、陳明章、簡上仁等。其中也有少數外國人，如（日）橫井弘桴等。</p>
-    <p>&nbsp;&nbsp;&nbsp; 作詞者作品數量之多寡（不含重複），依序為簡上仁58首（包括改編；大多其作曲）、葉俊麟27首、陳達儒20首、周添旺17首、陳維斌16首（皆其作曲）、向陽11首、李臨秋10首等。</p>
-    <p>&nbsp;&nbsp;&nbsp; 另有部分是直接採用或改編自傳統民謠與唸謠者，至少有35首（表9），其中有不少是童謠。</p>
+    <p></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;這些作詞者/編詞者/口述者/譯詞者，除有光復前、後的作者，如王昶雄、江中清、呂泉生、呂傳梓、李臨秋、那卡諾、周添旺、林天來、施祖德、洪一峰、張邱東松、許丙丁、陳水柳、陳君玉、陳達儒、曾辛得、黃仲鑫、葉俊麟、詹天馬、廖漢臣、蔡培火、蔣渭水、鄭志峰、蕭安居、盧雲生等外，有的是更多近代的作者，如向陽、宋澤萊、李敏勇、林育伶、施福珍、陳明章、簡上仁等。其中也有少數外國人，如（日）橫井弘桴等。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作詞者作品數量之多寡（不含重複），依序為簡上仁58首（包括改編；大多其作曲）、葉俊麟27首、陳達儒20首、周添旺17首、陳維斌16首（皆其作曲）、向陽11首、李臨秋10首等。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另有部分是直接採用或改編自傳統民謠與唸謠者，至少有35首（表9），其中有不少是童謠。</p>
     <span>表9：直接採用或改編自傳統民謠與唸謠者</span>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
@@ -8054,9 +8055,9 @@
         </tr>
       </tbody>
     </table>
-    <p>&nbsp;</p>
+    <p></p>
     <p>（3）作曲者/編曲者</p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年筆者所觀察到的福佬系創作歌謠的作曲者，至少有90位。（表10）。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年筆者所觀察到的福佬系創作歌謠的作曲者，至少有90位。（表10）。</p>
     <span>表10：作曲者</span>
     <table width="697" rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
@@ -8379,11 +8380,11 @@
         </tr>
       </tbody>
     </table>
-    <p>&nbsp;</p>
-    <p>&nbsp;&nbsp;&nbsp; 這些作曲者，除王雲峰、江中清、吳晉淮、呂泉生、周添旺、林綿隆、姚讚福、洪一峰、張邱東松、許石、郭芝苑、陳水柳、陳秋霖、楊三郎、楊樹木、葉俊麟、蔡培火、鄧雨賢、蘇桐等屬光復前後期的作者外，有的也是更多近代的作者，如石青如、施福珍、張炫文、陳明章、陳維斌、蕭泰然、簡上仁等。其中有些外國人，如一條慎三郎、三山敏、中野忠晴、古賀政男、古關裕而、吉田正、吉田矢健治、吉幾三、米山正夫、佐佐木俊一、佐柏としお、佐藤富防、遠藤實、橫井弘桴、豐田一雄、關野幾生等，皆日本人。</p>
-    <p>&nbsp;&nbsp;&nbsp; 作曲者作品量之多寡（不含重複），依序為簡上仁94首（含改編、衍創）、陳明章23首、鄧雨賢18首、陳維斌16首、蕭泰然12首、洪一峰9首、石青如9首等。以簡上仁的作品最多，其中有不少童謠。</p>
-    <p>&nbsp;&nbsp;&nbsp; 而詞曲同一人的作者有王明哲等31人（包含詞改編、合創、修詞），詞曲同一人的作品有〈白蘭花〉等124首。作品數量之多寡依序為簡上仁59首、陳維斌16首、施福珍6首、陳明章5首、楊大正4首、林育伶3首等。亦以簡上仁的作品最多。</p>
-    <p>&nbsp;&nbsp;&nbsp; 編曲者方面，常見的有王宏琳、王佩伶、冉天豪、李和莆、李忠男、李哲藝、周鑫泉、柯芳隆、馬水龍、張邦彥、許雙亮、郭孟雍、陳一涵、陳永鑫、陳武雄、陳哲聖、陳慶文、黃俊達、黃俞憲、萬益嘉、詹宏達、劉文祥、劉新誠、劉聖賢、蔡昱姍、盧亮輝、謝佳芳、簡上仁等。作品數量之多寡，依序為蔡昱姍、黃俊達、李和莆、簡上仁、陳永鑫、劉聖賢、冉天豪、劉文祥等。</p>
+    <p></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;這些作曲者，除王雲峰、江中清、吳晉淮、呂泉生、周添旺、林綿隆、姚讚福、洪一峰、張邱東松、許石、郭芝苑、陳水柳、陳秋霖、楊三郎、楊樹木、葉俊麟、蔡培火、鄧雨賢、蘇桐等屬光復前後期的作者外，有的也是更多近代的作者，如石青如、施福珍、張炫文、陳明章、陳維斌、蕭泰然、簡上仁等。其中有些外國人，如一條慎三郎、三山敏、中野忠晴、古賀政男、古關裕而、吉田正、吉田矢健治、吉幾三、米山正夫、佐佐木俊一、佐柏としお、佐藤富防、遠藤實、橫井弘桴、豐田一雄、關野幾生等，皆日本人。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作曲者作品量之多寡（不含重複），依序為簡上仁94首（含改編、衍創）、陳明章23首、鄧雨賢18首、陳維斌16首、蕭泰然12首、洪一峰9首、石青如9首等。以簡上仁的作品最多，其中有不少童謠。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;而詞曲同一人的作者有王明哲等31人（包含詞改編、合創、修詞），詞曲同一人的作品有〈白蘭花〉等124首。作品數量之多寡依序為簡上仁59首、陳維斌16首、施福珍6首、陳明章5首、楊大正4首、林育伶3首等。亦以簡上仁的作品最多。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;編曲者方面，常見的有王宏琳、王佩伶、冉天豪、李和莆、李忠男、李哲藝、周鑫泉、柯芳隆、馬水龍、張邦彥、許雙亮、郭孟雍、陳一涵、陳永鑫、陳武雄、陳哲聖、陳慶文、黃俊達、黃俞憲、萬益嘉、詹宏達、劉文祥、劉新誠、劉聖賢、蔡昱姍、盧亮輝、謝佳芳、簡上仁等。作品數量之多寡，依序為蔡昱姍、黃俊達、李和莆、簡上仁、陳永鑫、劉聖賢、冉天豪、劉文祥等。</p>
     <p>
       <strong>（六）歌詞內容</strong>
     </p>
@@ -8392,26 +8393,23 @@
       <strong>傳統民謠</strong>
     </p>
     <p>
-      &nbsp;&nbsp;&nbsp; 許常惠教授將臺灣福佬系傳統民謠歌詞內容分為祭祀、勞動、歌舞、愛情、飲酒遊戲、敘事、童謠七大類。恆春民謠多屬山歌風格，曲調屬曲牌性質，同一曲牌之歌詞可道盡人間的喜怒哀樂憂，相當即興。2019年的觀察，處處可見同一曲牌卻有許多不同的人創作出不同的歌詞演唱，相當精采。而2019年舉辦的「半島歌謠祭－屏東縣『恆春民謠全國大賽』
-      <a
-        href="#_ftn10"
-        name="_ftnref10"
-      >[10]</a>」中，就有「民謠詩詞成人組」的組別，規定要以「描寫恆春半島人、事、物或風景，及生活，自命題目創作」，因此也產生了不少優秀的作品，如「2019半島歌謠祭」中的「恆春民謠個人組」的決賽中，以【四季春】參賽者，其作詞者就有林鳳珠的〈欲聽民謠來縣城〉、〈山風兮話〉、〈佇嫬出世佇嫬大〉；王佳羚的〈放假〉；廖品璇的〈欖仁樹腳〉；張至鈞的〈四季〉；楊碧玲的〈秋天兮民謠〉；楊晴的〈楓港頌〉；郭宥慈的〈恆春半島的歌聲〉；厚筋的〈滿地黃金球〉；李張玉蘭的〈人生親像大舞臺〉；陳秋枝的〈植物染〉、〈春天〉；佚名的〈恆春尚水置春天〉、〈海湧潑來清幽幽〉、〈屏東古早叫阿猴〉等。恆春以外地區的傳統民謠歌詞內容基本上屬於許常惠教授的分類範圍。
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;許常惠教授將臺灣福佬系傳統民謠歌詞內容分為祭祀、勞動、歌舞、愛情、飲酒遊戲、敘事、童謠七大類。恆春民謠多屬山歌風格，曲調屬曲牌性質，同一曲牌之歌詞可道盡人間的喜怒哀樂憂，相當即興。2019年的觀察，處處可見同一曲牌卻有許多不同的人創作出不同的歌詞演唱，相當精采。而2019年舉辦的「半島歌謠祭－屏東縣『恆春民謠全國大賽』
+      <sup>10</sup>」中，就有「民謠詩詞成人組」的組別，規定要以「描寫恆春半島人、事、物或風景，及生活，自命題目創作」，因此也產生了不少優秀的作品，如「2019半島歌謠祭」中的「恆春民謠個人組」的決賽中，以【四季春】參賽者，其作詞者就有林鳳珠的〈欲聽民謠來縣城〉、〈山風兮話〉、〈佇嫬出世佇嫬大〉；王佳羚的〈放假〉；廖品璇的〈欖仁樹腳〉；張至鈞的〈四季〉；楊碧玲的〈秋天兮民謠〉；楊晴的〈楓港頌〉；郭宥慈的〈恆春半島的歌聲〉；厚筋的〈滿地黃金球〉；李張玉蘭的〈人生親像大舞臺〉；陳秋枝的〈植物染〉、〈春天〉；佚名的〈恆春尚水置春天〉、〈海湧潑來清幽幽〉、〈屏東古早叫阿猴〉等。恆春以外地區的傳統民謠歌詞內容基本上屬於許常惠教授的分類範圍。
     </p>
     <p>
       <strong>2.</strong>
       <strong>創作歌謠</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年的觀察，臺灣福佬系創作歌謠的歌詞內容，光從曲名觀之，大致就可包含以下類別：（表11）</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年的觀察，臺灣福佬系創作歌謠的歌詞內容，光從曲名觀之，大致就可包含以下類別：（表11）</p>
     <span>表11：臺灣福佬系創作歌謠的歌詞內容－從曲名觀之</span>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
           <td width="104">
-            <p>類別</p>
+            <p class="tableCenter">類別</p>
           </td>
           <td width="593">
-            <p>舉例說明</p>
+            <p class="tableCenter">舉例說明</p>
           </td>
         </tr>
         <tr>
@@ -8543,31 +8541,29 @@
         </tr>
       </tbody>
     </table>
-    <p>&nbsp;&nbsp;&nbsp; 表11僅從「曲名」觀之，可說已包羅萬象，若從「歌詞內容」觀之，則應更多采。其中以情歌類（親情、愛情、友情）占最大宗，尤其是男女間的愛情。</p>
+    <p></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表11僅從「曲名」觀之，可說已包羅萬象，若從「歌詞內容」觀之，則應更多采。其中以情歌類（親情、愛情、友情）占最大宗，尤其是男女間的愛情。</p>
     <p>
       <strong>（七）演唱方式</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 臺灣福佬系傳統民謠的演唱方式，過去一般常見以獨唱、齊唱、對唱等方式呈現。2019年的觀察，在恆春地區演出或比賽的恆春民謠，其演唱方式大多仍維持獨唱、齊唱或對唱的方式。</p>
-    <p>&nbsp;&nbsp;&nbsp; 恆春以外地區傳統民謠的演唱方式，同創作歌謠一樣，若在文化場所，如文化中心演藝廳、音樂廳、音樂館等較具規模的演出場合，或以合唱團的形式演出者，則常見以獨唱、合唱（包括二、三、四部同聲或混聲合唱）、重唱（二、三重唱）、音樂劇、Acappella或清唱等美聲唱法方式呈現，甚至跨界演出。且除獨唱外，多已重新編曲，多已非原始面貌，不是曲變或詞變或詞曲皆變，改編程度隨編曲家、編詞家之喜好與技巧而各有千秋。</p>
-    <p>&nbsp;&nbsp;&nbsp; 不論傳統民謠或創作歌謠，在文化中心演藝廳、音樂廳、音樂館等較具規模的演出場所，整場都是福佬系歌謠的演出很少，福佬系歌謠常只屬於整場音樂會中的一部分或一小部分，尤以傳統民謠為最。組合情形有中西歌謠的組合、不同族群歌謠的組合、不同性質歌謠的組合、不同劇種或樂種的組合、歌樂與器樂的組合等。中西歌謠的組合，如外國歌謠與福佬系歌謠之組合等；不同族群歌謠之組合，如原住民、福佬、客語、華語歌謠之組合等；不同性質之組合，如宗教歌曲與福佬系歌謠之組合等；不同劇種或樂種之組合，如說唱音樂與福佬系歌謠之組合等；歌樂與器樂的組合，如福佬系歌謠與管弦樂、國樂的組合等。以下舉8個活動主題為例。（表12）</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;臺灣福佬系傳統民謠的演唱方式，過去一般常見以獨唱、齊唱、對唱等方式呈現。2019年的觀察，在恆春地區演出或比賽的恆春民謠，其演唱方式大多仍維持獨唱、齊唱或對唱的方式。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;恆春以外地區傳統民謠的演唱方式，同創作歌謠一樣，若在文化場所，如文化中心演藝廳、音樂廳、音樂館等較具規模的演出場合，或以合唱團的形式演出者，則常見以獨唱、合唱（包括二、三、四部同聲或混聲合唱）、重唱（二、三重唱）、音樂劇、Acappella或清唱等美聲唱法方式呈現，甚至跨界演出。且除獨唱外，多已重新編曲，多已非原始面貌，不是曲變或詞變或詞曲皆變，改編程度隨編曲家、編詞家之喜好與技巧而各有千秋。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不論傳統民謠或創作歌謠，在文化中心演藝廳、音樂廳、音樂館等較具規模的演出場所，整場都是福佬系歌謠的演出很少，福佬系歌謠常只屬於整場音樂會中的一部分或一小部分，尤以傳統民謠為最。組合情形有中西歌謠的組合、不同族群歌謠的組合、不同性質歌謠的組合、不同劇種或樂種的組合、歌樂與器樂的組合等。中西歌謠的組合，如外國歌謠與福佬系歌謠之組合等；不同族群歌謠之組合，如原住民、福佬、客語、華語歌謠之組合等；不同性質之組合，如宗教歌曲與福佬系歌謠之組合等；不同劇種或樂種之組合，如說唱音樂與福佬系歌謠之組合等；歌樂與器樂的組合，如福佬系歌謠與管弦樂、國樂的組合等。以下舉8個活動主題為例。（表12）</p>
     <span>表12：組合演出之情形</span>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
           <td width="344">
-            <p>活動主題（演出日期）</p>
+            <p class="tableCenter">活動主題（演出日期）</p>
           </td>
           <td width="362">
-            <p>組合情形</p>
+            <p class="tableCenter">組合情形</p>
           </td>
         </tr>
         <tr>
           <td width="344">
             <p>
-              「臺灣的聲音」2019
-              <a
-                href="http://www.epochtimes.com/b5/tag/%e6%96%b0%e5%b9%b4%e9%9f%b3%e6%a8%82%e6%9c%83.html"
-              >新年音樂會</a>（01/01）
+              「臺灣的聲音」2019新年音樂會（01/01）
             </p>
           </td>
           <td width="362">
@@ -8632,29 +8628,27 @@
         </tr>
       </tbody>
     </table>
+    <p></p>
     <p>
       <strong>（八）伴奏樂器</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 過去臺灣福佬系傳統民謠所使用的伴奏樂器，以擦絃樂器、撥絃樂器為主，很少採用吹管樂器與打擊樂器，常見的有殼仔絃、大廣絃、喇叭絃、月琴、三絃等。2019年的觀察，在恆春地區比賽或演出的恆春民謠，所用的伴奏樂器主要以月琴自彈自唱，或他人以月琴伴奏，或清唱。另有以月琴或二胡以器樂齊奏方式呈現福佬系歌謠，或以齊奏方式為歌樂或舞蹈伴奏。</p>
-    <p>&nbsp;&nbsp;&nbsp; 恆春以外地區傳統民謠的伴奏方式，同創作歌謠一樣，伴奏方式相當多元，如在文化中心演藝廳、音樂廳、音樂館等較具規模的演出場合，或以合唱團的形式演出者，常見以單一樂器（最常見者為鋼琴）、中或西樂器、中西樂器、中或西小型室內樂團、中西小型室內樂團、流行樂團、國樂團、管弦樂團等伴奏，或以Acappella方式呈現。以下舉8個活動主題為例。（表13）</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;過去臺灣福佬系傳統民謠所使用的伴奏樂器，以擦絃樂器、撥絃樂器為主，很少採用吹管樂器與打擊樂器，常見的有殼仔絃、大廣絃、喇叭絃、月琴、三絃等。2019年的觀察，在恆春地區比賽或演出的恆春民謠，所用的伴奏樂器主要以月琴自彈自唱，或他人以月琴伴奏，或清唱。另有以月琴或二胡以器樂齊奏方式呈現福佬系歌謠，或以齊奏方式為歌樂或舞蹈伴奏。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;恆春以外地區傳統民謠的伴奏方式，同創作歌謠一樣，伴奏方式相當多元，如在文化中心演藝廳、音樂廳、音樂館等較具規模的演出場合，或以合唱團的形式演出者，常見以單一樂器（最常見者為鋼琴）、中或西樂器、中西樂器、中或西小型室內樂團、中西小型室內樂團、流行樂團、國樂團、管弦樂團等伴奏，或以Acappella方式呈現。以下舉8個活動主題為例。（表13）</p>
     <span>表13：伴奏、演奏樂器</span>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
           <td width="348">
-            <p>活動主題（日期）</p>
+            <p class="tableCenter">活動主題（日期）</p>
           </td>
           <td width="348">
-            <p>伴奏、演奏樂器</p>
+            <p class="tableCenter">伴奏、演奏樂器</p>
           </td>
         </tr>
         <tr>
           <td width="348">
             <p>
-              「臺灣的聲音」2019
-              <a
-                href="http://www.epochtimes.com/b5/tag/%e6%96%b0%e5%b9%b4%e9%9f%b3%e6%a8%82%e6%9c%83.html"
-              >新年音樂會</a>（01/01）
+              「臺灣的聲音」2019新年音樂會（01/01）
             </p>
           </td>
           <td width="348">
@@ -8720,57 +8714,58 @@
         </tr>
       </tbody>
     </table>
+    <p></p>
     <p>
       <strong>小結</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年有關福佬系歌謠之觀察，筆者共觀察了181個活動主題，而光簡上仁在民視臺灣學堂《Formosa音樂廳》的專輯，就多達50集。就活動時間言，以9、10、7月最密集。就活動地點言，以民視最多，後依序為屏東、臺北、宜蘭，主要集中在南、北。集中在北部，可能與觀察者之地緣有關而有較多的觀察。恆春是福佬系傳統民謠的重鎮，因此屏東縣也有較多的活動。就活動性質言，以「展演活動＋推廣教育」最多，次為「展演活動」。以下就傳統民謠與創作歌謠作敘述。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年有關福佬系歌謠之觀察，筆者共觀察了181個活動主題，而光簡上仁在民視臺灣學堂《Formosa音樂廳》的專輯，就多達50集。就活動時間言，以9、10、7月最密集。就活動地點言，以民視最多，後依序為屏東、臺北、宜蘭，主要集中在南、北。集中在北部，可能與觀察者之地緣有關而有較多的觀察。恆春是福佬系傳統民謠的重鎮，因此屏東縣也有較多的活動。就活動性質言，以「展演活動＋推廣教育」最多，次為「展演活動」。以下就傳統民謠與創作歌謠作敘述。</p>
     <p>
       <strong>一、傳統民謠</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 就曲目言，至少有109首，其中恆春地區16首，恆春以外地區93首。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就曲目言，至少有109首，其中恆春地區16首，恆春以外地區93首。</p>
     <p>
       <strong>（一）恆春地區</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp; 2019年的觀察，恆春地區傳統民謠曲目有16首，分別為〈五孔小調〉（苦力歌）、〈牛母伴〉、〈四季春〉、〈平埔調〉、〈打拼的兄弟姊妹〉、〈守牛調〉、〈思想起〉、〈恆春耕農歌〉、〈海採茶〉、〈楓港小調〉（駛牛車）、〈楓港老調〉、〈滿州三景〉、〈滿州小調〉、〈滿州特景〉、〈數魚栽〉、〈恆春四景〉等。而其中恆春地區六大調（〈牛母伴〉、〈平埔調〉、〈思想起〉、〈四季春〉、〈五孔小調〉、〈楓港小調〉）被演出的次數相當多，因不論比賽或重要展演，六大調被規定是一定要使用的曲調，尤其是官方舉辦的比賽，更是規定要使用這些曲目，形同指定曲。</p>
-    <p>&nbsp;&nbsp;&nbsp; 恆春民謠多屬山歌風格，曲調屬曲牌性質，同一曲牌之歌詞可道盡人間的喜怒哀樂憂，相當即興。2019年的觀察，處處可見同一曲牌卻有許多不同的人創作出不同的歌詞演唱。而2019年舉辦的「半島歌謠祭－屏東縣『恆春民謠全國大賽』」中，就有「民謠詩詞成人組」的項目，規定要以「描寫恆春半島人、事、物或風景，及生活，自命題目創作」，因此也產生了不少優秀的作品。</p>
-    <p>&nbsp;&nbsp;&nbsp; 「2019半島歌謠祭」（10/22-27），是恆春地區非常重要的音樂活動，秉持文化扎根、駐點創作、跨界創新、世界音樂、地方創生五大基調，結合音樂、戲劇、視覺燈光、裝置藝術、在地特產與生態遊程等，讓恆春化身為歷史舞臺現場，創造獨一無二的文化盛宴。五大基調提高在地音樂人的創作能量，以及節慶的國際化層次。</p>
-    <p>&nbsp;&nbsp;&nbsp; 「2019半島歌謠祭」在恆春鎮西門廣場和猴洞山連續舉辦6天，包含「民謠大賽」、「半島劇場」、「世界音樂」、「老調新聲」四大主題，活動以「阿嬤叫你回來聽歌」為主要訴求，讓阿嬤變明星。前者於10/22-10/24舉行，後三者於10/25-10/27舉行。</p>
-    <p>&nbsp;&nbsp;&nbsp; 特別是「2019年第13屆屏東縣『恆春民謠全國大賽』」的觀察，筆者深受感動。恆春民謠全國大賽今年舉辦第13屆，13年來在屏東縣政府以及恆春各界的努力推廣、支持下，成果輝煌，為恆春民謠的傳承紮下了深厚的根基。</p>
-    <p>&nbsp;&nbsp;&nbsp; 筆者也看到了不論個人組或團體組比賽時，恆春地區校長、教師們參與的熱情，從到現場為學生加油、打氣、鼓勵，更看到了由於學校的重視、支持、推廣，讓恆春民謠在當地簡直成了全民運動，帶動了恆春民謠的正向發展。主持人也由當地的校長、教師們義務輪番接棒主持，甚至演出，大家熱情的為恆春民謠共襄盛舉。而傳藝師、學生們更為比賽而卯足全力。</p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年的比賽，民謠個人組中，國小組相較於2018年，表現相當亮眼，進步相當多。而得到優等獎的李諺寧，是車城國小幼兒園的小朋友，獎項一公布引起全場熱烈不斷的掌聲，對幼兒園的小朋友而言，能在國小組165人的競爭中得到優等獎，真是不容易，且是極大的鼓勵與榮譽。而民謠團體組也有幼兒園－童心幼稚園參賽；月琴伴唱創意組車城國小附幼也參賽。相較於2018年只有一個幼兒園參賽，成長了3倍。幼兒園參賽，除了孩童活潑可愛獲得不少掌聲外，更讓人看到恆春在地人的用心，他們已將紮根的觸角伸向從幼兒園開始培養。</p>
-    <p>&nbsp;&nbsp;&nbsp; 至於恆春民謠團體組、民謠對唱組、月琴伴唱創意組，更是多采多姿，各種傳統與創新層出不窮，劇情、舞臺設計、服裝、造型、化妝、道具、音樂等更費盡心思，熱鬧滾滾。美中不足的是民謠團體組、月琴伴唱創意組，過於重視外在的呈現，而忽略了音樂才是重心，演出曲目少了些。不過，如何在傳統與創新之間取得平衡，如何讓全臺最純樸的恆春福佬系傳統民謠，能在滾滾時代洪流中，不被時代所淹沒，或在創新之餘仍能保有其精髓，應是必須思考的問題。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年的觀察，恆春地區傳統民謠曲目有16首，分別為〈五孔小調〉（苦力歌）、〈牛母伴〉、〈四季春〉、〈平埔調〉、〈打拼的兄弟姊妹〉、〈守牛調〉、〈思想起〉、〈恆春耕農歌〉、〈海採茶〉、〈楓港小調〉（駛牛車）、〈楓港老調〉、〈滿州三景〉、〈滿州小調〉、〈滿州特景〉、〈數魚栽〉、〈恆春四景〉等。而其中恆春地區六大調（〈牛母伴〉、〈平埔調〉、〈思想起〉、〈四季春〉、〈五孔小調〉、〈楓港小調〉）被演出的次數相當多，因不論比賽或重要展演，六大調被規定是一定要使用的曲調，尤其是官方舉辦的比賽，更是規定要使用這些曲目，形同指定曲。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;恆春民謠多屬山歌風格，曲調屬曲牌性質，同一曲牌之歌詞可道盡人間的喜怒哀樂憂，相當即興。2019年的觀察，處處可見同一曲牌卻有許多不同的人創作出不同的歌詞演唱。而2019年舉辦的「半島歌謠祭－屏東縣『恆春民謠全國大賽』」中，就有「民謠詩詞成人組」的項目，規定要以「描寫恆春半島人、事、物或風景，及生活，自命題目創作」，因此也產生了不少優秀的作品。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「2019半島歌謠祭」（10/22-27），是恆春地區非常重要的音樂活動，秉持文化扎根、駐點創作、跨界創新、世界音樂、地方創生五大基調，結合音樂、戲劇、視覺燈光、裝置藝術、在地特產與生態遊程等，讓恆春化身為歷史舞臺現場，創造獨一無二的文化盛宴。五大基調提高在地音樂人的創作能量，以及節慶的國際化層次。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「2019半島歌謠祭」在恆春鎮西門廣場和猴洞山連續舉辦6天，包含「民謠大賽」、「半島劇場」、「世界音樂」、「老調新聲」四大主題，活動以「阿嬤叫你回來聽歌」為主要訴求，讓阿嬤變明星。前者於10/22-10/24舉行，後三者於10/25-10/27舉行。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;特別是「2019年第13屆屏東縣『恆春民謠全國大賽』」的觀察，筆者深受感動。恆春民謠全國大賽今年舉辦第13屆，13年來在屏東縣政府以及恆春各界的努力推廣、支持下，成果輝煌，為恆春民謠的傳承紮下了深厚的根基。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;筆者也看到了不論個人組或團體組比賽時，恆春地區校長、教師們參與的熱情，從到現場為學生加油、打氣、鼓勵，更看到了由於學校的重視、支持、推廣，讓恆春民謠在當地簡直成了全民運動，帶動了恆春民謠的正向發展。主持人也由當地的校長、教師們義務輪番接棒主持，甚至演出，大家熱情的為恆春民謠共襄盛舉。而傳藝師、學生們更為比賽而卯足全力。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年的比賽，民謠個人組中，國小組相較於2018年，表現相當亮眼，進步相當多。而得到優等獎的李諺寧，是車城國小幼兒園的小朋友，獎項一公布引起全場熱烈不斷的掌聲，對幼兒園的小朋友而言，能在國小組165人的競爭中得到優等獎，真是不容易，且是極大的鼓勵與榮譽。而民謠團體組也有幼兒園－童心幼稚園參賽；月琴伴唱創意組車城國小附幼也參賽。相較於2018年只有一個幼兒園參賽，成長了3倍。幼兒園參賽，除了孩童活潑可愛獲得不少掌聲外，更讓人看到恆春在地人的用心，他們已將紮根的觸角伸向從幼兒園開始培養。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;至於恆春民謠團體組、民謠對唱組、月琴伴唱創意組，更是多采多姿，各種傳統與創新層出不窮，劇情、舞臺設計、服裝、造型、化妝、道具、音樂等更費盡心思，熱鬧滾滾。美中不足的是民謠團體組、月琴伴唱創意組，過於重視外在的呈現，而忽略了音樂才是重心，演出曲目少了些。不過，如何在傳統與創新之間取得平衡，如何讓全臺最純樸的恆春福佬系傳統民謠，能在滾滾時代洪流中，不被時代所淹沒，或在創新之餘仍能保有其精髓，應是必須思考的問題。</p>
     <p>
       <strong>（二）恆春以外地區</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 恆春以外地區福佬系傳統民謠曲目至少有93首。除了以月琴自彈自唱的傳習活動與成果展，由於成員以娛樂為目的的團體，皆以齊唱、對唱、輪唱等方式呈現外，在較正式以展演為主的活動，為了提高欣賞、演出的層次，作品多以合唱、重唱、獨唱等美聲唱法方式呈現，伴奏也趨向多元，亦即作品多已重新編曲或編詞，呈現了不同於原始面貌的效果。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;恆春以外地區福佬系傳統民謠曲目至少有93首。除了以月琴自彈自唱的傳習活動與成果展，由於成員以娛樂為目的的團體，皆以齊唱、對唱、輪唱等方式呈現外，在較正式以展演為主的活動，為了提高欣賞、演出的層次，作品多以合唱、重唱、獨唱等美聲唱法方式呈現，伴奏也趨向多元，亦即作品多已重新編曲或編詞，呈現了不同於原始面貌的效果。</p>
     <p>
       <strong>二、創作歌謠</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 「創作歌謠」屬個人創作的歌謠，相較於傳統民謠，其數量不勝枚舉，且源源不斷。由於數量龐大，因此筆者觀察之初，即已將觀察對象鎖定在必須是具有臺灣精神、意識、特性、風格的作品。2019年的觀察，這些創作歌謠有詞是創作或改編的，有曲是創作或改編的，有詞曲皆創作或改編的，其中以詞曲皆創作者居多，特別是童謠；改編的詞以傳統民謠或唸謠的詞作改編的為多。不論哪一種，無疑的詞都具有強烈的臺灣民族意識、精神與在地特色，曲則具有臺灣的音樂特性，完完全全具有臺灣人的情感與風格。</p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年的觀察，創作歌謠曲目（含改編、衍創），至少有339首，不論詞曲，除有光復前、後的作品外，近代的作品也不少。歌詞內容光從「曲名」觀之，可說已包羅萬象，若從「內容」觀之，應更多采。其中以情歌類（親情、愛情、友情）占最大宗。</p>
-    <p>&nbsp;&nbsp;&nbsp; 作詞者/編詞者/口述者/譯詞者，至少有133位，以簡上仁的作品最多。作曲者至少有90位，亦以簡上仁的作品最多，且多為童謠。就演唱方式言，多以獨唱、重唱、合唱（同聲、混聲）等美聲方式呈現。伴奏方式也相當多元，有單一樂器（最常見者為鋼琴）、中或西小型室內樂團、中西小型室內樂團、流行樂團、國樂團、管弦樂團等伴奏，或以Acappella方式呈現。</p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年的觀察，創作歌謠作品中，簡上仁作的詞至少有58首，作的曲至少有94首，加上擔綱、主持、演講、研習等的場次至少有60場，其在福佬系歌謠上的努力，不論是作詞、作曲、推廣等，可說皆不遺餘力，綜觀臺灣音樂界，可說無人可與其相抗衡。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「創作歌謠」屬個人創作的歌謠，相較於傳統民謠，其數量不勝枚舉，且源源不斷。由於數量龐大，因此筆者觀察之初，即已將觀察對象鎖定在必須是具有臺灣精神、意識、特性、風格的作品。2019年的觀察，這些創作歌謠有詞是創作或改編的，有曲是創作或改編的，有詞曲皆創作或改編的，其中以詞曲皆創作者居多，特別是童謠；改編的詞以傳統民謠或唸謠的詞作改編的為多。不論哪一種，無疑的詞都具有強烈的臺灣民族意識、精神與在地特色，曲則具有臺灣的音樂特性，完完全全具有臺灣人的情感與風格。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年的觀察，創作歌謠曲目（含改編、衍創），至少有339首，不論詞曲，除有光復前、後的作品外，近代的作品也不少。歌詞內容光從「曲名」觀之，可說已包羅萬象，若從「內容」觀之，應更多采。其中以情歌類（親情、愛情、友情）占最大宗。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作詞者/編詞者/口述者/譯詞者，至少有133位，以簡上仁的作品最多。作曲者至少有90位，亦以簡上仁的作品最多，且多為童謠。就演唱方式言，多以獨唱、重唱、合唱（同聲、混聲）等美聲方式呈現。伴奏方式也相當多元，有單一樂器（最常見者為鋼琴）、中或西小型室內樂團、中西小型室內樂團、流行樂團、國樂團、管弦樂團等伴奏，或以Acappella方式呈現。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年的觀察，創作歌謠作品中，簡上仁作的詞至少有58首，作的曲至少有94首，加上擔綱、主持、演講、研習等的場次至少有60場，其在福佬系歌謠上的努力，不論是作詞、作曲、推廣等，可說皆不遺餘力，綜觀臺灣音樂界，可說無人可與其相抗衡。</p>
     <h3>
       貳、福佬系說唱音樂－唸歌仔
     </h3>
-    <p>&nbsp;&nbsp;&nbsp; 以下分唸歌仔概述、2019年福佬系說唱音樂「唸歌仔」之觀察兩部分作敘述。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以下分唸歌仔概述、2019年福佬系說唱音樂「唸歌仔」之觀察兩部分作敘述。</p>
     <p>
       <strong>一、唸歌仔概述</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 說唱藝術是把一個故事用講、唱方式表達出來的表演藝術。臺灣以「閩南語發音」的說唱音樂，現存者為有說有唱的「唸歌仔」，以及只說不唱的「答嘴鼓」、「講古」等，而本文只敘述有說有唱的「唸歌仔」。</p>
-    <p>&nbsp;&nbsp;&nbsp; 「歌仔」即一般所謂的「民謠小調」，閩南、臺灣都有此稱呼。「錦歌」是流傳於閩南漳州一帶的民謠小調，原名「歌仔」，後改名「錦歌」，但臺灣仍沿用「歌仔」之名。錦歌亦為閩南說唱曲種之一。「閩南歌仔」流傳到臺灣後，結合臺灣的風土民情與民間歌謠，而發展出具有臺灣特色的「臺灣歌仔」，後再發展成說唱音樂中的「唸歌仔」與戲曲音樂中的「歌仔戲」。</p>
-    <p>&nbsp;&nbsp;&nbsp; 根據張炫文教授所言，所謂「唸」，自然是接近語言聲調的，亦即相當於說唱音樂中的「說」；而所謂「歌仔」，自然是包含較多的「唱」。因此「唸歌仔」也就是「半說半唱」、「說中帶唱，唱中帶說」或「似說似唱」的說唱音樂。（張炫文，1986，1）</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;說唱藝術是把一個故事用講、唱方式表達出來的表演藝術。臺灣以「閩南語發音」的說唱音樂，現存者為有說有唱的「唸歌仔」，以及只說不唱的「答嘴鼓」、「講古」等，而本文只敘述有說有唱的「唸歌仔」。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「歌仔」即一般所謂的「民謠小調」，閩南、臺灣都有此稱呼。「錦歌」是流傳於閩南漳州一帶的民謠小調，原名「歌仔」，後改名「錦歌」，但臺灣仍沿用「歌仔」之名。錦歌亦為閩南說唱曲種之一。「閩南歌仔」流傳到臺灣後，結合臺灣的風土民情與民間歌謠，而發展出具有臺灣特色的「臺灣歌仔」，後再發展成說唱音樂中的「唸歌仔」與戲曲音樂中的「歌仔戲」。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根據張炫文教授所言，所謂「唸」，自然是接近語言聲調的，亦即相當於說唱音樂中的「說」；而所謂「歌仔」，自然是包含較多的「唱」。因此「唸歌仔」也就是「半說半唱」、「說中帶唱，唱中帶說」或「似說似唱」的說唱音樂。（張炫文，1986，1）</p>
     <p>
       <strong>二、</strong>
       <strong>2019</strong>
       <strong>年</strong>
       <strong>福佬系說唱音樂「唸歌仔」之觀察</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 以下「2019年之觀察」再分成活動主題、活動時間、活動地點、活動性質、重要團體與個人、題材、劇目、曲牌、唱詞、伴奏樂器、工商時間、小結等面向作敘述。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以下「2019年之觀察」再分成活動主題、活動時間、活動地點、活動性質、重要團體與個人、題材、劇目、曲牌、唱詞、伴奏樂器、工商時間、小結等面向作敘述。</p>
     <p>
       <strong>（一）活動主題</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 有關2019年唸歌仔之觀察，筆者共掌握到77個活動主題（表14）。表14中，「展」表「展演活動」、「推」表「推廣教育」、「傳」表「傳習活動」、「交」表「國際與兩岸交流」、「跨」表「跨界」、「其」表「其他」。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有關2019年唸歌仔之觀察，筆者共掌握到77個活動主題（表14）。表14中，「展」表「展演活動」、「推」表「推廣教育」、「傳」表「傳習活動」、「交」表「國際與兩岸交流」、「跨」表「跨界」、「其」表「其他」。</p>
     <span>表14：2019年「唸歌仔」的活動主題</span>
     <table width="807" rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
@@ -8779,36 +8774,36 @@
             <p>&nbsp;</p>
           </td>
           <td width="89">
-            <p>日期</p>
+            <p class="tableCenter">日期</p>
           </td>
           <td width="250">
-            <p>活動主題</p>
+            <p class="tableCenter">活動主題</p>
           </td>
           <td width="200">
-            <p>活動地點</p>
+            <p class="tableCenter">活動地點</p>
           </td>
           <td width="37">
-            <p>展</p>
+            <p class="tableCenter">展</p>
           </td>
           <td width="37">
-            <p>推</p>
+            <p class="tableCenter">推</p>
           </td>
           <td width="37">
-            <p>傳</p>
+            <p class="tableCenter">傳</p>
           </td>
           <td width="37">
-            <p>交</p>
+            <p class="tableCenter">交</p>
           </td>
           <td width="37">
-            <p>跨</p>
+            <p class="tableCenter">跨</p>
           </td>
           <td width="37">
-            <p>其</p>
+            <p class="tableCenter">其</p>
           </td>
         </tr>
         <tr>
           <td width="45">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
           <td width="89">
             <p>01/02</p>
@@ -8820,10 +8815,10 @@
             <p>臺中市道禾實驗小學</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -8840,7 +8835,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>2</p>
+            <p class="tableCenter">2</p>
           </td>
           <td width="89">
             <p>01/28</p>
@@ -8852,10 +8847,10 @@
             <p>臺中市軍功寮福順宮</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -8872,7 +8867,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>3</p>
+            <p class="tableCenter">3</p>
           </td>
           <td width="89">
             <p>03/02</p>
@@ -8884,7 +8879,7 @@
             <p>嘉義縣表演藝術中心</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -8904,7 +8899,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>4</p>
+            <p class="tableCenter">4</p>
           </td>
           <td width="89">
             <p>03/03</p>
@@ -8912,7 +8907,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>5</p>
+            <p class="tableCenter">5</p>
           </td>
           <td width="89">
             <p>03/12</p>
@@ -8924,10 +8919,10 @@
             <p>臺北市東吳大學－城中校區</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -8944,7 +8939,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>6</p>
+            <p class="tableCenter">6</p>
           </td>
           <td width="89">
             <p>03/20</p>
@@ -8956,10 +8951,10 @@
             <p>彰化縣線西鄉寓埔村永安宮</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -8976,7 +8971,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>7</p>
+            <p class="tableCenter">7</p>
           </td>
           <td width="89">
             <p>03/28</p>
@@ -8988,7 +8983,7 @@
             <p>臺北市東吳大學－雙溪校區（松怡廳）</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9008,7 +9003,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>8</p>
+            <p class="tableCenter">8</p>
           </td>
           <td width="89">
             <p>04/01</p>
@@ -9020,7 +9015,7 @@
             <p>三立電視臺</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9032,7 +9027,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9040,7 +9035,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>9</p>
+            <p class="tableCenter">9</p>
           </td>
           <td width="89">
             <p>04/02</p>
@@ -9052,13 +9047,13 @@
             <p>宜蘭傳藝園區廟埕廣場（文昌祠）</p>
           </td>
           <td rowspan="5" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="5" width="37">
             <p>&nbsp;</p>
           </td>
           <td rowspan="5" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="5" width="37">
             <p>&nbsp;</p>
@@ -9072,7 +9067,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>10</p>
+            <p class="tableCenter">10</p>
           </td>
           <td width="89">
             <p>04/09</p>
@@ -9080,7 +9075,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>11</p>
+            <p class="tableCenter">11</p>
           </td>
           <td width="89">
             <p>04/16</p>
@@ -9088,7 +9083,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>12</p>
+            <p class="tableCenter">12</p>
           </td>
           <td width="89">
             <p>04/23</p>
@@ -9096,7 +9091,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>13</p>
+            <p class="tableCenter">13</p>
           </td>
           <td width="89">
             <p>04/30</p>
@@ -9104,7 +9099,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>14</p>
+            <p class="tableCenter">14</p>
           </td>
           <td width="89">
             <p>04/06</p>
@@ -9116,7 +9111,7 @@
             <p>臺北市凱達格蘭大道；電視、網路、電臺直播。</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9128,7 +9123,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9136,7 +9131,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>15</p>
+            <p class="tableCenter">15</p>
           </td>
           <td width="89">
             <p>04/24</p>
@@ -9148,7 +9143,7 @@
             <p>臺北市華山1914文化創意產業園區－四連棟</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9168,7 +9163,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>16</p>
+            <p class="tableCenter">16</p>
           </td>
           <td width="89">
             <p>04/27</p>
@@ -9180,7 +9175,7 @@
             <p>臺中萬春宮</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9200,7 +9195,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>17</p>
+            <p class="tableCenter">17</p>
           </td>
           <td width="89">
             <p>04/29</p>
@@ -9227,12 +9222,12 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
         </tr>
         <tr>
           <td width="45">
-            <p>18</p>
+            <p class="tableCenter">18</p>
           </td>
           <td width="89">
             <p>05/07</p>
@@ -9244,13 +9239,13 @@
             <p>宜蘭國立傳統藝術中心曲藝館</p>
           </td>
           <td rowspan="18" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="18" width="37">
             <p>&nbsp;</p>
           </td>
           <td rowspan="18" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="18" width="37">
             <p>&nbsp;</p>
@@ -9264,7 +9259,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>19</p>
+            <p class="tableCenter">19</p>
           </td>
           <td width="89">
             <p>05/08</p>
@@ -9272,7 +9267,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>20</p>
+            <p class="tableCenter">20</p>
           </td>
           <td width="89">
             <p>05/14</p>
@@ -9280,7 +9275,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>21</p>
+            <p class="tableCenter">21</p>
           </td>
           <td width="89">
             <p>05/28</p>
@@ -9288,7 +9283,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>22</p>
+            <p class="tableCenter">22</p>
           </td>
           <td width="89">
             <p>07/02</p>
@@ -9296,7 +9291,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>23</p>
+            <p class="tableCenter">23</p>
           </td>
           <td width="89">
             <p>07/09</p>
@@ -9304,7 +9299,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>24</p>
+            <p class="tableCenter">24</p>
           </td>
           <td width="89">
             <p>07/16</p>
@@ -9312,7 +9307,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>25</p>
+            <p class="tableCenter">25</p>
           </td>
           <td width="89">
             <p>07/23</p>
@@ -9320,7 +9315,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>26</p>
+            <p class="tableCenter">26</p>
           </td>
           <td width="89">
             <p>07/30</p>
@@ -9328,7 +9323,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>27</p>
+            <p class="tableCenter">27</p>
           </td>
           <td width="89">
             <p>07/31</p>
@@ -9336,7 +9331,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>28</p>
+            <p class="tableCenter">28</p>
           </td>
           <td width="89">
             <p>08/06</p>
@@ -9344,7 +9339,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>29</p>
+            <p class="tableCenter">29</p>
           </td>
           <td width="89">
             <p>08/13</p>
@@ -9352,7 +9347,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>30</p>
+            <p class="tableCenter">30</p>
           </td>
           <td width="89">
             <p>08/20</p>
@@ -9360,7 +9355,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>31</p>
+            <p class="tableCenter">31</p>
           </td>
           <td width="89">
             <p>08/27</p>
@@ -9368,7 +9363,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>32</p>
+            <p class="tableCenter">32</p>
           </td>
           <td width="89">
             <p>09/03</p>
@@ -9376,7 +9371,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>33</p>
+            <p class="tableCenter">33</p>
           </td>
           <td width="89">
             <p>09/10</p>
@@ -9384,7 +9379,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>34</p>
+            <p class="tableCenter">34</p>
           </td>
           <td width="89">
             <p>09/17</p>
@@ -9392,7 +9387,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>35</p>
+            <p class="tableCenter">35</p>
           </td>
           <td width="89">
             <p>09/24</p>
@@ -9400,7 +9395,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>36</p>
+            <p class="tableCenter">36</p>
           </td>
           <td width="89">
             <p>05/11</p>
@@ -9412,7 +9407,7 @@
             <p>宜蘭市百果樹紅磚屋</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9432,7 +9427,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>37</p>
+            <p class="tableCenter">37</p>
           </td>
           <td width="89">
             <p>05/26</p>
@@ -9444,7 +9439,7 @@
             <p>屏東藝術館</p>
           </td>
           <td rowspan="3" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="3" width="37">
             <p>&nbsp;</p>
@@ -9464,7 +9459,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>38</p>
+            <p class="tableCenter">38</p>
           </td>
           <td width="89">
             <p>06/23</p>
@@ -9475,7 +9470,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>39</p>
+            <p class="tableCenter">39</p>
           </td>
           <td width="89">
             <p>07/21</p>
@@ -9486,7 +9481,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>40</p>
+            <p class="tableCenter">40</p>
           </td>
           <td width="89">
             <p>05/30</p>
@@ -9498,7 +9493,7 @@
             <p>臺中文學館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9518,7 +9513,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>41</p>
+            <p class="tableCenter">41</p>
           </td>
           <td width="89">
             <p>06/01</p>
@@ -9530,10 +9525,10 @@
             <p>新竹市清華大學旺宏圖書館1樓清沙龍</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9550,7 +9545,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>42</p>
+            <p class="tableCenter">42</p>
           </td>
           <td width="89">
             <p>06/10</p>
@@ -9562,10 +9557,10 @@
             <p>苗栗市國立聯合大學</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9582,7 +9577,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>43</p>
+            <p class="tableCenter">43</p>
           </td>
           <td width="89">
             <p>06/17</p>
@@ -9603,7 +9598,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9614,7 +9609,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>44</p>
+            <p class="tableCenter">44</p>
           </td>
           <td width="89">
             <p>06/27</p>
@@ -9626,10 +9621,10 @@
             <p>臺中市鄉林建設事業股份有限公司</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9646,7 +9641,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>45</p>
+            <p class="tableCenter">45</p>
           </td>
           <td width="89">
             <p>07/05</p>
@@ -9658,13 +9653,13 @@
             <p>臺北市國立臺灣戲曲中心小表演廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9678,7 +9673,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>46</p>
+            <p class="tableCenter">46</p>
           </td>
           <td width="89">
             <p>07/06</p>
@@ -9690,7 +9685,7 @@
             <p>基隆港海洋廣場</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9710,7 +9705,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>47</p>
+            <p class="tableCenter">47</p>
           </td>
           <td width="89">
             <p>07/07</p>
@@ -9722,10 +9717,10 @@
             <p>彰化市白色方塊咖啡工作室</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9742,7 +9737,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>48</p>
+            <p class="tableCenter">48</p>
           </td>
           <td width="89">
             <p>07/13</p>
@@ -9754,7 +9749,7 @@
             <p>嘉義縣國立故宮博物院南院處博物館1樓大廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9774,7 +9769,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>49</p>
+            <p class="tableCenter">49</p>
           </td>
           <td width="89">
             <p>07/14</p>
@@ -9786,7 +9781,7 @@
             <p>臺北市空總臺灣當代文化實驗場 C-LAB</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9798,7 +9793,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9806,7 +9801,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>50</p>
+            <p class="tableCenter">50</p>
           </td>
           <td width="89">
             <p>07/27</p>
@@ -9818,7 +9813,7 @@
             <p>日本．東京．代代木公園</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -9827,7 +9822,7 @@
             <p>&nbsp;</p>
           </td>
           <td rowspan="2" width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td rowspan="2" width="37">
             <p>&nbsp;</p>
@@ -9838,7 +9833,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>51</p>
+            <p class="tableCenter">51</p>
           </td>
           <td width="89">
             <p>07/28</p>
@@ -9846,7 +9841,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>52</p>
+            <p class="tableCenter">52</p>
           </td>
           <td width="89">
             <p>08/25</p>
@@ -9858,7 +9853,7 @@
             <p>臺南市吳園藝文中心</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9873,12 +9868,12 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
         </tr>
         <tr>
           <td width="45">
-            <p>53</p>
+            <p class="tableCenter">53</p>
           </td>
           <td width="89">
             <p>08/29</p>
@@ -9890,7 +9885,7 @@
             <p>宜蘭縣頭城鎮頭城搶孤民俗教育園區</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9910,7 +9905,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>54</p>
+            <p class="tableCenter">54</p>
           </td>
           <td width="89">
             <p>09/01</p>
@@ -9920,11 +9915,11 @@
           </td>
           <td width="200">
             <p>
-              <strong>臺中市</strong>好運來洲際宴展中心
+              臺中市好運來洲際宴展中心
             </p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9944,7 +9939,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>55</p>
+            <p class="tableCenter">55</p>
           </td>
           <td width="89">
             <p>09/14</p>
@@ -9956,7 +9951,7 @@
             <p>臺中市文化部文化資產園區</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -9976,7 +9971,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>56</p>
+            <p class="tableCenter">56</p>
           </td>
           <td width="89">
             <p>09/21</p>
@@ -9988,10 +9983,10 @@
             <p>臺北市北投溫泉博物館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10008,7 +10003,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>57</p>
+            <p class="tableCenter">57</p>
           </td>
           <td width="89">
             <p>09/22</p>
@@ -10020,7 +10015,7 @@
             <p>臺南市鷲嶺食肆</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10040,7 +10035,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>58</p>
+            <p class="tableCenter">58</p>
           </td>
           <td width="89">
             <p>09/22</p>
@@ -10052,13 +10047,13 @@
             <p>新北市板橋林家花園</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10072,7 +10067,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>59</p>
+            <p class="tableCenter">59</p>
           </td>
           <td width="89">
             <p>09/28</p>
@@ -10084,7 +10079,7 @@
             <p>臺北市北平東路（封街&nbsp; 近光點華山）</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10096,7 +10091,7 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10104,7 +10099,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>60</p>
+            <p class="tableCenter">60</p>
           </td>
           <td width="89">
             <p>09/28</p>
@@ -10117,10 +10112,10 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10137,7 +10132,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>61</p>
+            <p class="tableCenter">61</p>
           </td>
           <td width="89">
             <p>09/29</p>
@@ -10150,16 +10145,16 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10170,7 +10165,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>62</p>
+            <p class="tableCenter">62</p>
           </td>
           <td width="89">
             <p>10/06</p>
@@ -10182,7 +10177,7 @@
             <p>新北市金山區法鼓山世界佛教教育園區</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10202,7 +10197,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>63</p>
+            <p class="tableCenter">63</p>
           </td>
           <td width="89">
             <p>10/12</p>
@@ -10214,7 +10209,7 @@
             <p>嘉義市政府文化局音樂廳大廳</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10234,7 +10229,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>64</p>
+            <p class="tableCenter">64</p>
           </td>
           <td width="89">
             <p>10/20</p>
@@ -10246,10 +10241,10 @@
             <p>臺北市藝文推廣處（原社教館）</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10266,7 +10261,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>65</p>
+            <p class="tableCenter">65</p>
           </td>
           <td width="89">
             <p>10/22</p>
@@ -10278,10 +10273,10 @@
             <p>雲林科技大學</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10298,7 +10293,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>66</p>
+            <p class="tableCenter">66</p>
           </td>
           <td width="89">
             <p>10/26</p>
@@ -10310,7 +10305,7 @@
             <p>臺北市凱達格蘭大道</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10330,7 +10325,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>67</p>
+            <p class="tableCenter">67</p>
           </td>
           <td width="89">
             <p>11/03</p>
@@ -10342,7 +10337,7 @@
             <p>臺中市大雅區大和園會館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10362,7 +10357,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>68</p>
+            <p class="tableCenter">68</p>
           </td>
           <td width="89">
             <p>11/12</p>
@@ -10374,7 +10369,7 @@
             <p>臺中科技大學</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10394,7 +10389,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>69</p>
+            <p class="tableCenter">69</p>
           </td>
           <td width="89">
             <p>11/14</p>
@@ -10406,10 +10401,10 @@
             <p>臺南應用科技大學</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10426,7 +10421,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>70</p>
+            <p class="tableCenter">70</p>
           </td>
           <td width="89">
             <p>11/20</p>
@@ -10438,7 +10433,7 @@
             <p>臺中市省都扶輪社</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10458,7 +10453,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>71</p>
+            <p class="tableCenter">71</p>
           </td>
           <td width="89">
             <p>11/27</p>
@@ -10470,10 +10465,10 @@
             <p>臺北市文山區萬福國小</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10490,7 +10485,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>72</p>
+            <p class="tableCenter">72</p>
           </td>
           <td width="89">
             <p>12/01</p>
@@ -10502,13 +10497,13 @@
             <p>臺中市文化部文化資產園區衡道堂</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10522,7 +10517,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>73</p>
+            <p class="tableCenter">73</p>
           </td>
           <td width="89">
             <p>12/12</p>
@@ -10534,10 +10529,10 @@
             <p>新竹市國立清華大學總圖書館清沙龍</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10554,7 +10549,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>74</p>
+            <p class="tableCenter">74</p>
           </td>
           <td rowspan="2" width="89">
             <p>12/14</p>
@@ -10566,7 +10561,7 @@
             <p>臺中文學館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10586,7 +10581,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>75</p>
+            <p class="tableCenter">75</p>
           </td>
           <td width="250">
             <p>臺語藝文鬧猜猜歡迎逐家做伙來</p>
@@ -10595,7 +10590,7 @@
             <p>彰化市臺語文創意園區</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10615,7 +10610,7 @@
         </tr>
         <tr>
           <td width="45">
-            <p>76</p>
+            <p class="tableCenter">76</p>
           </td>
           <td width="89">
             <p>12/22</p>
@@ -10642,12 +10637,12 @@
             <p>&nbsp;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
         </tr>
         <tr>
           <td width="45">
-            <p>77</p>
+            <p class="tableCenter">77</p>
           </td>
           <td width="89">
             <p>12/30</p>
@@ -10659,10 +10654,10 @@
             <p>臺北市北投溫泉博物館</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
-            <p>&or;</p>
+            <p class="tableCenter">&or;</p>
           </td>
           <td width="37">
             <p>&nbsp;</p>
@@ -10679,236 +10674,238 @@
         </tr>
       </tbody>
     </table>
+    <p></p>
     <p>
       <strong>（二）活動時間</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年唸歌仔之觀察，筆者共觀察了77個活動主題（表14），其中同活動主題、不同時間、不同地點的活動，分場次計，如序號37-39。同活動主題、同地點、不同時間的活動，亦分場次計，如序號3、4；9-13；18-35；50、51；74、75。另序號36、58、60、61、64之演出內容，同時包含「唸歌仔」與「福佬歌謠」，故與福佬系歌謠並列敘述。由表14中知，活動時間以7月份的14次最多，次為9月份的12次。（表15）</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年唸歌仔之觀察，筆者共觀察了77個活動主題（表14），其中同活動主題、不同時間、不同地點的活動，分場次計，如序號37-39。同活動主題、同地點、不同時間的活動，亦分場次計，如序號3、4；9-13；18-35；50、51；74、75。另序號36、58、60、61、64之演出內容，同時包含「唸歌仔」與「福佬歌謠」，故與福佬系歌謠並列敘述。由表14中知，活動時間以7月份的14次最多，次為9月份的12次。（表15）</p>
     <span>表15：2019年唸歌仔的活動時間與場次</span>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
           <td width="67">
-            <p>月份</p>
+            <p class="tableCenter">月份</p>
           </td>
           <td width="54">
-            <p>一</p>
+            <p class="tableCenter">一</p>
           </td>
           <td width="54">
-            <p>二</p>
+            <p class="tableCenter">二</p>
           </td>
           <td width="54">
-            <p>三</p>
+            <p class="tableCenter">三</p>
           </td>
           <td width="54">
-            <p>四</p>
+            <p class="tableCenter">四</p>
           </td>
           <td width="54">
-            <p>五</p>
+            <p class="tableCenter">五</p>
           </td>
           <td width="54">
-            <p>六</p>
+            <p class="tableCenter">六</p>
           </td>
           <td width="54">
-            <p>七</p>
+            <p class="tableCenter">七</p>
           </td>
           <td width="54">
-            <p>八</p>
+            <p class="tableCenter">八</p>
           </td>
           <td width="54">
-            <p>九</p>
+            <p class="tableCenter">九</p>
           </td>
           <td width="54">
-            <p>十</p>
+            <p class="tableCenter">十</p>
           </td>
           <td width="54">
-            <p>十一</p>
+            <p class="tableCenter">十一</p>
           </td>
           <td width="54">
-            <p>十二</p>
+            <p class="tableCenter">十二</p>
           </td>
         </tr>
         <tr>
           <td width="67">
-            <p>場次</p>
+            <p class="tableCenter">場次</p>
           </td>
           <td width="54">
-            <p>2</p>
+            <p class="tableCenter">2</p>
           </td>
           <td width="54">
-            <p>0</p>
+            <p class="tableCenter">0</p>
           </td>
           <td width="54">
-            <p>5</p>
+            <p class="tableCenter">5</p>
           </td>
           <td width="54">
-            <p>10</p>
+            <p class="tableCenter">10</p>
           </td>
           <td width="54">
-            <p>7</p>
+            <p class="tableCenter">7</p>
           </td>
           <td width="54">
-            <p>5</p>
+            <p class="tableCenter">5</p>
           </td>
           <td width="54">
-            <p>14</p>
+            <p class="tableCenter">14</p>
           </td>
           <td width="54">
-            <p>6</p>
+            <p class="tableCenter">6</p>
           </td>
           <td width="54">
-            <p>12</p>
+            <p class="tableCenter">12</p>
           </td>
           <td width="54">
-            <p>5</p>
+            <p class="tableCenter">5</p>
           </td>
           <td width="54">
-            <p>5</p>
+            <p class="tableCenter">5</p>
           </td>
           <td width="54">
-            <p>6</p>
+            <p class="tableCenter">6</p>
           </td>
         </tr>
         <tr>
           <td width="67">
-            <p>合計</p>
+            <p class="tableCenter">合計</p>
           </td>
           <td colspan="12" width="645">
-            <p>77</p>
+            <p class="tableCenter">77</p>
           </td>
         </tr>
       </tbody>
     </table>
+    <p></p>
     <p>
       <strong>（三）活動地點</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 由表14中知，2019年唸歌仔的活動地點與場次如表16。由表16中知，演出地點之多寡依序為以宜蘭、臺北、臺中最多。宜蘭之所以最多，主要是宜蘭國立傳統藝術中心在園區舉辦了多場的「108年重要傳統表演藝術保存者（團體）接班人傳習演出計畫－楊秀卿說唱藝術團」。臺北次多，應與楊秀卿說唱藝術團位居北部有關；而臺中市與微笑唸歌團位居臺中的地緣有關，因微笑唸歌團的活動地點以臺中為大本營。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由表14中知，2019年唸歌仔的活動地點與場次如表16。由表16中知，演出地點之多寡依序為以宜蘭、臺北、臺中最多。宜蘭之所以最多，主要是宜蘭國立傳統藝術中心在園區舉辦了多場的「108年重要傳統表演藝術保存者（團體）接班人傳習演出計畫－楊秀卿說唱藝術團」。臺北次多，應與楊秀卿說唱藝術團位居北部有關；而臺中市與微笑唸歌團位居臺中的地緣有關，因微笑唸歌團的活動地點以臺中為大本營。</p>
     <span>表16：2019年唸歌仔的活動地點與場次</span>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
           <td>
-            <p>地區</p>
+            <p class="tableCenter">地區</p>
           </td>
           <td>
-            <p>宜蘭</p>
+            <p class="tableCenter">宜蘭</p>
           </td>
           <td>
-            <p>基隆</p>
+            <p class="tableCenter">基隆</p>
           </td>
           <td>
-            <p>新北</p>
+            <p class="tableCenter">新北</p>
           </td>
           <td>
-            <p>臺北</p>
+            <p class="tableCenter">臺北</p>
           </td>
           <td>
-            <p>新竹</p>
+            <p class="tableCenter">新竹</p>
           </td>
           <td>
-            <p>苗栗</p>
+            <p class="tableCenter">苗栗</p>
           </td>
           <td>
-            <p>臺中</p>
+            <p class="tableCenter">臺中</p>
           </td>
           <td>
-            <p>彰化</p>
+            <p class="tableCenter">彰化</p>
           </td>
           <td>
-            <p>雲林</p>
+            <p class="tableCenter">雲林</p>
           </td>
           <td>
-            <p>嘉義</p>
+            <p class="tableCenter">嘉義</p>
           </td>
           <td>
-            <p>臺南</p>
+            <p class="tableCenter">臺南</p>
           </td>
           <td>
-            <p>屏東</p>
+            <p class="tableCenter">屏東</p>
           </td>
           <td>
-            <p>中國</p>
+            <p class="tableCenter">中國</p>
           </td>
           <td>
-            <p>日本</p>
+            <p class="tableCenter">日本</p>
           </td>
           <td>
-            <p>三立</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>場次</p>
-          </td>
-          <td>
-            <p>25</p>
-          </td>
-          <td>
-            <p>1</p>
-          </td>
-          <td>
-            <p>3</p>
-          </td>
-          <td>
-            <p>15</p>
-          </td>
-          <td>
-            <p>2</p>
-          </td>
-          <td>
-            <p>1</p>
-          </td>
-          <td>
-            <p>13</p>
-          </td>
-          <td>
-            <p>4</p>
-          </td>
-          <td>
-            <p>1</p>
-          </td>
-          <td>
-            <p>4</p>
-          </td>
-          <td>
-            <p>3</p>
-          </td>
-          <td>
-            <p>1</p>
-          </td>
-          <td>
-            <p>1</p>
-          </td>
-          <td>
-            <p>2</p>
-          </td>
-          <td>
-            <p>1</p>
+            <p class="tableCenter">三立</p>
           </td>
         </tr>
         <tr>
           <td>
-            <p>合計</p>
+            <p class="tableCenter">場次</p>
+          </td>
+          <td>
+            <p class="tableCenter">25</p>
+          </td>
+          <td>
+            <p class="tableCenter">1</p>
+          </td>
+          <td>
+            <p class="tableCenter">3</p>
+          </td>
+          <td>
+            <p class="tableCenter">15</p>
+          </td>
+          <td>
+            <p class="tableCenter">2</p>
+          </td>
+          <td>
+            <p class="tableCenter">1</p>
+          </td>
+          <td>
+            <p class="tableCenter">13</p>
+          </td>
+          <td>
+            <p class="tableCenter">4</p>
+          </td>
+          <td>
+            <p class="tableCenter">1</p>
+          </td>
+          <td>
+            <p class="tableCenter">4</p>
+          </td>
+          <td>
+            <p class="tableCenter">3</p>
+          </td>
+          <td>
+            <p class="tableCenter">1</p>
+          </td>
+          <td>
+            <p class="tableCenter">1</p>
+          </td>
+          <td>
+            <p class="tableCenter">2</p>
+          </td>
+          <td>
+            <p class="tableCenter">1</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p class="tableCenter">合計</p>
           </td>
           <td colspan="15">
-            <p>77</p>
+            <p class="tableCenter">77</p>
           </td>
         </tr>
       </tbody>
     </table>
-    <p>&nbsp;</p>
+    <p></p>
     <p>
       <strong>（四）活動性質</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 由表14中知，2019年唸歌仔的活動性質與場次，如表17。其中以「展演活動＋傳習活動」最多，次為「展演活動」。「展演活動＋傳習活動」最多，與國立傳統藝術中心在宜蘭園區舉辦「108年重要傳統表演藝術保存者（團體）接班人傳習演出計畫－楊秀卿說唱藝術團」的活動有關。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由表14中知，2019年唸歌仔的活動性質與場次，如表17。其中以「展演活動＋傳習活動」最多，次為「展演活動」。「展演活動＋傳習活動」最多，與國立傳統藝術中心在宜蘭園區舉辦「108年重要傳統表演藝術保存者（團體）接班人傳習演出計畫－楊秀卿說唱藝術團」的活動有關。</p>
     <span>表17：2019年唸歌仔的活動性質與場次</span>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
           <td width="466">
-            <p>性質</p>
+            <p class="tableCenter">性質</p>
           </td>
           <td width="70">
-            <p>場次</p>
+            <p class="tableCenter">場次</p>
           </td>
         </tr>
         <tr>
@@ -10916,7 +10913,7 @@
             <p>展演活動</p>
           </td>
           <td width="70">
-            <p>23</p>
+            <p class="tableCenter">23</p>
           </td>
         </tr>
         <tr>
@@ -10924,7 +10921,7 @@
             <p>展演活動＋推廣教育</p>
           </td>
           <td width="70">
-            <p>11</p>
+            <p class="tableCenter">11</p>
           </td>
         </tr>
         <tr>
@@ -10932,7 +10929,7 @@
             <p>展演活動＋傳習活動</p>
           </td>
           <td width="70">
-            <p>31</p>
+            <p class="tableCenter">31</p>
           </td>
         </tr>
         <tr>
@@ -10940,7 +10937,7 @@
             <p>展演活動＋跨領域</p>
           </td>
           <td width="70">
-            <p>4</p>
+            <p class="tableCenter">4</p>
           </td>
         </tr>
         <tr>
@@ -10948,7 +10945,7 @@
             <p>展演活動＋國際與兩岸交流</p>
           </td>
           <td width="70">
-            <p>2</p>
+            <p class="tableCenter">2</p>
           </td>
         </tr>
         <tr>
@@ -10956,7 +10953,7 @@
             <p>展演活動＋推廣教育＋傳習活動</p>
           </td>
           <td width="70">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
         </tr>
         <tr>
@@ -10964,7 +10961,7 @@
             <p>展演活動＋其他</p>
           </td>
           <td width="70">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
         </tr>
         <tr>
@@ -10972,7 +10969,7 @@
             <p>國際與兩岸交流</p>
           </td>
           <td width="70">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
         </tr>
         <tr>
@@ -10980,7 +10977,7 @@
             <p>展演活動＋推廣教育＋國際與兩岸交流</p>
           </td>
           <td width="70">
-            <p>1</p>
+            <p class="tableCenter">1</p>
           </td>
         </tr>
         <tr>
@@ -10988,7 +10985,7 @@
             <p>其他</p>
           </td>
           <td width="70">
-            <p>2</p>
+            <p class="tableCenter">2</p>
           </td>
         </tr>
         <tr>
@@ -10996,35 +10993,36 @@
             <p>合計</p>
           </td>
           <td width="70">
-            <p>77</p>
+            <p class="tableCenter">77</p>
           </td>
         </tr>
       </tbody>
     </table>
+    <p></p>
     <p>
       <strong>（五）重要團體與個人</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 目前唸歌仔藝術實已相當式微，2019年的觀察，尚存團體只有楊秀卿說唱藝術團、微笑唸歌團、台灣唸歌團、臺灣月琴民謠協會等有較常態、實質的演出活動，其中以微笑唸歌團最為活躍，次為楊秀卿說唱藝術團。</p>
-    <p>&nbsp;&nbsp;&nbsp; 楊秀卿說唱藝術團團員主要由楊秀卿及其藝生鄭美、丁秀津、儲見智、林恬安、周玉湘、鄭欣蘭組成，有時因腳色需要會加上陳美珠等人。陳美珠是相當傑出的藝人，可惜2019/10/26已病逝。微笑唸歌團基本團員為儲見智與林恬安夫婦，該團有時也會因腳色或節目之多元等之需求，邀請楊秀卿及其藝生、陳明章與臺灣月琴民謠協會、旭陽民俗車鼓劇團等支援。亦即楊秀卿說唱藝術團、微笑唸歌團只要有活動是彼此支援的。台灣唸歌團主要由「洪瑞珍唸歌團」已逝團長洪瑞珍的學生和各路同好組成。</p>
-    <p>&nbsp;&nbsp;&nbsp; 個人方面，事實上微笑唸歌團的儲見智、林恬安，和鄭美、丁秀津都是國寶級藝師楊秀卿近年來所培養出來的結業、習藝中藝生，且都已能獨當一面。而陳美珠、陳寶貴、陳明章等人的演出，也都各具特色。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前唸歌仔藝術實已相當式微，2019年的觀察，尚存團體只有楊秀卿說唱藝術團、微笑唸歌團、台灣唸歌團、臺灣月琴民謠協會等有較常態、實質的演出活動，其中以微笑唸歌團最為活躍，次為楊秀卿說唱藝術團。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;楊秀卿說唱藝術團團員主要由楊秀卿及其藝生鄭美、丁秀津、儲見智、林恬安、周玉湘、鄭欣蘭組成，有時因腳色需要會加上陳美珠等人。陳美珠是相當傑出的藝人，可惜2019/10/26已病逝。微笑唸歌團基本團員為儲見智與林恬安夫婦，該團有時也會因腳色或節目之多元等之需求，邀請楊秀卿及其藝生、陳明章與臺灣月琴民謠協會、旭陽民俗車鼓劇團等支援。亦即楊秀卿說唱藝術團、微笑唸歌團只要有活動是彼此支援的。台灣唸歌團主要由「洪瑞珍唸歌團」已逝團長洪瑞珍的學生和各路同好組成。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;個人方面，事實上微笑唸歌團的儲見智、林恬安，和鄭美、丁秀津都是國寶級藝師楊秀卿近年來所培養出來的結業、習藝中藝生，且都已能獨當一面。而陳美珠、陳寶貴、陳明章等人的演出，也都各具特色。</p>
     <p>
       <strong>（六）題材</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 唸歌仔的題材包羅萬象，主要包括歷史故事、民間傳說、勸世教化、事物、敘情、趣味等類。改編自臺灣歷史故事或民間傳說類者，如《運河奇案》等；改編自中國歷史故事或民間傳說類者，如《包公案》等，此類題材最為豐富。勸世教化類者如《三世因果》等。事物類者如《婚嫁歌》等。敘情類者如《探親結緣歌》等。趣味類者如《草地查某》等。以上以歷史故事、民間傳說、社會寫實為題材者，大多屬中、長篇；而以勸世教化、情愛、滑稽笑料等為題材者，多屬中、短篇。</p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年的觀察，唸歌仔演出題材主要包括歷史故事、民間傳說、勸世教化、事物、敘情、趣味等類。臺灣歷史故事或民間傳說類者，如《廖添丁傳奇》等；中國歷史故事或民間傳說類者，如「山伯英台」系列、《雪梅教子》等。勸世教化類者如《勸友孝》、《勸世歌》等。事物類者如《唸唱文學臺中》等。敘情類者如《翁某相褒》等。趣味類者如《胡蠅蚊子大戰歌》、《十二生肖貓鼠冤》等。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唸歌仔的題材包羅萬象，主要包括歷史故事、民間傳說、勸世教化、事物、敘情、趣味等類。改編自臺灣歷史故事或民間傳說類者，如《運河奇案》等；改編自中國歷史故事或民間傳說類者，如《包公案》等，此類題材最為豐富。勸世教化類者如《三世因果》等。事物類者如《婚嫁歌》等。敘情類者如《探親結緣歌》等。趣味類者如《草地查某》等。以上以歷史故事、民間傳說、社會寫實為題材者，大多屬中、長篇；而以勸世教化、情愛、滑稽笑料等為題材者，多屬中、短篇。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年的觀察，唸歌仔演出題材主要包括歷史故事、民間傳說、勸世教化、事物、敘情、趣味等類。臺灣歷史故事或民間傳說類者，如《廖添丁傳奇》等；中國歷史故事或民間傳說類者，如「山伯英台」系列、《雪梅教子》等。勸世教化類者如《勸友孝》、《勸世歌》等。事物類者如《唸唱文學臺中》等。敘情類者如《翁某相褒》等。趣味類者如《胡蠅蚊子大戰歌》、《十二生肖貓鼠冤》等。</p>
     <p>
       <strong>（七）劇目</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 根據筆者的觀察，2019年唸歌仔的演出劇目，可分成傳統劇目、改編傳統劇目、新創劇目三類。（表18）</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根據筆者的觀察，2019年唸歌仔的演出劇目，可分成傳統劇目、改編傳統劇目、新創劇目三類。（表18）</p>
     <span>表18：2019年的演出劇目</span>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
           <td width="142">
-            <p>類別（數量）</p>
+            <p class="tableCenter">類別（數量）</p>
           </td>
           <td width="555">
-            <p>劇名</p>
+            <p class="tableCenter">劇名</p>
           </td>
         </tr>
         <tr>
@@ -11053,82 +11051,82 @@
         </tr>
       </tbody>
     </table>
-    <p>&nbsp;&nbsp;&nbsp; 表18改編傳統劇目中，《女誡扇綺譚》、《虎姑婆》為楊秀卿、微笑唸歌團共同改編。《女誡扇綺譚》改編自佐藤春夫小說，以臺南安平港為發想地，敘述一個大家族的沒落。劇情架構看似靈異故事，但抽絲剝繭後，才發現其內含推理成分。《虎姑婆》則是改編自家喻戶曉的民間故事。</p>
-    <p>&nbsp;&nbsp;&nbsp; 《惠蓮的扇子》為微笑唸歌團改編自西川滿小說。以二二八事件為主題，從日本人的角度，書寫戰後初期的臺灣。</p>
-    <p>&nbsp;&nbsp;&nbsp; 「歌仔頭」是種開場曲，走江湖的唸歌仔仙會在正式劇目開始演出前，以鑼鼓及高亢的曲調，吸引周遭觀眾前來；或唱或唸吉祥話，祝福國泰民安、觀眾身體健康、一切順利。「歌仔尾」是唸歌仔藝人在演出結束時，演唱感謝觀眾朋友的四句聯，內容大多為感謝觀眾朋友的捧場與支持鼓勵，祝福大家身體健康、萬事如意、財源廣進之類的賀詞，頗具人情味及趣味性。因此演出者在演出「歌仔頭」與「歌仔尾」時，除會保留傳統的演出內容外，也會斟酌活動主題，加入一些符合活動主題的創作內容，因此「歌仔頭」與「歌仔尾」的演出內容可說是「傳統＋隨機創作」。</p>
-    <p>&nbsp;&nbsp;&nbsp; 表18新創劇目中，《總統府建築百年慶》、《民進黨33週年慶祝歌》為楊秀卿、儲見智共同創詞；《唸唱文學臺中》、《唸歌唱曲慶開臺》等，為微笑唸歌團創詞。都是為邀請者為了某個活動主題而特別設計、創作的。</p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年的觀察，唸歌仔的演出劇目除「歌仔頭」、「歌仔尾」外，至少有29齣，其中以《翁某相褒》最多，19次；次為《十二生肖貓鼠冤》，18次。後依序為《山伯英台》〈母囝答〉11次；《周成過臺灣》10次；《雪梅教子》9次；《青竹絲奇案》6次；《山伯英台》〈遊花園〉、《胡繩蚊仔大戰歌》、《勸世歌》各4次；《山伯英台》〈山伯討藥方〉、《廖添丁傳奇》各3次；《哪吒鬧東海》、《勸友孝》各2次等。《翁某相褒》、《十二生肖貓鼠冤》、《山伯英台》〈母囝答〉之所以演出次數最多，可能與這些曲目都是詼諧逗趣，深受觀眾喜愛有關。而「山伯英台」系列則有較多不同的選段。</p>
-    <p>&nbsp;&nbsp;&nbsp; 通常長篇劇目的演出，會視演出時間的多寡，而選擇其中一小段演出。短篇或長時間的演出則有完整的呈現，前者如《十二生肖貓鼠冤》、《翁某相褒》等；後者如《青竹絲奇案》等。</p>
+    <p></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表18改編傳統劇目中，《女誡扇綺譚》、《虎姑婆》為楊秀卿、微笑唸歌團共同改編。《女誡扇綺譚》改編自佐藤春夫小說，以臺南安平港為發想地，敘述一個大家族的沒落。劇情架構看似靈異故事，但抽絲剝繭後，才發現其內含推理成分。《虎姑婆》則是改編自家喻戶曉的民間故事。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《惠蓮的扇子》為微笑唸歌團改編自西川滿小說。以二二八事件為主題，從日本人的角度，書寫戰後初期的臺灣。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「歌仔頭」是種開場曲，走江湖的唸歌仔仙會在正式劇目開始演出前，以鑼鼓及高亢的曲調，吸引周遭觀眾前來；或唱或唸吉祥話，祝福國泰民安、觀眾身體健康、一切順利。「歌仔尾」是唸歌仔藝人在演出結束時，演唱感謝觀眾朋友的四句聯，內容大多為感謝觀眾朋友的捧場與支持鼓勵，祝福大家身體健康、萬事如意、財源廣進之類的賀詞，頗具人情味及趣味性。因此演出者在演出「歌仔頭」與「歌仔尾」時，除會保留傳統的演出內容外，也會斟酌活動主題，加入一些符合活動主題的創作內容，因此「歌仔頭」與「歌仔尾」的演出內容可說是「傳統＋隨機創作」。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表18新創劇目中，《總統府建築百年慶》、《民進黨33週年慶祝歌》為楊秀卿、儲見智共同創詞；《唸唱文學臺中》、《唸歌唱曲慶開臺》等，為微笑唸歌團創詞。都是為邀請者為了某個活動主題而特別設計、創作的。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年的觀察，唸歌仔的演出劇目除「歌仔頭」、「歌仔尾」外，至少有29齣，其中以《翁某相褒》最多，19次；次為《十二生肖貓鼠冤》，18次。後依序為《山伯英台》〈母囝答〉11次；《周成過臺灣》10次；《雪梅教子》9次；《青竹絲奇案》6次；《山伯英台》〈遊花園〉、《胡繩蚊仔大戰歌》、《勸世歌》各4次；《山伯英台》〈山伯討藥方〉、《廖添丁傳奇》各3次；《哪吒鬧東海》、《勸友孝》各2次等。《翁某相褒》、《十二生肖貓鼠冤》、《山伯英台》〈母囝答〉之所以演出次數最多，可能與這些曲目都是詼諧逗趣，深受觀眾喜愛有關。而「山伯英台」系列則有較多不同的選段。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通常長篇劇目的演出，會視演出時間的多寡，而選擇其中一小段演出。短篇或長時間的演出則有完整的呈現，前者如《十二生肖貓鼠冤》、《翁某相褒》等；後者如《青竹絲奇案》等。</p>
     <p>
       <strong>（八）曲牌</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年的觀察，唸歌仔常用的曲牌有【七字調】、【五更鼓】、【心酸酸】、【文和調】、【江湖調】、【西北調】、【吟詩調】、【走路調】、【南光調】、【相思燈】、【秋夜曲】、【倍思調】、【將水】、【清風調】、【都馬尾】、【都馬調】、【黑暗路】、【愛姑調】、【運河二調】等。其中以【江湖調】、【七字調】、【雜唸調】、【都馬調】所謂的四大調用得最多，特別是【江湖調】。而開場曲「歌仔頭」演出時，通常會以【大調】、【倍思仔】等較高亢的曲牌吸引觀眾到場。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年的觀察，唸歌仔常用的曲牌有【七字調】、【五更鼓】、【心酸酸】、【文和調】、【江湖調】、【西北調】、【吟詩調】、【走路調】、【南光調】、【相思燈】、【秋夜曲】、【倍思調】、【將水】、【清風調】、【都馬尾】、【都馬調】、【黑暗路】、【愛姑調】、【運河二調】等。其中以【江湖調】、【七字調】、【雜唸調】、【都馬調】所謂的四大調用得最多，特別是【江湖調】。而開場曲「歌仔頭」演出時，通常會以【大調】、【倍思仔】等較高亢的曲牌吸引觀眾到場。</p>
     <p>
       <strong>（九）唱詞</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 傳統上唸歌仔之歌詞體制不外乎「七字仔」、「雜唸仔」，或「七字仔」與「雜唸仔」之混合形式三大類。但2019年的觀察，唸歌仔唱詞皆七字仔形式，亦即皆四句聯，但會隨機增加虛字襯詞，讓音樂更為流暢，表達更為貼切自然，此以楊秀卿最為明顯。</p>
-    <p>&nbsp;&nbsp;&nbsp; 至於創作文本向來就是用整齊規則的四句聯形式創作的，如2019/04/06楊秀卿說唱藝術團，在凱達格蘭大道演出的「2019總統府音樂會（Presidential Office Concert）－『總統府建築百年慶』〈秀卿阿嬤唸歌詩〉」中，楊秀卿、儲見智以四句聯形式創作的《總統府建築百年慶》，描述總統府建築堅定的屹立在臺灣這片土地上，不受地震與颱風動搖，守護國家與人民。其唱詞如下（僅呈現其中2葩）：</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;講（起咱一）百年前的台灣，總統府起（了）上界懸，</p>
-    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（為了）管理制度的完滿，守護（遮个）土地真安全。</p>
-    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;守護土地顧人民，（予咱在總統府）治國理政（，是加誠）有精神，</p>
-    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;做事項項真謹慎，感謝總統府（的）大恩。</p>
-    <p>又如2019/05/30，微笑唸歌團在臺中文學館所舉辦的「第八屆臺中文學獎『文學，中途下車－山海屯城文字風景』徵件起跑記者會」中，以四句聯形式創作的《唸唱文學臺中》，其唱詞如下（僅呈現其中1葩）：</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 臺中文學獎今年是第八屆，通知予恁逐家知，</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 無論是中文、台文、客語攏會使，文學創作作陣來。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳統上唸歌仔之歌詞體制不外乎「七字仔」、「雜唸仔」，或「七字仔」與「雜唸仔」之混合形式三大類。但2019年的觀察，唸歌仔唱詞皆七字仔形式，亦即皆四句聯，但會隨機增加虛字襯詞，讓音樂更為流暢，表達更為貼切自然，此以楊秀卿最為明顯。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;至於創作文本向來就是用整齊規則的四句聯形式創作的，如2019/04/06楊秀卿說唱藝術團，在凱達格蘭大道演出的「2019總統府音樂會（Presidential Office Concert）－『總統府建築百年慶』〈秀卿阿嬤唸歌詩〉」中，楊秀卿、儲見智以四句聯形式創作的《總統府建築百年慶》，描述總統府建築堅定的屹立在臺灣這片土地上，不受地震與颱風動搖，守護國家與人民。其唱詞如下（僅呈現其中2葩）：</p>
+    <p class="bkt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;講（起咱一）百年前的台灣，總統府起（了）上界懸，<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（為了）管理制度的完滿，守護（遮个）土地真安全。<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;守護土地顧人民，（予咱在總統府）治國理政（，是加誠）有精神，<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;做事項項真謹慎，感謝總統府（的）大恩。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又如2019/05/30，微笑唸歌團在臺中文學館所舉辦的「第八屆臺中文學獎『文學，中途下車－山海屯城文字風景』徵件起跑記者會」中，以四句聯形式創作的《唸唱文學臺中》，其唱詞如下（僅呈現其中1葩）：</p>
+    <p class="bkt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;臺中文學獎今年是第八屆，通知予恁逐家知，<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;無論是中文、台文、客語攏會使，文學創作作陣來。</p>
     <p>
       <strong>（十）伴奏樂器</strong>
     </p>
     <p>
       <strong>&nbsp;&nbsp;</strong>&nbsp;唸歌仔的表演形式，有說有唱、有樂器伴奏，但沒有身段表演。所用樂器最常見的有月琴、大廣絃、殼仔絃。另也見有吉他、口琴、揚琴等（張炫文，1986，16），一般不用打擊樂器。其中最重要、用得最廣的是月琴，可說是不可或缺的樂器。一些傑出藝人，往往一把月琴自彈自唱，便能把內容演出得淋漓盡致，引人入勝，如呂柳仙、陳達等人。不過最常見的標準搭配是除演唱者自彈月琴自唱外，另有大廣絃伴奏，如楊秀卿等人。
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 2019年之觀察，唸歌仔所用的伴奏樂器有月琴、大廣絃、殼仔絃、電吉他、三絃、電子琴（Keyboard）、堂鼓、大鑼、小鑼、小鈸等，其中月琴、大廣絃可說是最重要的兩件樂器，而被認為是國民樂器的月琴更是不可或缺。</p>
-    <p>&nbsp;&nbsp;&nbsp; 楊秀卿除以月琴自彈自唱自說外，更常與大廣絃搭配演出；微笑唸歌團的儲見智習慣以大廣絃自拉自唱自說或搭配月琴、堂鼓演出；陳美珠則慣用電吉他自彈自唱自說或搭配其他樂器演出；旭陽民俗車鼓劇團習慣以三絃、大廣絃伴奏；另微笑唸歌團有時會在比較熱鬧或場面較大的場合，增加電子琴，以豐富音響效果。此外，演出「歌仔頭」時，為吸引周遭觀眾前來觀賞，會加上大鑼、小鑼、小鈸等音響較粗獷的打擊樂器。</p>
-    <p>&nbsp;&nbsp;&nbsp; 月琴是唸歌仔所用的必備樂器，尤其傳習活動與推廣教育中，是人手一把月琴自彈自唱，或自彈自說自唱。不論是恆春半島的民謠演唱或恆春半島以外地方的唸歌仔演出，「月琴」都是不可少的。</p>
-    <p>&nbsp;</p>
-    <table rules="all" style="border:1px solid #000;width:100%" cellpadding="5">
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年之觀察，唸歌仔所用的伴奏樂器有月琴、大廣絃、殼仔絃、電吉他、三絃、電子琴（Keyboard）、堂鼓、大鑼、小鑼、小鈸等，其中月琴、大廣絃可說是最重要的兩件樂器，而被認為是國民樂器的月琴更是不可或缺。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;楊秀卿除以月琴自彈自唱自說外，更常與大廣絃搭配演出；微笑唸歌團的儲見智習慣以大廣絃自拉自唱自說或搭配月琴、堂鼓演出；陳美珠則慣用電吉他自彈自唱自說或搭配其他樂器演出；旭陽民俗車鼓劇團習慣以三絃、大廣絃伴奏；另微笑唸歌團有時會在比較熱鬧或場面較大的場合，增加電子琴，以豐富音響效果。此外，演出「歌仔頭」時，為吸引周遭觀眾前來觀賞，會加上大鑼、小鑼、小鈸等音響較粗獷的打擊樂器。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;月琴是唸歌仔所用的必備樂器，尤其傳習活動與推廣教育中，是人手一把月琴自彈自唱，或自彈自說自唱。不論是恆春半島的民謠演唱或恆春半島以外地方的唸歌仔演出，「月琴」都是不可少的。</p>
+    <p></p>
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
       <tbody>
         <tr>
-          <td>
+          <td class="tableCenter">
             <img style="max-width:100%" src="./../../../assets/ob3/01.jpg" alt />
             <p style="text-align:center">月琴（02/05）(黃玲玉提供)</p>
           </td>
-          <td>
+          <td class="tableCenter">
             <img style="max-width:100%" src="./../../../assets/ob3/02.jpg" alt />
             <p style="text-align:center">大廣絃（左）、月琴（右）（03/12）（微笑唸歌團提供）</p>
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             <img style="max-width:100%" src="./../../../assets/ob3/03.jpg" alt />
             <p style="text-align:center">大廣絃、電吉他、月琴（由左至右）（03/20）（黃玲玉提供）</p>
           </td>
-          <td>
+          <td class="tableCenter">
             <img style="max-width:100%" src="./../../../assets/ob3/04.jpg" alt />
             <p style="text-align:center">大廣絃（後）、堂鼓（前）、月琴（右）（04/27）（微笑唸歌團提供）</p>
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="tableCenter">
             <img style="max-width:100%" src="./../../../assets/ob3/05.jpg" alt />
             <p style="text-align:center">鑼、鈸（04/24）（微笑唸歌團提供）</p>
           </td>
-          <td>
+          <td class="tableCenter">
             <img style="max-width:100%" src="./../../../assets/ob3/06.jpg" alt />
             <p style="text-align:center">電子琴（04/24）（微笑唸歌團提供）</p>
           </td>
         </tr>
       </tbody>
     </table>
-
+    <p></p>
     <p>
       <strong>（十一）</strong>
       <strong>工商服務</strong>
     </p>
-    <p>&nbsp;&nbsp;&nbsp; 唸歌仔早期傳統上有工商服務時間。如早期賣藥郎巡迴販藥，往往用唸歌仔來吸引大批民眾，當作行銷妙計；又如電臺時期，演出會在最精彩處中途停下來（如今之音樂會等演出之中場休息時間），利用觀眾期待後續的演出來賣藥（廣告時間），但現今幾乎已看不見。</p>
-    <p>&nbsp;&nbsp;&nbsp; 2019/03/20微笑唸歌團在彰化縣線西鄉寓埔村永安宮演出的「國家文化記憶庫下鄉巡演－彰化縣線西鄉」中，特別安排有工商服務時間，三位演出者特別示範早期唸歌賣藥的情形，但限於規定（文化場），不能賣藥，實際上賣的是唸歌仔之光碟與書籍。另2019/12/30在北投溫泉博物館錄影的《王祿仔大歌廳》，亦有工商服務時間：早期賣藥的內容。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唸歌仔早期傳統上有工商服務時間。如早期賣藥郎巡迴販藥，往往用唸歌仔來吸引大批民眾，當作行銷妙計；又如電臺時期，演出會在最精彩處中途停下來（如今之音樂會等演出之中場休息時間），利用觀眾期待後續的演出來賣藥（廣告時間），但現今幾乎已看不見。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019/03/20微笑唸歌團在彰化縣線西鄉寓埔村永安宮演出的「國家文化記憶庫下鄉巡演－彰化縣線西鄉」中，特別安排有工商服務時間，三位演出者特別示範早期唸歌賣藥的情形，但限於規定（文化場），不能賣藥，實際上賣的是唸歌仔之光碟與書籍。另2019/12/30在北投溫泉博物館錄影的《王祿仔大歌廳》，亦有工商服務時間：早期賣藥的內容。</p>
 
     <img class="contentImg" src="./../../../assets/ob3/07.jpg" alt="商服務時間行銷光碟、書籍（03/20）" />
-    <br />
     <small style="display:block;text-align:center;font-size:unset;">
       工商服務時間行銷光碟、書籍（03/20）
       <br />（由左至右：儲見智、陳美珠、林恬安）
@@ -11182,37 +11180,37 @@
       <strong>臺灣民謠</strong>。臺北市：眾文圖書股份有限公司。
     </p>
 
-    <p>&nbsp;</p>
-    <p>
-      <a href="#_ftnref1" name="_ftn1">[1]</a> 〈打拼的兄弟姊妹〉：鍾明昆採集、作詞。
-    </p>
-    <p>
-      <a href="#_ftnref2" name="_ftn2">[2]</a> 〈數魚栽〉：也稱〈算魚仔歌〉、〈數魚苗歌〉。有加法、湊五法兩種。
-    </p>
-    <p>
-      <a href="#_ftnref3" name="_ftn3">[3]</a> 「唱曲」是〈牛母伴〉別稱之一。是恆春最早出現的古老民謠，可能由排灣族古老曲調轉換而來，其尾音會上飄八度音程，可能與平常互相呼叫的習慣有關，因恆春落山風大，叫人時需先叫名再加八度尾音「呼」，否則會聽不到。「唱曲」是自我撫慰心靈，懷念至親、知己的無詞哀歌。此曲調無固定形式，唱者隨情緒思潮、真假變聲、高低長短之不同而各自發揮，唱到極悲痛時，音域達三個八度，變化莫測，扣人心絃。後此曲調被簡化成一段式，應用到女兒出嫁前夕的「惜別宴會」上，凡是親人、摯友等要向準新娘叮嚀的祝詞，或準新娘要向親朋戚友謝恩或表達對婚事的內心感受時，皆以此調對唱。
-    </p>
-    <p>
-      <a href="#_ftnref4" name="_ftn4">[4]</a> 「牛尾擺」有些人認為「準新娘惜別宴」唱曲時，好像牛吃草時，牛尾擺來擺去一樣點唱著；或受《呂氏春秋．仲夏紀．古樂篇》：「昔葛天氏之樂，三人操牛尾，投足以歌八闕」之聯想而稱之。
-    </p>
-    <p>
-      <a href="#_ftnref5" name="_ftn5">[5]</a> 「牛尾伴」有些人認為「準新娘惜別宴」唱曲時，好像牛群走動時一隻跟著一隻走，一樣跟唱著，亦即隨著人的尾後唱，好像跟著「牛尾溜」唱著一樣而稱之。
-    </p>
-    <p>
-      <a href="#_ftnref6" name="_ftn6">[6]</a> 「牛母伴」有些人認為「準新娘惜別宴」唱曲時，是以「準新娘」為主角，整個惜別宴皆以「準新娘」為主題對唱著，好像牛群自然移動時，都跟著母牛後頭走一樣，或如在山林中趕牛群，要讓母牛先上路在前帶領，才能把牛群趕出山林一樣而稱之。
-    </p>
-    <p>
-      <a href="#_ftnref7" name="_ftn7">[7]</a> 〈行置滿州牛車路〉：詞曲為嚴詠能為2018年滿州民謠協進會要去屏東演出而創作。（2019/12/28電話訪談滿州民謠傳藝師張日貴的結業藝生張碧英女士）。此曲2019年被演出次數頻繁。
-    </p>
-    <p>
-      <a href="#_ftnref8" name="_ftn8">[8]</a> 〈桐花圓舞曲〉：2008年入圍第19屆金曲獎傳統暨藝術音樂類「最佳作詞人獎」，是當年唯一入圍的臺語歌詞。
-    </p>
-    <p>
-      <a href="#_ftnref9" name="_ftn9">[9]</a> 〈濁水溪溪水濁〉：2009年陳維斌將此曲贈雲林，獲雲林縣政府「雲林樂章」之稱。此曲闡述濁水溪臺灣母河代表的溫柔與韌性，及遊子對家鄉土地的情愫鄉愁。
-    </p>
-    <p>
-      <a href="#_ftnref10" name="_ftn10">[10]</a> 「2019半島歌謠祭－屏東縣『恆春民謠全國大賽』」，共分恆春民謠個人組、民謠對唱組、恆春民謠團體組、月琴伴唱創意組、民謠詩詞成人組、民謠紀錄寫手組、民謠詩畫國小組7組。
-    </p>
+    <p></p>
+    <small>
+      <sup>1</sup>〈打拼的兄弟姊妹〉：鍾明昆採集、作詞。
+    </small><br>
+    <small>
+      <sup>2</sup>〈數魚栽〉：也稱〈算魚仔歌〉、〈數魚苗歌〉。有加法、湊五法兩種。
+    </small><br>
+    <small>
+      <sup>3</sup>「唱曲」是〈牛母伴〉別稱之一。是恆春最早出現的古老民謠，可能由排灣族古老曲調轉換而來，其尾音會上飄八度音程，可能與平常互相呼叫的習慣有關，因恆春落山風大，叫人時需先叫名再加八度尾音「呼」，否則會聽不到。「唱曲」是自我撫慰心靈，懷念至親、知己的無詞哀歌。此曲調無固定形式，唱者隨情緒思潮、真假變聲、高低長短之不同而各自發揮，唱到極悲痛時，音域達三個八度，變化莫測，扣人心絃。後此曲調被簡化成一段式，應用到女兒出嫁前夕的「惜別宴會」上，凡是親人、摯友等要向準新娘叮嚀的祝詞，或準新娘要向親朋戚友謝恩或表達對婚事的內心感受時，皆以此調對唱。
+    </small><br>
+    <small>
+      <sup>4</sup>「牛尾擺」有些人認為「準新娘惜別宴」唱曲時，好像牛吃草時，牛尾擺來擺去一樣點唱著；或受《呂氏春秋．仲夏紀．古樂篇》：「昔葛天氏之樂，三人操牛尾，投足以歌八闕」之聯想而稱之。
+    </small><br>
+    <small>
+      <sup>5</sup>「牛尾伴」有些人認為「準新娘惜別宴」唱曲時，好像牛群走動時一隻跟著一隻走，一樣跟唱著，亦即隨著人的尾後唱，好像跟著「牛尾溜」唱著一樣而稱之。
+    </small><br>
+    <small>
+      <sup>6</sup>「牛母伴」有些人認為「準新娘惜別宴」唱曲時，是以「準新娘」為主角，整個惜別宴皆以「準新娘」為主題對唱著，好像牛群自然移動時，都跟著母牛後頭走一樣，或如在山林中趕牛群，要讓母牛先上路在前帶領，才能把牛群趕出山林一樣而稱之。
+    </small><br>
+    <small>
+      <sup>7</sup>〈行置滿州牛車路〉：詞曲為嚴詠能為2018年滿州民謠協進會要去屏東演出而創作。（2019/12/28電話訪談滿州民謠傳藝師張日貴的結業藝生張碧英女士）。此曲2019年被演出次數頻繁。
+    </small><br>
+    <small>
+      <sup>8</sup>〈桐花圓舞曲〉：2008年入圍第19屆金曲獎傳統暨藝術音樂類「最佳作詞人獎」，是當年唯一入圍的臺語歌詞。
+    </small><br>
+    <small>
+      <sup>9</sup>〈濁水溪溪水濁〉：2009年陳維斌將此曲贈雲林，獲雲林縣政府「雲林樂章」之稱。此曲闡述濁水溪臺灣母河代表的溫柔與韌性，及遊子對家鄉土地的情愫鄉愁。
+    </small><br>
+    <small>
+      <sup>10</sup>「2019半島歌謠祭－屏東縣『恆春民謠全國大賽』」，共分恆春民謠個人組、民謠對唱組、恆春民謠團體組、月琴伴唱創意組、民謠詩詞成人組、民謠紀錄寫手組、民謠詩畫國小組7組。
+    </small><br>
 
     <!-- <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
       <tr>
