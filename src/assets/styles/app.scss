@@ -293,7 +293,9 @@ $image-path: 'assets';
           padding: 2px 6px;
         }
         p{
-          font-size: initial;
+          margin: 0;
+          font-size: inherit;
+          // font-size: initial;
         }
         .tableCenter{
           text-align: center;

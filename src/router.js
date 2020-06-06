@@ -169,7 +169,7 @@ export default new VueRouter({
           meta: { isPreface: true },
         },
         {
-          name: '跨界音樂',
+          name: '跨界音樂與其他',
           path: 'Observed_03',
           component: Observed_03,
           meta: { isPreface: true },
@@ -240,7 +240,7 @@ export default new VueRouter({
           component: Observed_13,
         },
         {
-          name: '跨界音樂 / 跨界音樂',
+          name: '跨界音樂與其他 / 跨界音樂與其他',
           path: 'Observed_14',
           component: Observed_14,
         },

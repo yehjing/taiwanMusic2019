@@ -1,7 +1,7 @@
 <template>
   <div v-if="show" class="preface">
     <div class="title">
-      <h2>跨界音樂</h2>
+      <h2>跨界音樂與其他</h2>
       <span @click="close" class="cross">
         <img width="20" src="./../../../assets/cross.png">
       </span>

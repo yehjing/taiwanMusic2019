@@ -25,7 +25,7 @@ const tabs = [
   // },
   {
     name: '2019年度跨界音樂及其他活動觀察與評介',
-    autor: '陳慧珊',
+    autor: '蔡宗德',
     component: Observed14,
     path: 'observed_14',
   },
