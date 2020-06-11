@@ -35,7 +35,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;感謝國立傳統藝術中心臺灣音樂館的具體策劃與推動。在田野間、案頭上辛勤戮力的編輯委員和研究助理，以及來自各界對年鑑蒐集研究工作的支持，是本年鑑能夠順利出版成輯的重要關鍵。各項來自政府以及民間音樂團體與個人的助力，都共同成就了《2019臺灣音樂年鑑》。期望這份研究調查的成果提供相對完整、具時序性的觀察，對於臺灣音樂史的補充起到正面的作用，未來希能做為政府施政和民間音樂發展之參考。
       </p>
       <br />
-      <div style="text-align:right">主編 / 國立臺灣藝術大學教授</div>
+      <div class="signTitle" style="text-align:right">主編 / 國立臺灣藝術大學教授</div>
       <div style="text-align:right;margin-top:1em">
         <!-- <span>張儷瓊</span><br /><span>2020年6月30日</span> -->
         <img src="./../../../assets/sign.jpg" alt="" /><br /><span>2020年6月30日</span>
@@ -46,5 +46,10 @@
 <style lang="scss" scoped>
 img {
   width: 8em;
+}
+@media (max-width: 576px) {
+  .signTitle{
+    font-size: 12px;
+  }
 }
 </style>

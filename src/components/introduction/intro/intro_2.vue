@@ -16,7 +16,7 @@
       </p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本館除藉由音樂年鑑記錄臺灣音樂的發展成果，讓眾人可以依循著研究成果的軌跡前進外，也不斷與各界對話交流，創造連結分享及群眾參與的更多可能，使臺灣音樂的聲響，持續與時代共鳴。最後，在此感謝全體編輯團隊孜孜矻矻、不辭辛勞的持續努力，方能完成《2019年臺灣音樂年鑑》網頁版與實體紙本，期待它能成為海內外深入理解臺灣音樂發展現況的寶典。
       </p>
-      <div style="text-align:right">臺灣音樂館館主任</div>
+      <div class="signTitle" style="text-align:right">臺灣音樂館館主任</div>
       <div style="text-align:right;margin-top:1em">
         <img src="./../../../assets/center2.png" alt="" />
         <br /><span>2020年6月30日</span>
@@ -27,5 +27,10 @@
 <style lang="scss" scoped>
 img {
   width: 9em;
+}
+@media (max-width: 576px) {
+  .signTitle{
+    font-size: 12px;
+  }
 }
 </style>

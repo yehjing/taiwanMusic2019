@@ -55,4 +55,41 @@ li{
 hr{
   margin-bottom: 40px;
 }
+@media (max-width: 576px) {
+  @media (max-width: 576px) {
+  h1{
+    font-size:1em ; //2
+  }
+  h2{
+    font-size:.9em ; //1.5
+  }
+  h3{
+    font-size: .8em;
+  }
+  h4{
+    font-size: .7em;
+  }
+  p,span,strong,small,b{
+    font-size: 12px !important;
+  }
+  sup{
+    font-size: 10px !important;
+  }
+  li{
+    font-size: 12px;
+  }
+  .viewRight li{
+    font-size: 12px;
+  }
+  iframe{
+    width: 95%;
+    height: 230px;
+  }
+}
+.know{
+  padding: 8%;
+  width: auto;
+  max-height: initial;
+}
+}
 </style>

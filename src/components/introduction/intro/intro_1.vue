@@ -14,7 +14,7 @@
       </p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳統表演藝術近年除了被納入無形文化資產，得到更多重視外，隨著跨界交流的興盛與科技運用的結合，臺灣各類型音樂亦從傳統走出多樣新意，無論在創作發表、傳習推廣、展演型態都有所突破，展現欣欣向榮的生命力。《2019臺灣音樂年鑑》得以付梓，有賴工作團隊用心勠力的投入。期待年鑑未來能夠逐年持續蒐羅匯整，傳統與時代並進，一步一腳印，為臺灣音樂的足跡留下彌足珍貴的紀錄。
       </p>
-      <div style="text-align:right">國立傳統藝術中心主任</div>
+      <div class="signTitle" style="text-align:right">國立傳統藝術中心主任</div>
       <div style="text-align:right;margin-top:2em">
         <img src="./../../../assets/centersign.jpg" alt="" />
         <br /><span>2020年6月30日</span>
@@ -25,5 +25,10 @@
 <style lang="scss" scoped>
 img {
   width: 8em;
+}
+@media (max-width: 576px) {
+  .signTitle{
+    font-size: 12px;
+  }
 }
 </style>
