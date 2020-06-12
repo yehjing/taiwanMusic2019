@@ -171,7 +171,7 @@
             Makapahay瑪嘎巴嗨文化藝術團
           </td>
           <td>
-            督瀅．谷慕 dongi．komod
+            督瀅．谷慕<br>dongi．komod
           </td>
           <td>
             0936-849-989
@@ -223,7 +223,7 @@
             郭志翔
           </td>
           <td>
-            新北市汐止區大同路一段263號8樓 02-2647-8856
+            新北市汐止區大同路一段263號8樓<br>02-2647-8856
           </td>
           <td>
             <a target="_" href="https://reurl.cc/1QpZ7Y">連結</a>
@@ -240,7 +240,7 @@
             謝鴻財
           </td>
           <td>
-            新竹縣竹北市光明十二街65號 03-551-7509
+            新竹縣竹北市光明十二街65號<br>03-551-7509
           </td>
           <td></td>
           <td>
@@ -559,7 +559,7 @@
             南投縣信義鄉東埔村開高巷63號<br>04-9270-1340
           </td>
           <td>
-            <a target="_" href="www.tpups.ntct.edu.tw">連結</a>
+            <a target="_" href="http://www.tpups.ntct.edu.tw/">連結</a>
           </td>
           <td>
             布農族演出團體
@@ -1259,8 +1259,7 @@
             楊新國
           </td>
           <td>
-            <pre>桃園市龍潭區中正里神龍路270號1樓</pre>
-<br>
+            桃園市龍潭區中正里神龍路270號1樓<br>
             03-480-2337
           </td>
           <td></td>
@@ -1274,8 +1273,8 @@
             嚴苡嘉
           </td>
           <td>
-            <pre>花蓮縣吉安鄉吉安村吉興一街389巷11號</pre><br>
-            <pre>0988-000-815</pre>
+            花蓮縣吉安鄉吉安村吉興一街389巷11號<br>
+            0988-000-815
           </td>
           <td></td>
           <td></td>
@@ -1321,7 +1320,7 @@
             南投縣仁愛鄉互助村清風路18號<br>0987-214-213
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/gluban.theater/">連結</a>
+            <a target="_" href="https://www.facebook.com/mahung.house2016">連結</a>
           </td>
           <td>
             成立時間於2014年4月26日。

@@ -23,7 +23,7 @@
             音樂總監<br>李承育
           </td>
           <td>
-            <a href="www.tjo.com.tw/">連結</a>
+            <a target="_" href="http://www.tjo.com.tw/">連結</a>
             
           </td>
           <td>
@@ -51,7 +51,7 @@
             添翼創越唱片公司
           </td>
           <td>
-            <a target="_" href="www.team-ear.com/">連結</a>
+            <a target="_" href="http://www.team-ear.com/">連結</a>
             
           </td>
           <td></td>

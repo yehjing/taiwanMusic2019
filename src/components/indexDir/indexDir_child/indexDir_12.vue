@@ -1095,7 +1095,7 @@
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/groups/176691215689013/">連結</a><br>
-            <a href="mailto:Jyps@mail.com.edu.tw">
+            <a target="_" href="mailto:Jyps@mail.com.edu.tw">
               連結
             </a>
           </td>
@@ -1190,9 +1190,9 @@
             傳真：06-927-6602
           </td>
           <td>
-            <a href="mailto:Ph1141@ms2.hiiiiiiinet.net">連結</a><br />
+            <a target="_" href="mailto:Ph1141@ms2.hiiiiiiinet.net">連結</a><br />
 
-            <a href="Geosu5438@yahoo.com.tw">連結</a>
+            <a target="_" href="mailto:Geosu5438@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>

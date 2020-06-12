@@ -6,21 +6,15 @@
     <hr>
     <p class="firstRow"></p>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
-      <tbody>
+      <thead>
         <tr>
-          <td width="22%">
-            時間
-          </td>
-          <td>
-            活動名稱
-          </td>
-          <td width="30%">
-            活動內容
-          </td>
-          <td>
-            備註
-          </td>
+          <th style="width:22%">時間</th>
+          <th>活動名稱</th>
+          <th style="width:30%">活動內容</th>
+          <th>備註</th>
         </tr>
+      </thead>
+      <tbody>
         <tr>
           <td>
             2019

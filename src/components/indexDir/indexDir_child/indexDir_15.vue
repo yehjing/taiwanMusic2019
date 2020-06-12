@@ -26,13 +26,13 @@
             班長<br>黃逢廣
           </td>
           <td>
-            臺北市文山區福興路2號（興隆國小音樂教室） 02-9353616
+            臺北市文山區福興路2號（興隆國小音樂教室）<br>02-9353616
           </td>
           <td>
             <a target="_" href="http://club.ntu.edu.tw/~club20433/haksong/sanko/teach.htm">連結</a>
           </td>
           <td>
-            團練時間：19:30-21:30 團練地點：興隆國小音樂教室
+            團練時間：19:30-21:30<br>團練地點：興隆國小音樂教室
           </td>
         </tr>
         <tr>
@@ -73,7 +73,7 @@
             理事<br>劉金霖
           </td>
           <td>
-            臺北市大安區和平東路二段95號之1 02-2708-5995
+            臺北市大安區和平東路二段95號之1<br>02-2708-5995
           </td>
           <td>
             <a target="_" href="https://ssl.thcp.org.tw/connections/clubs?page=3">連結</a>
@@ -186,7 +186,7 @@
             0936-060-607<br>02-2821-9075
           </td>
           <td>
-            <a target="_" href="http://www.hakkaonline.com/article-1040-1.html">連結</a>
+            <!-- <a target="_" href="http://www.hakkaonline.com/article-1040-1.html">連結</a> -->
           </td>
           <td>
             成立於1996年<br>團練地點：臺北市大東路75號2樓
@@ -585,7 +585,7 @@
             屏東縣長治鄉潭頭村合興路124號<br>08-721-7930
           </td>
           <td width="132">
-            <a target="_" href="https://socmap.pthg.gov.tw/pt1w/app/map?objid=3470503">連結</a>
+            <!-- <a target="_" href="https://socmap.pthg.gov.tw/pt1w/app/map?objid=3470503">連結</a> -->
           </td>
           <td>
             成立於1996年
@@ -644,24 +644,16 @@
       二、客家傳統器樂
     </h3>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
-      <tbody>
+      <thead>
         <tr>
-          <td>
-            名稱
-          </td>
-          <td>
-            負責人
-          </td>
-          <td>
-            地址/電話
-          </td>
-          <td>
-            其他聯絡方式
-          </td>
-          <td>
-            備註
-          </td>
+          <th style="width:20%">名稱</th>
+          <th style="width:20%">負責人</th>
+          <th style="width:25%">地址/電話</th>
+          <th>其他聯絡方式</th>
+          <th style="width:25%">備註</th>
         </tr>
+      </thead>
+      <tbody>
         <tr>
           <td>
             鄉音國樂團
@@ -998,24 +990,16 @@
       三、客家傳統戲曲與表演形式
     </h3>
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
-      <tbody>
+      <thead>
         <tr>
-          <td style="width:20%">
-            名稱
-          </td>
-          <td style="width:20%">
-            負責人
-          </td>
-          <td style="width:25%">
-            地址/電話
-          </td>
-          <td>
-            其他聯絡方式
-          </td>
-          <td style="width:25%">
-            備註
-          </td>
+          <th style="width:20%">名稱</th>
+          <th style="width:20%">負責人</th>
+          <th style="width:25%">地址/電話</th>
+          <th>其他聯絡方式</th>
+          <th style="width:25%">備註</th>
         </tr>
+      </thead>
+      <tbody>
         <tr>
           <td>
             紙風車劇團

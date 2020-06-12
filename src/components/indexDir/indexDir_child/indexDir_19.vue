@@ -690,7 +690,7 @@
             團長<br>林右昌
           </td>
           <td>
-            基隆市中正區信一路181號4樓 02-2422-4170 #398
+            基隆市中正區信一路181號4樓<br>02-2422-4170 #398
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/KeelungChineseOrchestra/">連結</a>
@@ -982,7 +982,7 @@
             04-2327-3530
           </td>
           <td>
-            <a target="_" href="www.facebook.com/taichungpushian">連結</a>
+            <a target="_" href="https://www.facebook.com/taichungpushian">連結</a>
             
           </td>
           <td>
@@ -1378,7 +1378,7 @@
             臺南市民族管絃樂團
           </td>
           <td>
-            團長/ 指揮<br>劉文祥
+            團長/指揮<br>劉文祥
           </td>
           <td>
             臺南市歸仁區信義南路78號
@@ -1438,7 +1438,7 @@
             高雄市國樂團
           </td>
           <td>
-            指揮/ 副執行長<br>郭哲誠
+            指揮/副執行長<br>郭哲誠
           </td>
           <td>
             高雄市鳳山區光遠路161號
@@ -1692,7 +1692,7 @@
             團長<br>郭岷勤
           </td>
           <td>
-            新北市中和區秀朗路三段177號21樓之1 02-2947-9273
+            新北市中和區秀朗路三段177號21樓之1<br>02-2947-9273
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/3peoplemusic/">連結</a>
@@ -1806,7 +1806,7 @@
             團長<br>江昌庭
           </td>
           <td>
-            雲林縣斗六市棒球11街99號 0972-055-381
+            雲林縣斗六市棒球11街99號<br>0972-055-381
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/樂耕農室內樂團-1414763298784338/">連結</a>
@@ -2832,7 +2832,7 @@
             理事長<br>劉芳梅
           </td>
           <td>
-            臺北市信義區永吉路350號2樓之1 0935-322-452
+            臺北市信義區永吉路350號2樓之1<br>0935-322-452
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/taiwanyangqin/">連結</a>
@@ -2901,7 +2901,7 @@
             理事長<br>陳中申
           </td>
           <td>
-            臺中市大里區益民路二段31號 0965-508-073
+            臺中市大里區益民路二段31號<br>0965-508-073
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/臺灣笛簫協會-106517624187694/">連結</a>

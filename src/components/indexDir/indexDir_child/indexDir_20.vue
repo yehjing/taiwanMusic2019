@@ -1103,7 +1103,7 @@
             張鴻宇
           </td>
           <td>
-            桃園市龍潭區公園路60號 03-499-0111
+            桃園市龍潭區公園路60號<br>03-499-0111
           </td>
           <td>
             <a target="_" href="http://www.ltpo.com.tw/">連結</a>
@@ -1404,7 +1404,7 @@
             臺中市霧峰區振興街21號11樓之1<br>0963-129-037
           </td>
           <td>
-            <a href="mailto:composetrio@gmail.com">連結</a>
+            <a target="_" href="mailto:composetrio@gmail.com">連結</a>
             
           </td>
         </tr>
@@ -2742,7 +2742,7 @@
             臺北市大安區敦化南路一段159號<br>02-2776-4089
           </td>
           <td>
-            <a target="_" href="www.tcschoir.org.tw/">連結</a>
+            <a target="_" href="http://www.tcschoir.org.tw/">連結</a>
             
           </td>
         </tr>
@@ -3370,7 +3370,7 @@
         </tr>
         <tr>
           <td>
-            高雄市室內合唱團
+            高雄室內合唱團
           </td>
           <td>
             翁佳芬
@@ -3379,7 +3379,7 @@
             高雄市苓雅區憲政路235號<br>07-222-2358
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pages/category/Musician-Band/">連結</a>
+            <a target="_" href="https://m.facebook.com/高雄室內合唱團-Kaohsiung-Chamber-Choir-161258233928570/">連結</a>
             <!-- -Kaohsiung-Chamber-Choir-161258233928570/ -->
           </td>
         </tr>
@@ -3711,7 +3711,7 @@
             金門縣文化局2樓視聽教室<br>0953-014-721
           </td>
           <td>
-            <a href="mailto:kinmen6526371@yahoo.com.tw">連結</a>
+            <a target="_" href="mailto:kinmen6526371@yahoo.com.tw">連結</a>
             
           </td>
         </tr>
@@ -3821,9 +3821,7 @@
         </tr>
         <tr>
           <td>
-            <a href="http://red073.redmedia.com.tw/backoffice/" target="_blank">
               中華民國聲樂家協會
-            </a>
           </td>
           <td>
             孫清吉
@@ -3904,9 +3902,9 @@
             陳文姬
           </td>
           <td>
-            <a target="_" href="mailto:tpaausa888@gmail.com">連結</a>
           </td>
           <td>
+            <a target="_" href="mailto:tpaausa888@gmail.com">連結</a>
             <a target="_" href="https://www.taiwanpercussionaa.com/">連結</a>
           </td>
         </tr>

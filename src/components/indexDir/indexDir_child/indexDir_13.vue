@@ -939,7 +939,7 @@
             0912-037-889
           </td>
           <td>
-            <a href="lai88168168@yahoo.com.tw">連結</a>
+            <a target="_" href="lai88168168@yahoo.com.tw">連結</a>
           </td>
           <td>
             1998年成立，練習時間每週一、三、五19:00-21:00。
