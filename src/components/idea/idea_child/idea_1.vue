@@ -104,7 +104,7 @@
       <p>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《2019臺灣音樂年鑑》在篇目上分為4篇，包含14個子領域，內容含括對各領域的活動觀察記錄，收錄2019年發生或產出在臺灣文化場域中的所有音樂事象。以各領域的音樂活動月曆、活動蹲點紀錄與專文評介為主要內容，文後另有附錄提供各領域之重要團體/個人名錄索引以及重要音樂活動一覽表，供國人參考。
       </p>
-      <p style="margin:0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《2018臺灣音樂年鑑》之章節架構如下：</p>
+      <p style="margin:0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《2019臺灣音樂年鑑》之章節架構如下：</p>
       <p style="margin:0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;序</p>
       <ul>
         <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;編輯理念與體例說明</li>
@@ -181,21 +181,26 @@
       
       <span>五、符號之指定用法：</span><br />
       <span>（一）文字部分</span><br />
-      <span
-        >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;書籍、期刊、學位論文名稱、影片、唱片專輯，以《》標示。</span
-      ><br />
-      <span
-        >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;單篇文章、期刊論文、研討會論文以〈〉標示。英文書寫方式則依據APA格式。</span
-      ><br />
-      <span
-        >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;短引文、計畫案名稱、團體、活動、主題等，以「」表示，然年鑑的書寫會頻繁提到團體名稱，因此除行文上需強調團體名稱外，一律不加「」。</span
-      ><br /><br />
+      <div class="pa4">
+        <span
+          >書籍、期刊、學位論文名稱、影片、唱片專輯，以《》標示。</span
+        ><br />
+        <span
+          >單篇文章、期刊論文、研討會論文以〈〉標示。英文書寫方式則依據APA格式。</span
+        ><br />
+        <span
+          >短引文、計畫案名稱、團體、活動、主題等，以「」表示，然年鑑的書寫會頻繁提到團體名稱，因此除行文上需強調團體名稱外，一律不加「」。</span>
+      </div>
+      <br />
       <span>（二）音樂部分</span><br />
-      <span
-        >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;專輯、劇目、套曲、藝術（當代創作）音樂作品名稱，以《》標記。</span
-      ><br />
-      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;單曲、樂章以〈〉標記。</span><br />
-      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;曲牌、唱腔、門頭、素材以【】表示。</span><br /><br />
+      <div class="pa4">
+        <span
+          >專輯、劇目、套曲、藝術（當代創作）音樂作品名稱，以《》標記。</span
+        ><br />
+        <span>單曲、樂章以〈〉標記。</span><br />
+        <span>曲牌、唱腔、門頭、素材以【】表示。</span>
+      </div>
+      <br />
       <span>六、時間相關格式</span><br />
       <p>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在文章中提及世紀、年代、年月日採用西元紀年，以阿拉伯數字表示。然需標示出年號者，以西元後方的括號補充說明並以國字表示，如西元1811年（嘉慶十六年）。若必須表示民國時，以西元後方的括號補充說明，如1982年（民71）。在表格中的活動日期表示格式為2011/01/01（/ 為半型）；連續日的表示格式為01/01-12/31（-為半型）。時間表示格式為14:00-19:30。
@@ -218,7 +223,7 @@
       </p>
       <hr />
       <p></p>
-      <div style="text-align:left;">
+      <div class="mobileSmall" style="text-align:left;">
         <small
           >1.參見文化部影視及流行音樂產業局網站《104年流行音樂產業調查》報告https://mocfile.moc.gov.tw/bamidhistory/149289715.pdf（瀏覽日期：2019/12/03）</small
         >
@@ -230,3 +235,12 @@
     </div>
   </div>
 </template>
+
+<style lang="scss" scoped>
+@media (max-width: 576px) {
+  .mobileSmall{
+    line-height: 1;
+  }
+}
+</style>
+
