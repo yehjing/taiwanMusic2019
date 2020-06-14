@@ -430,3 +430,10 @@
     </div>
   </div>
 </template>
+<style lang="scss" scoped>
+@media (max-width: 576px) {
+  .wrap .mainArea .viewRight .contentImg{
+    width: 75%;
+  }
+}
+</style>

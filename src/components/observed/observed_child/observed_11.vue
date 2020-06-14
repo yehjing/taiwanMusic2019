@@ -2245,8 +2245,8 @@
       <strong>3.</strong
       ><strong>桃園市國樂團</strong>：第一次2人、第二次錄取1人、第三次錄取2人、第四次錄取3人。
     </span>
-    
-    <h3></h3>
+    <p></p>
+    <h3>貳、國人創作與發表</h3>
     <p><strong>一、全年度的國樂創作</strong></p>
     <p>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

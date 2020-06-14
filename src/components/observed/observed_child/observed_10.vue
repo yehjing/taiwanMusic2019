@@ -20,12 +20,23 @@
       <strong>（一）「台灣宗教學會」國際研討會</strong>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「台灣宗教學會」是一個由學界、各大專院校宗教系所師生、不同宗教體系的宗教界人士所組成的一個大的學術團體。二十年前第一次開始舉辦研討會，至今每年持續堅持，從未間斷。今年的研討會，比照往年三天的研討會議程規模，分別於中研院民族所多個會議室同時進行，方能容納相關數量的論文。這次二十週年以回顧與前瞻宗教研究，並未設限任何子題，故論文子題多元，包含：宗教立法、敬天法祖、宗教史文本分析、臺灣宗教研究的回顧與前瞻、基督教徒與啟示錄、儀式研究新視野、韓國新宗教田野初探、法教、禪。淨。慈、道教與民間宗教的儀式與音樂、臺韓宗教信仰、儀式音樂的型態與運用、佛教義理的比較研究、基督宗教與在地文化、人間佛教與植物觀的再審視、佛教義理的比較研究等。其中有關道教與儀式音樂的部分，發表的學者有：李秀琴（臺北藝術大學）「戰後臺灣新興道派與道樂之緣起與發展」、李瑞祥（閩南師範大學藝術學院）「祭祀樂舞的現代演繹－以臺北萬民祭天祈福大典為例」、龔道遠（武漢理工大學）「『去天庭掛號』湖北恩施火居道『度職』儀式音樂考察與研究」、史金夢（瀋陽音樂學院）「遼南複州鼓樂在儀式中的應用」。</p>
-    <img class="contentSmallImg" src="./../../../assets/ob10/01.jpg" alt="宗教儀式音樂議題研討（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">宗教儀式音樂議題研討（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/02.png" alt="法教議題研討（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">法教議題研討（李秀琴攝影）</small>
-    <br />
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
+      <tbody>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/01.png" alt />
+            <br>
+            <small style="text-align:center">宗教儀式音樂議題研討（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/02.png" alt />
+            <br>
+            <small style="text-align:center">法教議題研討（李秀琴攝影）</small>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
     <p>
       <strong>（二）輔仁大學「中華傳統術數文化學術研討會」</strong>
     </p>
@@ -33,18 +44,23 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「中華宗教生命關懷教育推廣學會」為推廣宗教生命關懷教育與學術研究之學術團體，宗旨為普及宗教生命關懷教育為目標，增進學術研究為主要功能。該會於2014年1月12日由臺灣民間學術中心暨輔大宗教系鄭志明教授發起第一次籌備會，之後每年持續舉辦研討會之工作；所持宗旨，以秉持宗教關懷教育求知與身教並重的傳統，兼顧宗教學理論、宗教傳統與宗教經驗，邁向理想的「真善美聖」的大同世界。同時該學會著重於培養兼具宗教關懷學術與實務之人才，啟發充實生命教育與宗教關懷兼具之實務人才，藉以促進學術研究、端正社會風氣為任務。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;輔大推廣學會於中華民國2019年3月30日，假輔仁大學濟時樓九樓國際會議廳，舉辦第八屆中華傳統術數文化學術研討會」。宗教業界相關人士或有學者認為中華傳統術數文化是源自於哲學與宗教的宇宙觀念，是將人納到自然的運行之中，主要以天人合一的思想做為核心，以氣化理論與術數觀點來落實人的行為，進而主張法天則地配和宇宙之法則，才是生命與生存的最佳手段。在術數文化信仰的指引下，有助於人類心靈不斷地自我超越，獲得安身立命的終極安頓。人在無法完全徹破疾病與生死下，透過傳統術數文化可以協助人們探索或解決生存問題，建構出生命的終極意義。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;當天研討會的議題也圍繞在住宅風水的問題，同樣的，也是屬於專業問題之探討，如古本《金光斗臨經》有關陽宅術之陳述與解讀；或論術數與宗教團體之關係；或唯心聖教混元禪師，使用術數，對於其教義上的定位；或從術數推論「病理」－以子平八字為探討；或論破狼格之人格特質等相關議題。各項的議題也有熱烈的討論與意見的交換。</p>
-    <img class="contentSmallImg" src="./../../../assets/ob10/03.jpg" alt="輔仁大學「中華傳統術數文化學術研討會」之一景（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">輔仁大學「中華傳統術數文化學術研討會」之一景（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/04.jpg"
-      alt="輔仁大學「中華傳統術數文化學術研討會」與會發表者與來賓合影（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >輔仁大學「中華傳統術數文化學術研討會」與會發表者與來賓合影（李秀琴攝影）</small>
-    <br />
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
+      <tbody>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/03.png" alt />
+            <br>
+            <small style="text-align:center">輔仁大學「中華傳統術數文化學術研討會」之一景（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/04.png" alt />
+            <br>
+            <small style="text-align:center">輔仁大學「中華傳統術數文化學術研討會」之一景（李秀琴攝影）</small>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
     <p>
       <strong>（三）輔仁大學「</strong>
       <strong>2019</strong>
@@ -54,16 +70,23 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;回顧2014年4月24日的「臺灣道教田野調查專題研究」學術論文發表會（與東南科技大學合辦）的論文有：張文政〈道教《玉籙血湖度產上座全科》儀式研究〉、張庭堉〈松山慈惠堂與道教禪和派〉、鄭素春〈臺灣道教斗姥信仰研究〉以及卓麗珍〈宜蘭地區媽祖信仰及其陣頭文化〉。同年，2014年6月8日在「當代臺灣道教發展學術研討會」持續以道教學理與道派發展如何融入當代社會的主題並採用田野調查研究方法呈現道教傳統文化。 相關的論文如：鄭素春發表〈道教生命教育學理與實踐：以金、元全真道為例〉、彭嘉煒研究〈臺灣全真道的現況與發展－以謝光男、巫平仁、陳義理為例〉；孫美子撰寫〈臺灣北部正一派紅頭法師大補運儀式分析〉、吳沛玲〈道教科儀中的心靈轉化－以壯圍正一天師宮靈一守玄壇建醮科儀為例〉；還有葉聰霈分享其計畫進行中，當時尚待完成的論文〈從福州斗堂到臺灣禪和派－一個當代道派型塑的觀察〉。（資料來源：鄭素春，Facebook,2019/6）</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015年5月31日「臺灣道教儀式與文化」學術研討會，皆精心投入田野工作而獲致之成果，論文包括：謝宗榮〈臺灣道教的道壇生態及其齋醮法事〉、卓麗珍〈臺灣民間廟宇的祝壽儀式－以宜蘭冬山鹿安宮為例〉、楊一樂〈臺南地區道士登刀梯晉升道長儀式之科儀研究〉、葉添芽〈道教正一派《早朝科儀》儀式音樂研究－以林昌桐道長為對象〉、張超然〈羅天大醮：基本形式與地方調適－以南鯤鯓代天府甲午科羅天大醮為例〉。2015年9月19日，在「道教文化專題學術論文發表會」（與東南科技大學合辦）裡，也有以歷史文獻和田野工作為研究方法，如謝耀德撰寫的〈臺北順天宮的探訪之旅〉、張文政〈道教《靈寶玉陽鐵罐八會靈章上座全科儀式》初探〉等。多年來累積對道教與民間信仰的研究能量。（資料來源：鄭素春，Facebook,2019/6）</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年6月1日在輔大羅耀拉大樓117會議廳舉辦的「臺灣民俗與宗教田野調查」學術研討會，依發表人專攻研究領域的不同，除了在道教領域有張文政、謝達輝的論文外，民俗方面有謝潔永、陳李木桂，探究有關臺灣民俗的祖先香火祭祀。在研討會分享學術論文包括：張文政〈在臺福州斗堂文疏知識的傳承與演變：以《玄門雜錄》為主的初步考察〉、謝達輝〈閭山煮油淨宅之研究〉、謝潔永〈初探臺灣民俗祖宗香火供奉型態－以三重埔生和堂為例〉，以及陳玉齡、李坤城合撰〈臺灣華佗五禽戲發展之研究〉。當天來賓除了論文發表者、與談人外，有不少是來自道法界學有專精人士、對該議題有興趣的人士與宗教系所學生。</p>
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/05.jpg"
-      alt="「臺灣民俗與宗教田野調查」學術研討會發表者與來賓（李秀琴攝影）"
-    />
-    <small style="display:block;text-align:center;font-size:unset;">「臺灣民俗與宗教田野調查」學術研討會發表者與來賓（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/06.jpg" alt="「臺灣民俗與宗教田野調查」學術研討會與會人員（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">「臺灣民俗與宗教田野調查」學術研討會與會人員（李秀琴攝影）</small>
-    <br />
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
+      <tbody>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/05.png" alt />
+            <br>
+            <small style="text-align:center">「臺灣民俗與宗教田野調查」學術研討會發表者與來賓（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/06.png" alt />
+            <br>
+            <small style="text-align:center">「臺灣民俗與宗教田野調查」學術研討會與會人員（李秀琴攝影）</small>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
     <p>
       <strong>（四）輔仁大學「宗教博覽會暨學生成果展」</strong>
     </p>
@@ -71,39 +94,56 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5月23日第一天的開幕式，有元門行拳的祈福表演，由元門太極學苑搬演；另外在國際會議廳有「王母信仰論壇」與宗教藝術匯演，由輔大宗教系的歷屆畢業生李聖玄道長，由他與自己所屬的禪和道派團體前來匯演。演出的曲目有：「仙樂初鳴瑞鳥來」、「皇壇奏樂」二首，同時在音樂的聲響中，經師高功上壇誦起迎「三清聖號」等法樂。接下來唱誦「香讚」（三運香曲）、「祝延讚」（祝福與會人士消災延壽）、「彌羅誥」與「送聖讚」、11字「回壇讚」（唱誦回壇），之後由後場樂師演奏「月下佳人」、「萬壽無疆」兩首通俗曲目作為結尾。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二天在國際會議廳有「身心靈醫學與宗教對話論壇」、 「宗教與仙劍淵源」紀錄片放映與電影論壇等；第三天則有「靈乩論壇」（賴宗賢博士紀念座談會）、法教法術觀摩及論壇（由吳永猛教授主持，首先由吳教授所傳習的「順天聖母協會」之學員進行普唵小法展演示範），接著介紹澎湖普唵派的學法過程與規矩。最後的壓軸為「閭山小法、五方壓煞」儀式展演，由三重「玉敕蓮發宮」所擔綱，在一樓大廳前廳進行儀式展演，作為閉幕式的成果完美結束。當天下午三重玉敕蓮發宮的住持陳慶全道長，帶領該宮的一批年青後輩所學法主公小法中的儀式「壓五方煞」進行展演與示範，並同時為三天法會結束前進行場後的驅邪趕煞、潔淨法場的功能，以恢復會場之前的秩序與潔淨。陳道長本身是禪和道長，同時也是閭山小法之法主公派法師，他的儀式與一般常見的閭山小法有所不同。此「壓五方煞」是以五行的概念，利用五方來做場域的儀式，可用於淨宅、入廟、動土、安座，甚至壓火災、送火神等的需要。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「法主公派」或稱「法主教」，是臺灣比較少見的閭山派的另一分支。其所供奉的法主通常為張、蕭、劉、連四人，也有一說是張、蕭、吳（即吳真人）或張、蕭、章等神祇的組合；但無論是哪一種可能，他們都必須是瑜伽教中之人。在臺灣，該派目前主要以信奉張聖者為主神。張聖者本稱張慈觀，為北宋末至南宋初期人物，也是將瑜伽教傳入閭山教的最關鍵人物之一。法主公教起源於福建，原為永福、安溪一帶所信奉的神袛，流行於福州、泉州一帶，十七世紀隨著泉州安溪移民傳入臺灣。此派亦以許真君為法主，實則供奉宋代法僧張永福，即張聖者，以神通、法術著名，而被尊為「法主公」，又稱「都天聖君」。而法主公派使用道、巫法術兼佛法科儀，又有人將其歸類於道教佛教化的的閭山派，是一種亦道亦佛的法主公教。（葉明生，1999，5-7）</p>
-    <img class="contentSmallImg" src="./../../../assets/ob10/07.png" alt="李聖玄道長所領導的禪和道經團展演（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">李聖玄道長所領導的禪和道經團展演（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/08.png" alt="李聖玄道長所領導的禪和道經團展演（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">李聖玄道長所領導的禪和道經團展演（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/09.png" alt="李聖玄道長所領導的禪和道經團展演之後場樂師（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">李聖玄道長所領導的禪和道經團展演之後場樂師（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/10.png" alt="三重「玉敕蓮發宮」示範「五方壓煞」（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">三重「玉敕蓮發宮」示範「五方壓煞」（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/11.png" alt="三重「玉敕蓮發宮」展演「五方壓煞」（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">三重「玉敕蓮發宮」展演「五方壓煞」（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/12.png"
-      alt="三重「玉敕蓮發宮」展演「五方壓煞」，以八角鼓、鈸、封旨、鐺子與大鑼伴奏（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >三重「玉敕蓮發宮」展演「五方壓煞」，以八角鼓、鈸、封旨、鐺子與大鑼伴奏（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/13.png"
-      alt="「三重「玉敕蓮發宮」展演「五方壓煞」，即打煞，用草席朝東西南北方用力摔打，以驅趕邪神惡煞。（李秀琴攝影）」"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >「三重「玉敕蓮發宮」展演「五方壓煞」，即打煞，用草席朝東西南北方用力摔打，以驅趕邪神惡煞。（李秀琴攝影）」</small>
-    <br />
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
+      <tbody>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/07.png" alt />
+            <br>
+            <small style="text-align:center">李聖玄道長所領導的禪和道經團展演（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/08.png" alt />
+            <br>
+            <small style="text-align:center">李聖玄道長所領導的禪和道經團展演（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/09.png" alt />
+            <br>
+            <small style="text-align:center">李聖玄道長所領導的禪和道經團展演之後場樂師（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/10.png" alt />
+            <br>
+            <small style="text-align:center">三重「玉敕蓮發宮」示範「五方壓煞」（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/11.png" alt />
+            <br>
+            <small style="text-align:center">三重「玉敕蓮發宮」展演「五方壓煞」（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/12.png" alt />
+            <br>
+            <small style="text-align:center">三重「玉敕蓮發宮」展演「五方壓煞」，以八角鼓、鈸、封旨、鐺子與大鑼伴奏（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/13.png" alt />
+            <br>
+            <small style="text-align:center">「三重「玉敕蓮發宮」展演「五方壓煞」，即打煞，用草席朝東西南北方用力摔打，以驅趕邪神惡煞。（李秀琴攝影）」</small>
+          </td>
+          <td class="tableCenter">
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
     <p>
       <strong>（五）政治大學華人宗教研究中心舉辦的「歷史與當代地方道教研究」國際學術研討會暨道醫論壇</strong>
     </p>
@@ -114,18 +154,35 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;這三天的研討會，第一天主題為「道教論壇」，首日的開幕式由學術界政治大學華人宗教研究中心的道教學資深教授李豐楙致詞，接著由在臺第六十五代天師張意將所帶領的天師府團隊，示範演出正一科儀，誦詠「六腑水」、「發露偈」、「散花林」與「十獻」共四首。後場部分則邀請樹林正一雷晉壇成員共襄盛舉。接著由張意將道長宣講「天師道『觀』生命、宇宙進而演化出天翳、道翳、中醫」。張意將提到，『觀』在道教是一種修煉法門，實乃元神出竅，由上至下無時間、無空間之所見。『觀』的修煉有層次之分，則所「知」亦有層次與之相應，道士勤勉修煉，期能成為一個真人，而獲得真知。其他相關的論文有：「尺八與觀音」、「道醫與現代預防醫學之關聯與應用」、「道教拔度科儀的終極關懷：以牽車藏為例」等。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二天則由長期在臺的美國道教學者勞格文（John Lagerway）主講「道教如何改變我對宗教的理解」、李豐楙的「玉格與天律：明初以後地方道壇受籙的權/能問題」；兩位中國學者：祁泰屢的「墓葬中的文獻與地方道教」、蕭霽虹的「從道士墓群考尋一個地方道脈的源與流」、輔大學者張超然的「本山、京闕與地方：明初龍虎山道士的多樣化與發展」、政大學者高莉芬：「創世與救世：《瑤命與皈盤》與臺灣西王母信仰」等論文。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三天的兩篇專題演講有中研院研究員張珣的「道教與媽祖信仰的關係：從天妃的朝封與道封思考國家與道教對於地方宗教的一陽一陰的雙重治理」、日本學者丸山宏的「清末臺南曾家『太上三五都功版劵職籙請法仙檢』初探」；其他單篇論文有三位大陸學者，譚偉倫：「雲南劍川阿吒力教儀式傳統與道教」、宗樹人與謝孟謙的「文武佛道：概述粵北英德市黃花鎮溪村的儀式文本與結構」、胡小柳的「從雲南文山瑤族『保畜科』看傳統道徒的祈望」；另外兩篇國內學者的報告，如林敬智的「當代府城延陵道壇－開光儀式之空間分析與網絡分析」、林振源的「臺灣北部正一派道士譜系再讀」。林振源對於林氏本家所傳承的「林厝派」道士譜在此篇論文上，針對先前勞格文所提出的林厝派與劉厝派關於道、法交換的看法提出修正，指出源自福建詔安林厝派的道法二門如何演變為臺灣北部的「新」道法二門。</p>
-    <img class="contentSmallImg" src="./../../../assets/ob10/14.png" alt="中國嗣漢張天師府道教總會」詠誦正一科儀（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">中國嗣漢張天師府道教總會」詠誦正一科儀（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/15.png" alt="道教研討會之一景（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">道教研討會之一景（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/16.png" alt="在臺第六十五代天師張意將道長（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">在臺第六十五代天師張意將道長（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/17.png" alt="政治大學華人宗教研究中心道教學者李豐楙教授（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">政治大學華人宗教研究中心道教學者李豐楙教授（李秀琴攝影）</small>
-    <br />
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
+      <tbody>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/14.png" alt />
+            <br>
+            <small style="text-align:center">中國嗣漢張天師府道教總會」詠誦正一科儀（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/15.png" alt />
+            <br>
+            <small style="text-align:center">道教研討會之一景（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/16.png" alt />
+            <br>
+            <small style="text-align:center">在臺第六十五代天師張意將道長（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/17.png" alt />
+            <br>
+            <small style="text-align:center">政治大學華人宗教研究中心道教學者李豐楙教授（李秀琴攝影）</small>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
     <p>
       <strong>（六）真理大學的道教研討會－內丹西派的源流與發展</strong>
     </p>
@@ -137,12 +194,23 @@
     <p>4.與本主題有關之其他題目。</p>
     <p></p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研討會當天共發表九篇論文，內容涵蓋：「道教西派祖庭樂山紫霞宮簡史」（四川樂山秦理明道長）、「西派在臺灣傳承及教法座談」（臺灣西派弟子，陸富發等）、「李涵虛屬於內丹雙修派嗎？」（鄭燦山，師範大學）、「李涵虛的丹法與心的作用－以《黃庭內景經註》為中心」（加藤千惠，日本立教大學）、「李西月內丹思想淵源略考」（何江濤，四川大學）、「對黃兆漢《明代道士張三豐考》一書的疑義與商榷處－兼論李西月重編《張三豐全集》」（段致成，臺北商業大學）、「晚清丹家吳天秩、汪東亭的《西遊記》內丹學－以其『孫悟空』及『如意金箍棒』說為核心的探討」（蕭進銘，真理大學）、「丹道西派《一貫天機直指》的《道德經詮釋》」（賴賢宗，臺北大學）、「當代大江西派在大陸的發展－以陳毓照為主之探討」（范鳳娥、范水旺，輔大碩士生）。</p>
-    <img class="contentSmallImg" src="./../../../assets/ob10/18.png" alt="研討會論文發表與討論中（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">研討會論文發表與討論中（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/19.png" alt="道教內丹叢書展示（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">道教內丹叢書展示（李秀琴攝影）</small>
-    <br />
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
+      <tbody>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/18.png" alt />
+            <br>
+            <small style="text-align:center">研討會論文發表與討論中（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/15.png" alt />
+            <br>
+            <small style="text-align:center">道教內丹叢書展示（李秀琴攝影）</small>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
     <p>
       <strong>二、保童女神「三奶夫人」在道、法各派之不同的科儀詮釋：</strong>
     </p>
@@ -161,35 +229,47 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下午的部份進行多種的宗教民俗活動，從14:00-16:00開始進行三奶派祈福科儀活動及普唵法教三奶派大型科儀展演及犒軍儀式。三奶派祈福科儀展演內容有：收驚安魂、法索繫緣、迎貴招財等三項。法教三奶派大型科儀展演內容有：「栽花換斗」、「造橋過限」（過「百花平安橋」）。這兩項活動主要由空中大學吳永猛教授所教導「三重聖傳福音堂」信徒，以澎湖普唵小法儀式進行展演。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;空中大學吳永猛教授，本身也是澎湖普唵派的小法傳承人，這次以「臺灣法教會」名稱，進行「栽花換斗」（求子）科儀的民俗信仰內涵，主要認為女性的元神為一株花或一叢樹；而花苞的顏色分別代表其子嗣之性別，白花為男、紅花為女；透過此儀式，可以請求神明「讓白花先開」，即先生男童，固有「換花」的動作，或不孕的女士可透過此儀式「請花」，請求神明賜子等。至於「造橋過限」即在儀式中搭一座木橋，上圖畫七星狀，經過儀式加持轉化後，該橋變化為神明之平安橋；簡言之，就是一種改運的方式，讓生命中的「關卡」（限）、或災難得以去除，在度過此橋上的關卡後，得以避開災難、解厄。</p>
     <p></p>
-    <small>
-      <sup>1</sup> 參見聯合新聞網「福建古田/陳靖姑信俗 台灣廣泛流傳」https://udn.com/news/story/7332/3991620（瀏覽日期：2020/01/10）
-    </small>
-    <br>
-    <br>
-    <img class="contentSmallImg" src="./../../../assets/ob10/20.png" alt="臺灣法教會會旗（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">臺灣法教會會旗（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/21.png" alt="古田媽祖從三嗇宮廟前起駕，讓信徒鑽轎下（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">古田媽祖從三嗇宮廟前起駕，讓信徒鑽轎下（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/22.png" alt="國際文化節學術論壇與會發言人與聽眾合影（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">國際文化節學術論壇與會發言人與聽眾合影（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/23.png" alt="古田媽祖雕像，於三重先嗇宮前庭，待起駕（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">古田媽祖雕像，於三重先嗇宮前庭，待起駕（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/24.png"
-      alt="由三重聖傳福音堂成員所展示的普唵小法團，進行百花平安橋的栽花換斗等科儀（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >由三重聖傳福音堂成員所展示的普唵小法團，進行百花平安橋的栽花換斗等科儀（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/25.png" alt="普唵小法團與教主吳永猛教授合影（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">普唵小法團與教主吳永猛教授合影（李秀琴攝影）</small>
-    <br />
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
+      <tbody>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/20.png" alt />
+            <br>
+            <small style="text-align:center">臺灣法教會會旗（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/21.png" alt />
+            <br>
+            <small style="text-align:center">古田媽祖從三嗇宮廟前起駕，讓信徒鑽轎下（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/22.png" alt />
+            <br>
+            <small style="text-align:center">國際文化節學術論壇與會發言人與聽眾合影（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/23.png" alt />
+            <br>
+            <small style="text-align:center">古田媽祖雕像，於三重先嗇宮前庭，待起駕（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/24.png" alt />
+            <br>
+            <small style="text-align:center">由三重聖傳福音堂成員所展示的普唵小法團，進行百花平安橋的栽花換斗等科儀（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/25.png" alt />
+            <br>
+            <small style="text-align:center">普唵小法團與教主吳永猛教授合影（李秀琴攝影）</small>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
     <p>
       <strong>（二）臺南菱洲宮「協和堂」閭山小法團之「過平安橋」</strong>
     </p>
@@ -197,60 +277,56 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;當天協和堂小法團成員所著服飾則以黑、白色為主，特別是白上衣、黑色褲，而且以男性為主。而普唵派成員會在頭部分別戴上一件五種顏色之一的帽套，再套上額眉，身著配色的法服，在法服上腰間的部分綁上類似三奶派或徐甲派的肚裙。普唵派小法團成員會穿上各種顏色的法服或背心，如紅、綠、黃、白、黑等代表五方軍營的顏色。法事進行時兩派法師也是以赤腳方式行之。協和堂與臺北澎湖普唵兩團，在法器的使用上也稍有不同，如普唵派會使用錫角或牛角來吹奏，但協和堂則未使用。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「協和堂」小法團雖然用了多個長柄的八角鼓（或稱八卦鼓，數目視人數的多寡而定），類似於普唵的圓形長柄鼓，但平面小鑼則兩團皆同。兩團不同之處在於協和團使用了巴鈴（金屬樂器，以兩個鈴相互碰創產生清脆的聲響），作為節奏樂器的輔助效果，筆者認為似乎扮演類似於普唵的封旨的節奏功能。普唵小法團使用多對封旨（依人數的多寡而定），音樂上作為強化節奏的功能。該派使用多對長度約30公分的長形木塊所做成的「封旨」互擊，以伴奏法事科儀。二塊封旨在儀式進行中用力互擊，可發出震撼的聲響，達到儀式上的震嚇效果。封旨的木塊上分別刻有「三十六天罡」與「七十二地煞」等字樣。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「協和堂」小法團主要業務，常見的有清壇、祝壽、調營、開光、清醮、請神、隨神轎後出巡等儀式。本次適逢玄天上帝聖誕在菱洲宮進行「造橋過限」科儀，為信徒驅邪除穢、趨吉避凶，祈求合境平安。儀式開始之前，首先搭起平安橋。在過橋之前，先誦經清淨壇場，再調請五營將軍鎮守平安橋（百花橋），造橋儀式中念造橋咒，再請12生肖守護神護持信徒，並由法師、乩童帶領信徒過平安橋繞三圈，最後請輦轎、乩童祭改，代表「過了運，過了限」。若無法到場參加儀式者，可由親朋好友攜帶其衣物視同本人到場過平安橋參加祭改儀式。</p>
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/26.png"
-      alt="菱洲宮閭山小法團「協和堂」展演中，使用八角鼓（或稱八卦鼓）、巴鈴、小平面鑼、法索。（張淑賢攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >菱洲宮閭山小法團「協和堂」展演中，使用八角鼓（或稱八卦鼓）、巴鈴、小平面鑼、法索。（張淑賢攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/27.jpg"
-      alt="平安橋外觀，平安橋四周貼五方符，橋下擺放七星燈（張淑賢攝影）"
-    />
-    <small style="display:block;text-align:center;font-size:unset;">平安橋外觀，平安橋四周貼五方符，橋下擺放七星燈（張淑賢攝影）</small>
-    <br />
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
+      <tbody>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/26.png" alt />
+            <br>
+            <small style="text-align:center">菱洲宮閭山小法團「協和堂」展演中，使用八角鼓（或稱八卦鼓）、巴鈴、小平面鑼、法索。（張淑賢攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/27.png" alt />
+            <br>
+            <small style="text-align:center">平安橋外觀，平安橋四周貼五方符，橋下擺放七星燈（張淑賢攝影）</small>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
     <p>
       <strong>（三）臺南「和勝堂」小法團之「過百花橋」－祈福、祭改與迎財神</strong>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;臺南「和勝堂」小法團此次所辦理的「過百花橋」，是基於今年「己亥年財神」（過路財神年），首次辦理之科儀。有別於其他派別的百花橋用途，儀式係以恭請上蒼財神下凡，並再請以十二元君護橋，賜福信士萬民。戊戌年（2018）臘月卄九日，和勝堂小法壇請神，設壇造橋並恭請財神下降，奉上十二清香迎請上座；再誦十二元神君咒，陸續請來子丑寅卯辰巳午未申酉戍亥等神君，鎮橋護持百花之橋。2019年，開正，初一至初六，每日午時（11:00-13:00）由小法團護持財神下殿上壇，福德正神、下壇將軍及十二元神護橋，並開壇引領信徒走過漆滿紅色的百花橋，祈福祭改。戍時（19:00-21:00），再請財神下壇進殿。六天的百花橋科儀，祈求財神加冠進爵，賜福財氣予百姓，五子登科及招財納珍。</p>
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/28.jpg"
-      alt="儀式中的臺南「和勝堂」小法團與接財神的百花橋。（張淑賢攝影）"
-    />
-    <small style="display:block;text-align:center;font-size:unset;">儀式中的臺南「和勝堂」小法團與接財神的百花橋。（張淑賢攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/29.jpg"
-      alt="臺南「和勝堂」以金元寶（置於米盒中）所鋪成的「財」字，並貼有招財進寶字樣。（張淑賢攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >臺南「和勝堂」以金元寶（置於米盒中）所鋪成的「財」字，並貼有招財進寶字樣。（張淑賢攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/30.jpg"
-      alt="迎財神的紅色百花橋，左右兩邊置滿鮮花植物，橋面佈滿銅錢。（張淑賢攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >迎財神的紅色百花橋，左右兩邊置滿鮮花植物，橋面佈滿銅錢。（張淑賢攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/31.jpg"
-      alt="法師在百花橋前進行儀式加持中，由小法團後場以八卦鼓、大鑼及巴鈴等樂器伴奏。（張淑賢攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >法師在百花橋前進行儀式加持中，由小法團後場以八卦鼓、大鑼及巴鈴等樂器伴奏。（張淑賢攝影）</small>
-    <br />
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
+      <tbody>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/28.png" alt />
+            <br>
+            <small style="text-align:center">儀式中的臺南「和勝堂」小法團與接財神的百花橋。（張淑賢攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/29.png" alt />
+            <br>
+            <small style="text-align:center">臺南「和勝堂」以金元寶（置於米盒中）所鋪成的「財」字，並貼有招財進寶字樣。（張淑賢攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/30.png" alt />
+            <br>
+            <small style="text-align:center">迎財神的紅色百花橋，左右兩邊置滿鮮花植物，橋面佈滿銅錢。（張淑賢攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/31.png" alt />
+            <br>
+            <small style="text-align:center">法師在百花橋前進行儀式加持中，由小法團後場以八卦鼓、大鑼及巴鈴等樂器伴奏。（張淑賢攝影）</small>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
     <p>
       <strong>（四）清微道派的陳靖姑－三奶夫人「過關保童」科儀</strong>
     </p>
@@ -258,28 +334,47 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「清微法壇」壇主林高文道長屬清微道宗「高」字派的輩份。法會當天，上午先舉辦聖誕誦經法會，主要為慶祝該宮廟主神蘇府大王爺聖誕；下午14:00開始舉辦「三奶夫人過關保童」科儀，一直持續到5點多鐘。儀式會場除了主壇上擺放各種供品（特別是油飯與麻油雞湯，為產婦所備的閩南習俗）、法器、經書外，還有三奶夫人的神尊。另外在廟外的長廊走道上，也放置了六個門關，每個門關註寫六個關卡名稱，總數象徵36道關卡。儀式尾端由法師帶領道士團及信眾，穿走過36個門關、跨過爐碳火及為未能出席法會現場信徒所準備的淨衣桌（擺放信徒穿過的衣物）解淨。透過道士們的除煞儀式，作為儀式結束前，象徵為信眾解除36關卡之災厄。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;當天儀式使用的科儀本有：「啟師」、「三官真經」、「北斗經」、「祝壽經」及「三奶過關科」。在唸、唱、誦的過程中，首先由兩位身穿黃色，頭戴法冠（或稱額眉）的法師服飾裝扮，進行淨壇、除煞、去邪、執法索的動作；之後道長化身為三奶夫人的裝扮，穿著帶有福州閩劇色彩的服飾，配合後場音樂與前場的唱誦，以走、唱、揮劍及吹（錫角）之各種動作，並模仿古代女性裹腳走碎步的一些姿態，令人印象深刻。林高文道長承襲其父親清微道派的科儀與法事，也承襲源自王元如、吳兆東（1892-1971）前人在臺創派的元素與風格，在科儀演法上具有濃厚福州閩劇裝扮與特色，後場音樂上也有福州戲與福州小調的風格成分。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;當天下午「三奶夫人過關保童」儀式，由林高文道長化身為臨水夫人，頭頂著福州戲的戲帽、戲服與配對的鞋子扮相，手持長弓形錫角，一面走著碎步，模仿古代婦女綁小腳走路的樣態，時而「趕路」，時而吹起錫角，或用力拋出法索恫嚇邪靈，或使劍嚇煞等動作；配上前場的擊樂器或法器，如磬、引磬、帝鐘、鐺子、鐃鈸、木魚等聲響運作與後場鑼鼓、二胡、嗩吶與揚琴等助陣，營造出一個非常有戲劇性的殺妖斬邪的氛圍。在這場儀式性的動作完成之後，由道長帶領道士團、信徒開始進行走過36門關的儀式動作。在每個代表六個關煞的門關走過六次之後，同時跨過爐火，代表厄運將遠離之意；同時也為未能出席的信徒以他們常用的衣物蓋上官印，祈求神明保護。</p>
-    <img class="contentSmallImg" src="./../../../assets/ob10/32.png" alt="兩位法師手執法索驅邪（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">兩位法師手執法索驅邪（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/33.png" alt="油飯、麻油雞酒等供品等（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">油飯、麻油雞酒等供品等（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/34.png" alt="林高文道長裝扮成臨水夫人在執法，手持七星劍（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">林高文道長裝扮成臨水夫人在執法，手持七星劍（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/35.png" alt="林高文道長裝扮成臨水夫人在執法吹錫角（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">林高文道長裝扮成臨水夫人在執法吹錫角（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/36.png"
-      alt="部分後場樂師：二胡、鈸、鼓、掛鐘、大廣絃與梆子（李秀琴攝影）"
-    />
-    <small style="display:block;text-align:center;font-size:unset;">部分後場樂師：二胡、鈸、鼓、掛鐘、大廣絃與梆子（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/37.png" alt="林高文道長帶領信眾過36個關口（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">林高文道長帶領信眾過36個關口（李秀琴攝影）</small>
-    <br />
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
+      <tbody>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/32.png" alt />
+            <br>
+            <small style="text-align:center">兩位法師手執法索驅邪（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/33.png" alt />
+            <br>
+            <small style="text-align:center">油飯、麻油雞酒等供品等（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/34.png" alt />
+            <br>
+            <small style="text-align:center">林高文道長裝扮成臨水夫人在執法，手持七星劍（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/35.png" alt />
+            <br>
+            <small style="text-align:center">林高文道長裝扮成臨水夫人在執法吹錫角（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/36.png" alt />
+            <br>
+            <small style="text-align:center">部分後場樂師：二胡、鈸、鼓、掛鐘、大廣絃與梆子（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/37.png" alt />
+            <br>
+            <small style="text-align:center">林高文道長帶領信眾過36個關口（李秀琴攝影）</small>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
     <p>
       <strong>三、清微道派「一元復始護國消災星漢普照祈安植福大聖會」的「改良式」微調法會與佛道藏三教合一的「全民祈福百年安康淡水河河祭路祭大法會」</strong>
     </p>
@@ -294,82 +389,119 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;法會的頭三天與後四天由清微「純陽宗壇」負責科演；中間的兩天（10/15-16）則由主辦單位「瑤聖宮」廟方信徒負責誦經。「純陽宗壇」在法會會場除了掛上該壇的壇號外，也掛上了「祇迓鴻庥」（恭迎神恩降臨之意）與「祇度津梁」（恭敬度化有緣眾生之意）兩幅橫布匾掛；這是林志堅道長自己所發明的用詞，也是其他清微道壇少見的。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;法會的最後一天，午前，有一個犒軍科儀，即犒賞五營兵馬，這也是一般法會結束前常見的一個小法儀式，由道長以小法的服飾與裝扮，進行對該地五營兵馬守衛鄰里的謝意。法會開始時，先邀請五營兵馬前來接受犒賞、共享盛宴。盛宴結束後，請他們速回歸其原位，不要滯留人間。負責主持小法的道士兼法師，並未著一般常見的紅頭法師服，而是在道服外面繫上一條龍虎群。該道士頭部仍是戴道士的道帽，部分也以法師龍虎裙的裝扮，吹牛角，但不使用蛇鞭（法索），只象徵性的擺在桌上，據林道長的說法是，不忍用蛇鞭暴力鞭打在無形的身上，違反慈悲的理念。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;法會期間可以看到不少，或大部分為靈山派信徒前來拜會或共襄盛舉。而瑤聖宮也因為場地寬闊的原因，在外場的多處空地上，張宮主允許全國各地的靈山派人士或信徒，前來使用；故也可看到他們所擺設的各種以不同顏色的紙花、水瓶、象徵物，呈現出各種不同的造型。靈山派人士不停地在其間靈動，或情感流露自我吟唱，或形同忘我，出現一些肢體上的各種動作，不一而足；或有類似藏傳習俗的煙供、現煮中藥茶的藥引（醫治無形）可謂創意十足，不是一般傳統正規法會可見到的場景。</p>
-    <img class="contentSmallImg" src="./../../../assets/ob10/38.jpg" alt="前場道士團儀式進行中。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">前場道士團儀式進行中。（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/39.jpg"
-      alt="道場外壇掛有「祇度津梁」（恭敬度化有緣眾生之意）字幕。（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >道場外壇掛有「祇度津梁」（恭敬度化有緣眾生之意）字幕。（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/40.jpg"
-      alt="首日法會開始之時，林道長為臺灣象徵圖，進行點燈儀式。（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >首日法會開始之時，林道長為臺灣象徵圖，進行點燈儀式。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/41.jpg" alt="瑤聖宮宮主所得到五母啟示的法會備物清單。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">瑤聖宮宮主所得到五母啟示的法會備物清單。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/42.jpg" alt="白色遊輪造型。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">白色遊輪造型。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/43.jpg" alt="彩色五母船造型。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">彩色五母船造型。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/44.jpg" alt="灰色油輪造型。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">灰色油輪造型。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/45.jpg" alt="飛碟造型。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">飛碟造型。（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/46.jpg"
-      alt="犒軍儀式的儀式桌：牛角、五營令旗、課誦本、鐺子。（李秀琴攝影）"
-    />
-    <small style="display:block;text-align:center;font-size:unset;">犒軍儀式的儀式桌：牛角、五營令旗、課誦本、鐺子。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/47.jpg" alt="貼於法船邊之護送牒文。（李秀琴攝影)）" />
-    <small style="display:block;text-align:center;font-size:unset;">貼於法船邊之護送牒文。（李秀琴攝影)）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/48.jpg"
-      alt="犒軍儀式桌：牛角、五營令旗、木魚、法劍、法索、課誦本、法鈴、奉旨。（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >犒軍儀式桌：牛角、五營令旗、木魚、法劍、法索、課誦本、法鈴、奉旨。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/49.jpg" alt="犒軍前場中尊為法師，著龍虎裙。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">犒軍前場中尊為法師，著龍虎裙。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/50.jpg" alt="犒軍儀式之後場樂師。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">犒軍儀式之後場樂師。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/51.jpg" alt="西拉雅之阿立祖祭屋。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">西拉雅之阿立祖祭屋。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/52.png" alt="後場－武場樂師。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">後場－武場樂師。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/53.jpg" alt="中尊林志堅道長進行普施科儀。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">中尊林志堅道長進行普施科儀。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/54.jpg" alt="法會的最外壇提供靈山派人士無償使用之法場。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">法會的最外壇提供靈山派人士無償使用之法場。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/55.jpg" alt="法會的最外壇提供靈山派人士無償使用之法場。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">法會的最外壇提供靈山派人士無償使用之法場。（李秀琴攝影）</small>
-    <br />
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
+      <tbody>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/38.png" alt />
+            <br>
+            <small style="text-align:center">前場道士團儀式進行中。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/39.png" alt />
+            <br>
+            <small style="text-align:center">道場外壇掛有「祇度津梁」（恭敬度化有緣眾生之意）字幕。（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/40.png" alt />
+            <br>
+            <small style="text-align:center">首日法會開始之時，林道長為臺灣象徵圖，進行點燈儀式。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/41.png" alt />
+            <br>
+            <small style="text-align:center">瑤聖宮宮主所得到五母啟示的法會備物清單。（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/42.png" alt />
+            <br>
+            <small style="text-align:center">白色遊輪造型。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/43.png" alt />
+            <br>
+            <small style="text-align:center">彩色五母船造型。（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/44.png" alt />
+            <br>
+            <small style="text-align:center">灰色油輪造型。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/45.png" alt />
+            <br>
+            <small style="text-align:center">飛碟造型。（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/46.png" alt />
+            <br>
+            <small style="text-align:center">犒軍儀式的儀式桌：牛角、五營令旗、課誦本、鐺子。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/47.png" alt />
+            <br>
+            <small style="text-align:center">貼於法船邊之護送牒文。（李秀琴攝影</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/48.png" alt />
+            <br>
+            <small style="text-align:center">犒軍儀式桌：牛角、五營令旗、木魚、法劍、法索、課誦本、法鈴、奉旨。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/49.png" alt />
+            <br>
+            <small style="text-align:center">犒軍前場中尊為法師，著龍虎裙。（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/50.png" alt />
+            <br>
+            <small style="text-align:center">犒軍儀式之後場樂師。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/51.png" alt />
+            <br>
+            <small style="text-align:center">西拉雅之阿立祖祭屋。（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/52.png" alt />
+            <br>
+            <small style="text-align:center">後場－武場樂師。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/53.png" alt />
+            <br>
+            <small style="text-align:center">中尊林志堅道長進行普施科儀。（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/54.png" alt />
+            <br>
+            <small style="text-align:center">法會的最外壇提供靈山派人士無償使用之法場。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/55.png" alt />
+            <br>
+            <small style="text-align:center">法會的最外壇提供靈山派人士無償使用之法場。（李秀琴攝影）</small>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
     <p>
       <strong>（二）佛道藏三教合一的「全民祈福百年安康淡水河河祭路祭大法會」</strong>
     </p>
@@ -382,96 +514,95 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在法會的最後一天下午，蔡道長進行登壇普施，約於五點鐘左右，各宗教團體，輪流誦經請亡靈趕快登上即將駛離的法船。在一陣陣的鞭炮催響聲中，法船開始燃燒，逐漸駛離碼頭岸邊，在一片煙霧中消失於水上。蔡道長（道號圓平；法號明佑），也是一位很另類的道長兼法師，其彰化住家有自設的宮廟（「華壇福春宮」），目前也是宗教聯盟成員之一。據蔡道長言，他於2010年與30多位師兄弟在自家宮廟同時皈依來自河南的全真道長石永田（為河南鹿邑縣第18代全真道士，目前約80多歲）。當時拜師的一批師兄弟，有些人後來自行去大陸學習科儀，如來自嘉義民雄的何金鳳道長，可能是唯一前往河南學習全真道的一位。大部份的成員只行拜師禮，並未學習道教科儀部分，因為老師沒教，也沒有進一步的學習規劃。至於法教儀式部分，據蔡道長自言，很多是自己學習而來。所以這三天的道法教儀式，並沒有一般所常見的有前場道士與後場樂師的道士團，而是兩位個人道士分別獨立「作業」的儀式展演。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三天的法會期間，主辦單位準備了數量頗多的水燈與兩艘法船：【西方船】與【祈福船】，並在第一、二天晚上放很多小水燈於淡水河上；第三天黃昏時則將兩艘法船（內放置大量紙錢、飲料）移放置於河上，在等待眾靈登船之後，於鞭炮聲中燃燒於水上，開往西方極樂世界。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;法會期間有多位政治人物，如前立法院長王金平、新北市長侯友宜、立法委員等都到場參拜祈福。此外主辦單位在三天法會發放一千五百個孝親平安袋，袋內書籤印有《孝經》孝行語錄，寓意農曆7月是佛教的「教孝月」。法會過程有誦經、恭送祈福船及送聖儀式，藉以超渡亡魂與先靈。</p>
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/56.jpg"
-      alt="儀式中所準備的法船：【西方船】，將在法會結束之前，置於淡水河上，載上前來聞經聽法的眾靈焚燃之於河上。（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >儀式中所準備的法船：【西方船】，將在法會結束之前，置於淡水河上，載上前來聞經聽法的眾靈焚燃之於河上。（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/57.jpg"
-      alt="儀式中所準備的法船：【祈福船】，將在法會結束之前，置於淡水河上，載上前來聞經聽法的眾靈焚燃之於河上。（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >儀式中所準備的法船：【祈福船】，將在法會結束之前，置於淡水河上，載上前來聞經聽法的眾靈焚燃之於河上。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/58.jpg" alt="【祈福船】，將用紅筆開始在船邊開光點睛儀式。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">【祈福船】，將用紅筆開始在船邊開光點睛儀式。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/59.png" alt="佛壇法會一景，高僧正在唸誦佛教經文。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">佛壇法會一景，高僧正在唸誦佛教經文。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/60.jpg" alt="藏傳四臂觀音菩薩座像。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">藏傳四臂觀音菩薩座像。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/61.png" alt="陳瑞南道長法事進行中。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">陳瑞南道長法事進行中。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/62.png" alt="藏傳佛教團體進行儀式念誦。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">藏傳佛教團體進行儀式念誦。（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/63.png"
-      alt="佛教（賢明法師，左）、道教（陳瑞南道長，右）與道法教（蔡信平道長兼法師，中後）三人在道壇同框。（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >佛教（賢明法師，左）、道教（陳瑞南道長，右）與道法教（蔡信平道長兼法師，中後）三人在道壇同框。（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/64.png"
-      alt="陳道長使用之藏傳法器：金剛杵（代表陽、慈悲）、法鈴（代表陰、智慧）。（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >陳道長使用之藏傳法器：金剛杵（代表陽、慈悲）、法鈴（代表陰、智慧）。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/65.png" alt="道壇榜文（中元賬濟路祭水祭）。（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">道壇榜文（中元賬濟路祭水祭）。（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/66.jpg"
-      alt="法壇旗幟與彩色轉經輪（或道教所稱的轉車藏，亦稱狀），讓從水路、陸路來的陰靈可暫時聚集此狀下，法會期間得以聽經聞法。陳瑞南道長（右）儀式進行中。（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >法壇旗幟與彩色轉經輪（或道教所稱的轉車藏，亦稱狀），讓從水路、陸路來的陰靈可暫時聚集此狀下，法會期間得以聽經聞法。陳瑞南道長（右）儀式進行中。（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/67.png"
-      alt="蔡道長示範雙手各握法器各一部分，合之顯示一個「門」字，作為開啟碼頭門、水門、地獄門、天門的重要法器。（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >蔡道長示範雙手各握法器各一部分，合之顯示一個「門」字，作為開啟碼頭門、水門、地獄門、天門的重要法器。（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/68.jpg"
-      alt="在淡水河上燃燒著已離岸的法船，載著亡靈開往西方極樂世界。（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >在淡水河上燃燒著已離岸的法船，載著亡靈開往西方極樂世界。（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/69.jpg"
-      alt="在炮竹煙霧瀰漫中的淡水河上燃燒著已被駛出的法船，開往西方極樂世界。（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >在炮竹煙霧瀰漫中的淡水河上燃燒著已被駛出的法船，開往西方極樂世界。（李秀琴攝影）</small>
-    <br />
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
+      <tbody>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/56.png" alt />
+            <br>
+            <small style="text-align:center">儀式中所準備的法船：【西方船】，將在法會結束之前，置於淡水河上，載上前來聞經聽法的眾靈焚燃之於河上。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/57.png" alt />
+            <br>
+            <small style="text-align:center">儀式中所準備的法船：【祈福船】，將在法會結束之前，置於淡水河上，載上前來聞經聽法的眾靈焚燃之於河上。（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/58.png" alt />
+            <br>
+            <small style="text-align:center">【祈福船】，將用紅筆開始在船邊開光點睛儀式。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/59.png" alt />
+            <br>
+            <small style="text-align:center">佛壇法會一景，高僧正在唸誦佛教經文。（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/60.png" alt />
+            <br>
+            <small style="text-align:center">藏傳四臂觀音菩薩座像。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/61.png" alt />
+            <br>
+            <small style="text-align:center">陳瑞南道長法事進行中。（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/62.png" alt />
+            <br>
+            <small style="text-align:center">藏傳佛教團體進行儀式念誦。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/63.png" alt />
+            <br>
+            <small style="text-align:center">佛教（賢明法師，左）、道教（陳瑞南道長，右）與道法教（蔡信平道長兼法師，中後）三人在道壇同框。（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/64.png" alt />
+            <br>
+            <small style="text-align:center">陳道長使用之藏傳法器：金剛杵（代表陽、慈悲）、法鈴（代表陰、智慧）。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/65.png" alt />
+            <br>
+            <small style="text-align:center">道壇榜文（中元賬濟路祭水祭）。（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/66.png" alt />
+            <br>
+            <small style="text-align:center">法壇旗幟與彩色轉經輪（或道教所稱的轉車藏，亦稱狀），讓從水路、陸路來的陰靈可暫時聚集此狀下，法會期間得以聽經聞法。陳瑞南道長（右）儀式進行中。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/67.png" alt />
+            <br>
+            <small style="text-align:center">蔡道長示範雙手各握法器各一部分，合之顯示一個「門」字，作為開啟碼頭門、水門、地獄門、天門的重要法器。（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/68.png" alt />
+            <br>
+            <small style="text-align:center">在淡水河上燃燒著已離岸的法船，載著亡靈開往西方極樂世界。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/69.png" alt />
+            <br>
+            <small style="text-align:center">在炮竹煙霧瀰漫中的淡水河上燃燒著已被駛出的法船，開往西方極樂世界。（李秀琴攝影）</small>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
     <p>
       <strong>四、傳統北部正一道派的科演－樹林濟安宮東遷百年五朝清醮</strong>
     </p>
@@ -480,66 +611,95 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「樹林濟安宮」大道宮廟，因欣逢建廟230年，且東遷現址已百年，逐起建「五朝清醮」之因緣，讓已睽違32年的五朝清醮大典再次登場。為祈求風調雨順、國泰民安，12月5日至9日舉行「東遷百年、五朝清醮」大典，除遵循古禮進行，並有來自全國各地上百間宮廟盛情贊醮，系列活動由11月20日的北臺灣最大「米龍點睛」熱鬧展開。「米龍點睛」為傳統道教安龍科儀的一種，以安鎮五方神龍，重建破壞的的宇宙秩序。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外亦舉辦保生大帝國際學術研討會，邀請六國學者及臺灣學者發表論文。另有民間社團亦受邀參與盛會，如各式陣頭：宋江陣、府城鎮樂社、落地吹、十二婆姐、龍鳳閣、十二花擔、保生大帝陣頭、歌仔戲團（蘭陽戲劇團、春草）。臺灣多個南管館閣與樂師，也在這幾天的活動中，在科儀中斷時，進行穿插演出。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;這次所建的醮儀，稱清醮又稱祈安醮，為祭神之意，是對天上神佛的庇祐表示感謝，同時祈求平安而舉行的祭典，也是一種知福惜福、知恩感恩的表現。依醮期的長短有一朝醮、二朝醮、三朝醮、五朝醮等，「朝」指天數，五朝醮即五天。此次建醮大祭典，是濟安宮廟史上第三次建醮，距離上次廟方建醮相隔32年。建醮期間豎立燈篙，用來召請四方神明和孤魂野鬼。招神明時為在竹燈篙上掛天燈及神幡，引鬼魂時則掛七星燈和孤魂幡。從今年12月5日起一連5天的醮典活動，5日舉行科儀禮法，6日到浮州橋下放蓮花燈，7日晚上精彩的歌舞表演，8日到淡水河施放水燈，9日最後有歌仔戲演出大道公傳。法會期間更設有多個法場，分別安置於附近多個宮廟同時舉行；期間更有來自全臺各地交陪宮廟代表前來祝賀，及香港的全真道士一團人30位到宮廟觀摩。</p>
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/70.png"
-      alt="豎燈篙召請四方神祇和孤魂野鬼，並表歡迎共襄盛舉之意。（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >豎燈篙召請四方神祇和孤魂野鬼，並表歡迎共襄盛舉之意。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/71.png" alt="法場上的虎爺將軍（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">法場上的虎爺將軍（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/72.png"
-      alt="以三萬斤米所鋪成之米龍與可動式龍頭（結合最新科技）。（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >以三萬斤米所鋪成之米龍與可動式龍頭（結合最新科技）。（李秀琴攝影）</small>
-    <br />
-    <img
-      class="contentSmallImg"
-      src="./../../../assets/ob10/73.png"
-      alt="由大士爺坐鎮督視法場「寒林所」之秩序（即法會其間無主孤魂之住所）。（李秀琴攝影）"
-    />
-    <small
-      style="display:block;text-align:center;font-size:unset;"
-    >由大士爺坐鎮督視法場「寒林所」之秩序（即法會其間無主孤魂之住所）。（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/74.png" alt="正一道士團列隊至虎爺壇（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">正一道士團列隊至虎爺壇（李秀琴攝影）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/75.png" alt="正一道士作法於虎爺壇前（李秀琴攝影）" />
-    <small style="display:block;text-align:center;font-size:unset;">正一道士作法於虎爺壇前（李秀琴攝影）</small>
-    <br />
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
+      <tbody>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/70.png" alt />
+            <br>
+            <small style="text-align:center">豎燈篙召請四方神祇和孤魂野鬼，並表歡迎共襄盛舉之意。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/71.png" alt />
+            <br>
+            <small style="text-align:center">法場上的虎爺將軍（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/72.png" alt />
+            <br>
+            <small style="text-align:center">以三萬斤米所鋪成之米龍與可動式龍頭（結合最新科技）。（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/73.png" alt />
+            <br>
+            <small style="text-align:center">由大士爺坐鎮督視法場「寒林所」之秩序（即法會其間無主孤魂之住所）。（李秀琴攝影）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/74.png" alt />
+            <br>
+            <small style="text-align:center">正一道士團列隊至虎爺壇（李秀琴攝影）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/75.png" alt />
+            <br>
+            <small style="text-align:center">正一道士作法於虎爺壇前（李秀琴攝影）</small>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
     <p>
       <strong>五、「全真明德壇」與「全真明德道院」</strong>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;位於臺北三重的「明德道壇」，自2007年在臺北三重開設「玉勅明德壇」以來，歷經多年，終於在2016年於宜蘭礁溪動土建設正式道院建築。歷經三年，終於在2019年己亥年下元節舉行入火安座儀式，並正式更名「明德道院」，因此配合舉辦長達五天的大型入火安座法會以謝土慶成，祈禱地脈昌隆、安定原本建設過程中擾動的土地秩序，同時也一併為善信禮斗祈福。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;礁溪明德道院前身為三重「玉勅明德壇」，奉祀太上老君、天池千歲與天師真人等神祇，2019年下元節正式搬遷到宜蘭礁溪新建的道場入火安座。主持蘇西明道長（全真派法名為蘇至明）原為臺灣北部林厝派正一道士，並兼習臺南閭山小法。2014年前往中國四川鶴鳴山拜住持楊明江為師；於2016年太上老君聖誕日正式冠巾，成為全真道士的一份子。蘇道長在前後多次分批的前往四川學習之下，受封為中國四川大邑縣鶴鳴山全真龍門派丹臺碧洞宗第21代玄裔弟子。蘇道長將西蜀全真道科儀傳承回臺灣，其所使用之科儀出自《廣成儀制》，而唱韻則為「廣成韻」及「全真正韻」。因此，加上先前習得的正一道法、閭山之外，今日明德院已成為為正一、閭山與全真三派法事皆運用且傳授之特殊道壇。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大陸全真道教音樂使用樂器較為多元，音誦常用法器以打擊樂器為主，包括鐺子（或稱雲鐺，單面或雙面，直徑約10公分的小銅鑼，懸於木框上或圓形金屬框上，用小槌敲敲擊出聲）、鑔（即小鈸）、木魚、鐘鈴、鼓、雙鐘（碰鈴或雙星）、鐃、大鈸等，另有部分管弦樂伴奏，如笛子、古箏、二胡等國樂器；但是臺灣的全真道觀或道壇基本上只操作前場打擊樂器，如雙面鐺子、大鈸、引磬、鼓、吊鐘、小平面鑼、碰鈴等，並由前場道士兼任。後場少有管弦樂器加入，因為人才的缺乏；雖然臺灣國樂界不缺乏演奏人才，但他們基本上不會投入這種不是專業的行列。本蹲點記錄的法會主要以中國四川傳承《廣成儀制》科儀行法，是該團體第一次舉行的連續五日科儀的大法會。</p>
-    <img class="contentSmallImg" src="./../../../assets/ob10/76.png" alt="此全真科儀先於師堂開始（明德道院提供）" />
-    <small style="display:block;text-align:center;font-size:unset;">此全真科儀先於師堂開始（明德道院提供）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/77.png" alt="發燭以使神光照耀（明德道院提供）" />
-    <small style="display:block;text-align:center;font-size:unset;">發燭以使神光照耀（明德道院提供）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/78.png" alt="蘇志明道長以鏡子將光照至神像臉上開光（明德道院提供）" />
-    <small style="display:block;text-align:center;font-size:unset;">蘇志明道長以鏡子將光照至神像臉上開光（明德道院提供）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/79.png" alt="九宮皆有不同燈圖（明德道院提供）" />
-    <small style="display:block;text-align:center;font-size:unset;">九宮皆有不同燈圖（明德道院提供）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/80.png" alt="高功讀悃意（明德道院提供）" />
-    <small style="display:block;text-align:center;font-size:unset;">高功讀悃意（明德道院提供）</small>
-    <br />
-    <img class="contentSmallImg" src="./../../../assets/ob10/81.png" alt="以招魂幡召請遠近孤魂（明德道院提供）" />
-    <small style="display:block;text-align:center;font-size:unset;">以招魂幡召請遠近孤魂（明德道院提供）</small>
-    <br />
+
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
+      <tbody>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/76.png" alt />
+            <br>
+            <small style="text-align:center">此全真科儀先於師堂開始（明德道院提供）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/77.png" alt />
+            <br>
+            <small style="text-align:center">發燭以使神光照耀（明德道院提供）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/78.png" alt />
+            <br>
+            <small style="text-align:center">蘇志明道長以鏡子將光照至神像臉上開光（明德道院提供）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/79.png" alt />
+            <br>
+            <small style="text-align:center">九宮皆有不同燈圖（明德道院提供）</small>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/80.png" alt />
+            <br>
+            <small style="text-align:center">高功讀悃意（明德道院提供）</small>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob10/81.png" alt />
+            <br>
+            <small style="text-align:center">以招魂幡召請遠近孤魂（明德道院提供）</small>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p></p>
     <h3>
       <strong>結語</strong>
     </h3>
@@ -572,5 +732,10 @@
       胡明揚（2020/01/10）。福建古田/陳靖姑信俗 台灣廣泛流傳。
       <strong>聯合新聞網</strong>。取自https://udn.com/news/story/7332/3991620
     </p>
+    <hr>
+    <p></p>
+    <small>
+      <sup>1</sup> 參見聯合新聞網「福建古田/陳靖姑信俗 台灣廣泛流傳」https://udn.com/news/story/7332/3991620（瀏覽日期：2020/01/10）
+    </small>
   </div>
 </template>
