@@ -20,7 +20,7 @@ import Observed12 from './observed_12.vue';
 
 const tabs = [
   // {
-  //   name: '藝術(當代創作)音樂',
+  //   name: '藝術（當代創作）音樂',
   //   autor: '',
   //   component: ObservedPreface2,
   // },

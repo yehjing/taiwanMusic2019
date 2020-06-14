@@ -20,7 +20,7 @@ import Video12 from './video_12.vue';
 
 const tabs = [
   // {
-  //   name: '藝術(當代創作)音樂(序)',
+  //   name: '藝術（當代創作）音樂(序)',
   //   autor: '',
   //   component: VideoPreface2,
   // },

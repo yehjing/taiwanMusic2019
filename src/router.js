@@ -157,7 +157,7 @@ export default new VueRouter({
           meta: { isPreface: true },
         },
         {
-          name: '藝術(當代創作)音樂',
+          name: '藝術（當代創作）音樂',
           path: 'Observed_01',
           component: Observed_01,
           meta: { isPreface: true },
@@ -225,12 +225,12 @@ export default new VueRouter({
           component: Observed_10,
         },
         {
-          name: '藝術(當代創作)音樂 / 國樂',
+          name: '藝術（當代創作）音樂 / 國樂',
           path: 'Observed_11',
           component: Observed_11,
         },
         {
-          name: '藝術(當代創作)音樂 / 西樂及混合編制',
+          name: '藝術（當代創作）音樂 / 西樂及混合編制',
           path: 'Observed_12',
           component: Observed_12,
         },
@@ -257,7 +257,7 @@ export default new VueRouter({
           component: Comment_1,
         },
         {
-          name: '2019年度臺灣藝術(當代創作)音樂文化與生態論述',
+          name: '2019年度臺灣藝術（當代創作）音樂文化與生態論述',
           path: 'comment_2',
           component: Comment_2,
         },
@@ -285,7 +285,7 @@ export default new VueRouter({
           meta: { isPreface: true },
         },
         {
-          name: '藝術(當代創作)音樂',
+          name: '藝術（當代創作）音樂',
           path: 'videoRecord_01',
           component: VideoRecord_01,
           meta: { isPreface: true },
@@ -353,12 +353,12 @@ export default new VueRouter({
           component: VideoRecord_10,
         },
         {
-          name: '藝術(當代創作)音樂 / 國樂',
+          name: '藝術（當代創作）音樂 / 國樂',
           path: 'videoRecord_11',
           component: VideoRecord_11,
         },
         {
-          name: '藝術(當代創作)音樂 / 西樂及混合編制',
+          name: '藝術（當代創作）音樂 / 西樂及混合編制',
           path: 'videoRecord_12',
           component: VideoRecord_12,
         },

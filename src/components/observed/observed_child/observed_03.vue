@@ -24,7 +24,7 @@ const tabs = [
   //   component: ObservedPreface4,
   // },
   {
-    name: '2019年度跨界音樂及其他活動觀察與評介',
+    name: '2019年度跨界音樂與其他之活動觀察與評介',
     autor: '蔡宗德',
     component: Observed14,
     path: 'observed_14',

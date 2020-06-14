@@ -5,7 +5,7 @@
         傳統音樂
       </div>
       <div class="middleItem noLeaf" :class="activeName === 'videoRecord_01' ? 'active' :''" @click="clickLink('videoRecord_01')">
-        藝術(當代創作)音樂
+        藝術（當代創作）音樂
       </div>
       <div class="middleItem noLeaf" :class="activeName === 'videoRecord_02' ? 'active' :''" @click="clickLink('videoRecord_02')">
         流行音樂
