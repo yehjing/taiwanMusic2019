@@ -1,5 +1,8 @@
 module.exports = {
-  publicPath: '/taiwanMusic2019/dist/',
+  // github
+  // publicPath: '/taiwanMusic2019/dist/',
+  // 線上發布
+  publicPath: '/',
   // publicPath: process.env.NODE_ENV === 'production'
   //   ? 'dist/'
   //   : '/',
