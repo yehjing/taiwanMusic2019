@@ -1,8 +1,8 @@
 module.exports = {
   // github
   // publicPath: '/taiwanMusic2019/dist/',
-  // 線上發布
-  publicPath: '/',
+  // 線上發布 多了一層2019的資料夾
+  publicPath: '/2019/',
   // publicPath: process.env.NODE_ENV === 'production'
   //   ? 'dist/'
   //   : '/',
