@@ -128,7 +128,7 @@
       src="./../../../assets/comment2/01.png"
       alt="2019/10/24、26名家系列「鋒芒新銳」音樂會海報（國家交響樂團提供）"
     />
-    <small style="display:block;text-align:center;font-size:unset;">
+    <small style="display:block;text-align:center;">
       2019/10/24、26名家系列「鋒芒新銳」音樂會海報（國家交響樂團提供）
     </small>
     <br />
@@ -148,7 +148,7 @@
       src="./../../../assets/comment2/02.jpg"
       alt="2019/6/14、21「藝號人物－盧亮輝」音樂會海報（臺灣國樂團提供）"
     />
-    <small style="display:block;text-align:center;font-size:unset;"
+    <small style="display:block;text-align:center;"
       >2019/6/14、21「藝號人物－盧亮輝」音樂會海報（臺灣國樂團提供）</small
     >
     <br />
@@ -172,7 +172,7 @@
       src="./../../../assets/comment2/03.png"
       alt="臺北市音樂季「英雄時代－殷巴爾的馬勒傳奇」主視覺（臺北市立交響樂團提供）"
     />
-    <small style="display:block;text-align:center;font-size:unset;"
+    <small style="display:block;text-align:center;"
       >臺北市音樂季「英雄時代－殷巴爾的馬勒傳奇」主視覺（臺北市立交響樂團提供）</small
     >
     <br />
@@ -243,7 +243,7 @@
       src="./../../../assets/comment2/04.jpg"
       alt="2019/6/30「聽．蟬」音樂會海報（對位室內樂團提供）"
     />
-    <small style="display:block;text-align:center;font-size:unset;"
+    <small style="display:block;text-align:center;"
       >2019/6/30「聽．蟬」音樂會海報（對位室內樂團提供）</small
     >
     <br />
@@ -330,7 +330,7 @@
       src="./../../../assets/comment2/05.jpg"
       alt="2019/6/28「悅響之擊－2019高雄現代擊樂節」音樂會海報（薪傳打擊樂團提供）"
     />
-    <small style="display:block;text-align:center;font-size:unset;"
+    <small style="display:block;text-align:center;"
       >2019/6/28「悅響之擊－2019高雄現代擊樂節」音樂會海報（薪傳打擊樂團提供）</small
     >
     <br />
@@ -368,7 +368,7 @@
       src="./../../../assets/comment2/06.jpg"
       alt="2019/5/4「台韓之音」作品交流音樂會海報（台灣作曲家協會提供）"
     />
-    <small style="display:block;text-align:center;font-size:unset;"
+    <small style="display:block;text-align:center;"
       >2019/5/4「台韓之音」作品交流音樂會海報（台灣作曲家協會提供）</small
     >
     <br />
@@ -377,7 +377,7 @@
       src="./../../../assets/comment2/07.jpg"
       alt="2019/5/8「創樂會 東方紀元 韓國－臺灣 交流」現代音樂節海報（台灣作曲家協會提供）"
     />
-    <small style="display:block;text-align:center;font-size:unset;">
+    <small style="display:block;text-align:center;">
       2019/5/8「創樂會 東方紀元 韓國－臺灣 交流」現代音樂節海報（台灣作曲家協會提供）
     </small>
     <br />
@@ -393,7 +393,7 @@
       src="./../../../assets/comment2/08.jpg"
       alt="2019/11/23、30「音樂台灣2019作曲聯展」音樂會海報（亞洲作曲家聯盟台灣總會提供）"
     />
-    <small style="display:block;text-align:center;font-size:unset;">
+    <small style="display:block;text-align:center;">
       2019/11/23、30「音樂台灣2019作曲聯展」音樂會海報（亞洲作曲家聯盟台灣總會提供）
     </small>
     <br />
@@ -407,7 +407,7 @@
       src="./../../../assets/comment2/09.jpg"
       alt="2019/10/26-27「臺北國際現代音樂節」音樂會海報（中華民國現代音樂協會提供）"
     />
-    <small style="display:block;text-align:center;font-size:unset;">
+    <small style="display:block;text-align:center;">
       2019/10/26-27「臺北國際現代音樂節」音樂會海報（中華民國現代音樂協會提供）
     </small>
     <br />
@@ -442,7 +442,7 @@
       src="./../../../assets/comment2/10.jpg"
       alt="2019/5/17「不識東西」音樂會海報（雙溪樂集提供）"
     />
-    <small style="display:block;text-align:center;font-size:unset;">
+    <small style="display:block;text-align:center;">
       2019/5/17「不識東西」音樂會海報（雙溪樂集提供）
     </small>
     <br />
@@ -471,7 +471,7 @@
       src="./../../../assets/comment2/11.jpg"
       alt="2019/11/22「黑種籽們」音樂會海報（黑種籽單簧管合奏團提供）"
     />
-    <small style="display:block;text-align:center;font-size:unset;">
+    <small style="display:block;text-align:center;">
       2019/11/22「黑種籽們」音樂會海報（黑種籽單簧管合奏團提供）
     </small>
     <br />
@@ -497,7 +497,7 @@
       src="./../../../assets/comment2/12.jpg"
       alt="2019/12/14「四月望雨－華人女作曲家風情畫」音樂會海報"
     />
-    <small style="display:block;text-align:center;font-size:unset;">
+    <small style="display:block;text-align:center;">
       2019/12/14「四月望雨－華人女作曲家風情畫」音樂會海報
       <br>
       （長榮交響樂團提供）
@@ -544,6 +544,9 @@
 @media (max-width: 576px) {
   .mobileSmall{
     line-height: 1;
+  }
+  img{
+    width: 80% !important;
   }
 }
 </style>

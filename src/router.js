@@ -267,7 +267,7 @@ export default new VueRouter({
           component: Comment_3,
         },
         {
-          name: '2019年度臺灣跨界音樂與其他文化與生態論述',
+          name: '2019年度臺灣跨界音樂與其他音樂文化與生態論述',
           path: 'comment_4',
           component: Comment_4,
         },

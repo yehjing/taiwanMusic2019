@@ -136,7 +136,7 @@
           <td class="tableCenter">
             <img style="max-width:100%" src="./../../../assets/ob10/13.png" alt />
             <br>
-            <small style="text-align:center">「三重「玉敕蓮發宮」展演「五方壓煞」，即打煞，用草席朝東西南北方用力摔打，以驅趕邪神惡煞。（李秀琴攝影）」</small>
+            <small style="text-align:center">三重「玉敕蓮發宮」展演「五方壓煞」，即打煞，用草席朝東西南北方用力摔打，以驅趕邪神惡煞。（李秀琴攝影）</small>
           </td>
           <td class="tableCenter">
           </td>
@@ -448,7 +448,7 @@
           <td class="tableCenter">
             <img style="max-width:100%" src="./../../../assets/ob10/47.png" alt />
             <br>
-            <small style="text-align:center">貼於法船邊之護送牒文。（李秀琴攝影</small>
+            <small style="text-align:center">貼於法船邊之護送牒文。（李秀琴攝影）</small>
           </td>
         </tr>
         <tr>
