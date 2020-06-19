@@ -3920,8 +3920,7 @@
             <p class="tableCenter">135</p>
           </td>
           <td width="77">
-            <p>10/05-</p>
-            <p>10/13</p>
+            <p>10/05-10/13</p>
           </td>
           <td width="250">
             <p>2019亞太傳統藝術節：大地慶典－農村節慶與無形文化資產的對話</p>
@@ -11064,13 +11063,13 @@
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;傳統上唸歌仔之歌詞體制不外乎「七字仔」、「雜唸仔」，或「七字仔」與「雜唸仔」之混合形式三大類。但2019年的觀察，唸歌仔唱詞皆七字仔形式，亦即皆四句聯，但會隨機增加虛字襯詞，讓音樂更為流暢，表達更為貼切自然，此以楊秀卿最為明顯。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;至於創作文本向來就是用整齊規則的四句聯形式創作的，如2019/04/06楊秀卿說唱藝術團，在凱達格蘭大道演出的「2019總統府音樂會（Presidential Office Concert）－『總統府建築百年慶』〈秀卿阿嬤唸歌詩〉」中，楊秀卿、儲見智以四句聯形式創作的《總統府建築百年慶》，描述總統府建築堅定的屹立在臺灣這片土地上，不受地震與颱風動搖，守護國家與人民。其唱詞如下（僅呈現其中2葩）：</p>
-    <p class="bkt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;講（起咱一）百年前的台灣，總統府起（了）上界懸，<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（為了）管理制度的完滿，守護（遮个）土地真安全。<br><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;守護土地顧人民，（予咱在總統府）治國理政（，是加誠）有精神，<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;做事項項真謹慎，感謝總統府（的）大恩。</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又如2019/05/30，微笑唸歌團在臺中文學館所舉辦的「第八屆臺中文學獎『文學，中途下車－山海屯城文字風景』徵件起跑記者會」中，以四句聯形式創作的《唸唱文學臺中》，其唱詞如下（僅呈現其中1葩）：</p>
-    <p class="bkt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;臺中文學獎今年是第八屆，通知予恁逐家知，<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;無論是中文、台文、客語攏會使，文學創作作陣來。</p>
+    <p class="bui">講（起咱一）百年前的台灣，總統府起（了）上界懸，<br>
+    （為了）管理制度的完滿，守護（遮个）土地真安全。<br><br>
+    守護土地顧人民，（予咱在總統府）治國理政（，是加誠）有精神，<br>
+    做事項項真謹慎，感謝總統府（的）大恩。</p>
+    <p>又如2019/05/30，微笑唸歌團在臺中文學館所舉辦的「第八屆臺中文學獎『文學，中途下車－山海屯城文字風景』徵件起跑記者會」中，以四句聯形式創作的《唸唱文學臺中》，其唱詞如下（僅呈現其中1葩）：</p>
+    <p class="bui">臺中文學獎今年是第八屆，通知予恁逐家知，<br>
+    無論是中文、台文、客語攏會使，文學創作作陣來。</p>
     <p>
       <strong>（十）伴奏樂器</strong>
     </p>
@@ -11085,32 +11084,32 @@
       <tbody>
         <tr>
           <td class="tableCenter">
-            <img style="max-width:100%" src="./../../../assets/ob3/01.jpg" alt />
-            <p style="text-align:center">月琴（02/05）(黃玲玉提供)</p>
+            <img style="max-width:100%" src="./../../../assets/ob3/01.jpg" alt /><br>
+            <samll style="text-align:center">月琴（02/05）(黃玲玉提供)</samll>
           </td>
           <td class="tableCenter">
-            <img style="max-width:100%" src="./../../../assets/ob3/02.jpg" alt />
-            <p style="text-align:center">大廣絃（左）、月琴（右）（03/12）（微笑唸歌團提供）</p>
-          </td>
-        </tr>
-        <tr>
-          <td class="tableCenter">
-            <img style="max-width:100%" src="./../../../assets/ob3/03.jpg" alt />
-            <p style="text-align:center">大廣絃、電吉他、月琴（由左至右）（03/20）（黃玲玉提供）</p>
-          </td>
-          <td class="tableCenter">
-            <img style="max-width:100%" src="./../../../assets/ob3/04.jpg" alt />
-            <p style="text-align:center">大廣絃（後）、堂鼓（前）、月琴（右）（04/27）（微笑唸歌團提供）</p>
+            <img style="max-width:100%" src="./../../../assets/ob3/02.jpg" alt /><br>
+            <samll style="text-align:center">大廣絃（左）、月琴（右）（03/12）（微笑唸歌團提供）</samll>
           </td>
         </tr>
         <tr>
           <td class="tableCenter">
-            <img style="max-width:100%" src="./../../../assets/ob3/05.jpg" alt />
-            <p style="text-align:center">鑼、鈸（04/24）（微笑唸歌團提供）</p>
+            <img style="max-width:100%" src="./../../../assets/ob3/03.jpg" alt /><br>
+            <samll style="text-align:center">大廣絃、電吉他、月琴（由左至右）（03/20）（黃玲玉提供）</samll>
           </td>
           <td class="tableCenter">
-            <img style="max-width:100%" src="./../../../assets/ob3/06.jpg" alt />
-            <p style="text-align:center">電子琴（04/24）（微笑唸歌團提供）</p>
+            <img style="max-width:100%" src="./../../../assets/ob3/04.jpg" alt /><br>
+            <samll style="text-align:center">大廣絃（後）、堂鼓（前）、月琴（右）（04/27）（微笑唸歌團提供）</samll>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob3/05.jpg" alt /><br>
+            <samll style="text-align:center">鑼、鈸（04/24）（微笑唸歌團提供）</samll>
+          </td>
+          <td class="tableCenter">
+            <img style="max-width:100%" src="./../../../assets/ob3/06.jpg" alt /><br>
+            <samll style="text-align:center">電子琴（04/24）（微笑唸歌團提供）</samll>
           </td>
         </tr>
       </tbody>
@@ -11123,8 +11122,8 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唸歌仔早期傳統上有工商服務時間。如早期賣藥郎巡迴販藥，往往用唸歌仔來吸引大批民眾，當作行銷妙計；又如電臺時期，演出會在最精彩處中途停下來（如今之音樂會等演出之中場休息時間），利用觀眾期待後續的演出來賣藥（廣告時間），但現今幾乎已看不見。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019/03/20微笑唸歌團在彰化縣線西鄉寓埔村永安宮演出的「國家文化記憶庫下鄉巡演－彰化縣線西鄉」中，特別安排有工商服務時間，三位演出者特別示範早期唸歌賣藥的情形，但限於規定（文化場），不能賣藥，實際上賣的是唸歌仔之光碟與書籍。另2019/12/30在北投溫泉博物館錄影的《王祿仔大歌廳》，亦有工商服務時間：早期賣藥的內容。</p>
 
-    <img class="contentImg" src="./../../../assets/ob3/07.jpg" alt="商服務時間行銷光碟、書籍（03/20）" />
-    <small style="display:block;text-align:center;font-size:unset;">
+    <img class="contentImg spec" src="./../../../assets/ob3/07.jpg" alt="商服務時間行銷光碟、書籍（03/20）" />
+    <small style="display:block;text-align:center;">
       工商服務時間行銷光碟、書籍（03/20）
       <br />（由左至右：儲見智、陳美珠、林恬安）
       <br />（黃玲玉提供）
@@ -11178,13 +11177,13 @@
     </p>
     <hr>
     <p></p>
-    <small>
+    <small style="line-height:12px">
       <sup>1</sup>〈打拼的兄弟姊妹〉：鍾明昆採集、作詞。
     </small><br>
-    <small>
+    <small style="line-height:12px">
       <sup>2</sup>〈數魚栽〉：也稱〈算魚仔歌〉、〈數魚苗歌〉。有加法、湊五法兩種。
     </small><br>
-    <small>
+    <small style="line-height:12px">
       <sup>3</sup>「唱曲」是〈牛母伴〉別稱之一。是恆春最早出現的古老民謠，可能由排灣族古老曲調轉換而來，其尾音會上飄八度音程，可能與平常互相呼叫的習慣有關，因恆春落山風大，叫人時需先叫名再加八度尾音「呼」，否則會聽不到。「唱曲」是自我撫慰心靈，懷念至親、知己的無詞哀歌。此曲調無固定形式，唱者隨情緒思潮、真假變聲、高低長短之不同而各自發揮，唱到極悲痛時，音域達三個八度，變化莫測，扣人心絃。後此曲調被簡化成一段式，應用到女兒出嫁前夕的「惜別宴會」上，凡是親人、摯友等要向準新娘叮嚀的祝詞，或準新娘要向親朋戚友謝恩或表達對婚事的內心感受時，皆以此調對唱。
     </small><br>
     <small>
@@ -11266,3 +11265,17 @@
     <small>2.張炫文（1986）。臺灣的說唱音樂。臺灣省政府教育廳交響樂團發行。</small>-->
   </div>
 </template>
+<style lang="scss" scoped>
+img{
+  height:300px
+}
+@media (max-width: 576px) {
+  img{
+    height: 100px;
+  }
+  .spec{
+    height:auto !important;
+    width:80% !important;
+  }
+}
+</style>
