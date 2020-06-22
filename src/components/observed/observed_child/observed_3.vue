@@ -11266,13 +11266,13 @@
   </div>
 </template>
 <style lang="scss" scoped>
-img{
-  height:300px
-}
+// img{
+//   height:300px
+// }
 @media (max-width: 576px) {
-  img{
-    height: 100px;
-  }
+  // img{
+  //   height: 100px;
+  // }
   .spec{
     height:auto !important;
     width:80% !important;
