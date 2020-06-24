@@ -1,6 +1,9 @@
 @import './mixin';
 
 $image-path: 'assets';
+small{
+  font-size: 12px !important;
+}
 @media (max-width: 576px) {
   h1{
     font-size:1em ; //2
