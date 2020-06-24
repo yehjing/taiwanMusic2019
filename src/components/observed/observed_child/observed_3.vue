@@ -11125,8 +11125,12 @@
     <img class="contentImg spec" src="./../../../assets/ob3/07.jpg" alt="商服務時間行銷光碟、書籍（03/20）" />
     <small style="display:block;text-align:center;">
       工商服務時間行銷光碟、書籍（03/20）
-      <br />（由左至右：儲見智、陳美珠、林恬安）
-      <br />（黃玲玉提供）
+    </small>
+    <small style="display:block;text-align:center;">
+      （由左至右：儲見智、陳美珠、林恬安）
+    </small>
+    <small style="display:block;text-align:center;">
+      （黃玲玉提供）
     </small>
     <br />
 
