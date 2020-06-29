@@ -7,8 +7,9 @@
     <div class="searchIcon">
       <!-- <img src="./../assets/search.png" alt=""> -->
     </div>
+    <gcse:search></gcse:search>
     <!-- google 站內搜尋 -->
-    <div class="gcse-search"></div>
+    <!-- <div class="gcse-search"></div> -->
 
     <!-- <gcse:search></gcse:search> -->
     <!-- rwd menu start -->
