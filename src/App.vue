@@ -181,7 +181,7 @@ nav .router-link-active{
 }
 
 @media (max-width: 576px) {
-  .#___gcse_0 {
+  #___gcse_0 {
     width: 220px;
   }
   .gsc-search-button .gsc-search-button-v2{
