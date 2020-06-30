@@ -37,8 +37,8 @@
           <a href="https://www.ncfta.gov.tw/onlineobject_151_43.html">聯絡我們</a>
         </p>
         <br />
-        <span id="busuanzi_container_site_pv">
-          瀏覽人次 <span id="busuanzi_value_site_pv"></span>
+        <span id="busuanzi_container_site_uv">
+          瀏覽人次 <span id="busuanzi_value_site_uv"></span>
         </span>
         <!-- <p>瀏覽人次 {{today}}</p> -->
         <!-- <p>今日訪客：{{today}} 人 &nbsp;/&nbsp; 訪客總計：{{total}} 人 &nbsp;/&nbsp; 內容更新：108-05-11</p> -->
