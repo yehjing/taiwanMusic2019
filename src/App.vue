@@ -179,5 +179,15 @@ nav .router-link-active{
 #gs_st50{
   display: none;
 }
+
+@media (max-width: 576px) {
+  .#___gcse_0 {
+    width: 220px;
+  }
+  .gsc-search-button .gsc-search-button-v2{
+    padding: 0 10px;
+    margin-top: -8px;
+  }
+}
 @import "./assets/styles/app.scss";
 </style>
