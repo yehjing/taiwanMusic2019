@@ -1,5 +1,18 @@
 <template>
   <section class="searchBar">
+    <div class="webMenu">
+      <div @click="toggleYears = !toggleYears"  class="webYear">
+        <span>2019臺灣音樂年鑑</span>
+        <span>▾</span>
+      </div>
+      <div v-if="toggleYears" class="webYear" @click="toLastYear(2020)">
+        <span>2020臺灣音樂年鑑</span>
+      </div>
+      <div v-if="toggleYears" class="webYear" @click="toLastYear(2018)">
+        <span>2018臺灣音樂年鑑</span>
+      </div>
+    </div>
+
     <div @click="openMenu" class="burger">
       <img src="./../assets/burger.svg" alt="">
     </div>
@@ -16,11 +29,14 @@
     <div v-if="isOpen" class="burgerMenu">
       <div class="toggleYears">
         <div @click="toggleYears = !toggleYears" class="years">
-          <span>臺灣音樂年鑑2019</span>
+          <span>2019臺灣音樂年鑑</span>
           <span>▾</span>
         </div>
-        <div v-if="toggleYears" class="years" @click="toLastYear">
-          <span>臺灣音樂年鑑2018</span>
+        <div v-if="toggleYears" class="years" @click="toLastYear(2020)">
+          <span>2020臺灣音樂年鑑</span>
+        </div>
+        <div v-if="toggleYears" class="years" @click="toLastYear(2018)">
+          <span>2018臺灣音樂年鑑</span>
         </div>
       </div>
       <ul>
@@ -61,8 +77,8 @@ export default {
       html.classList.add('noscroll');
       body.classList.add('noscroll');
     },
-    toLastYear() {
-      document.location.href = 'https://taiwanmusicyearbook.ncfta.gov.tw/home';
+    toLastYear(year) {
+      document.location.href = `https://taiwanmusicyearbook.ncfta.gov.tw/${year}`;
     },
   },
 };
@@ -98,11 +114,34 @@ export default {
         cursor: pointer;
       }
     }
+    .webMenu{
+      display: block;
+      background: #000;
+      position: absolute;
+      top: 0;
+      left: 0;
+      color:#fff;
+      &:hover{
+        cursor: pointer;
+      }
+      .webYear{
+        display: block;
+        margin-left: 20px;
+        height: 50px;
+        line-height: 50px;
+      }
+    }
   }
   .burger,.burgerMenu{
     display: none;
   }
   @media (max-width: 576px) {
+    .webMenu{
+      display: none !important;
+      .webYear{
+        display: none !important;
+      }
+    }
     .burgerMenu{
       display: block;
     }
@@ -143,8 +182,9 @@ export default {
         .years{
           display: flex;
           justify-content: space-between;
-          &:nth-child(2){
-            margin-top: 20px;
+          margin-top: 20px;
+          &:first-child{
+            margin-top: 0;
           }
           // position: absolute;
         }
