@@ -2,11 +2,17 @@
   <section class="searchBar">
     <div class="webMenu">
       <div @click="toggleYears = !toggleYears"  class="webYear">
-        <span>2019臺灣音樂年鑑</span>
+        <span>歷年臺灣音樂年鑑</span>
         <span>▾</span>
+      </div>
+      <div v-if="toggleYears" class="webYear" @click="toLastYear(2021)">
+        <span>2021臺灣音樂年鑑</span>
       </div>
       <div v-if="toggleYears" class="webYear" @click="toLastYear(2020)">
         <span>2020臺灣音樂年鑑</span>
+      </div>
+      <div v-if="toggleYears" class="webYear" @click="toLastYear(2019)">
+        <span>2019臺灣音樂年鑑</span>
       </div>
       <div v-if="toggleYears" class="webYear" @click="toLastYear(2018)">
         <span>2018臺灣音樂年鑑</span>
@@ -29,11 +35,17 @@
     <div v-if="isOpen" class="burgerMenu">
       <div class="toggleYears">
         <div @click="toggleYears = !toggleYears" class="years">
-          <span>2019臺灣音樂年鑑</span>
+          <span>歷年臺灣音樂年鑑</span>
           <span>▾</span>
+        </div>
+        <div v-if="toggleYears" class="years" @click="toLastYear(2021)">
+          <span>2021臺灣音樂年鑑</span>
         </div>
         <div v-if="toggleYears" class="years" @click="toLastYear(2020)">
           <span>2020臺灣音樂年鑑</span>
+        </div>
+        <div v-if="toggleYears" class="years" @click="toLastYear(2019)">
+          <span>2019臺灣音樂年鑑</span>
         </div>
         <div v-if="toggleYears" class="years" @click="toLastYear(2018)">
           <span>2018臺灣音樂年鑑</span>
